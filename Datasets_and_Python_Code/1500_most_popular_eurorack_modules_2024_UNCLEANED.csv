@@ -1,0 +1,1501 @@
+,Name,Manufacturer,Functions,HP,Depth,+12V (mA),-12V (mA),+5V (mA),Price (€),Racks,Rating,Votes,Available,Approved
+0,Plaits,Mutable instruments,"['Noise', 'Oscillator', 'Synth Voice', 'Drum', 'Digital']",12,25.0,50.0,5.0,0.0,250.0,62584,4.57,352.0,Discontinued,0
+1,Pamela's NEW Workout,ALM Busy Circuits,"['Clock Generator', 'Digital', 'LFO', 'Clock Modulator', 'Random', 'Sequencer', 'Envelope Generator', 'Quantizer']",8,22.0,50.0,1.0,0.0,279.0,55808,4.75,382.0,Discontinued,0
+2,Morphagene,Make Noise,"['Sampling', 'Delay', 'Digital', 'Dual/Stereo', 'Envelope Follower', 'Looper']",20,30.0,165.0,20.0,0.0,569.0,49149,4.63,217.0,Available,1
+3,Maths,Make Noise,"['Attenuator', 'CV Modulation', 'Envelope Follower', 'Envelope Generator', 'Function Generator', 'LFO', 'Logic', 'Slew Limiter']",20,24.0,60.0,50.0,0.0,268.0,49099,4.75,562.0,,1
+4,Disting mk4,Expert Sleepers,"['Effect', 'Quantizer', 'Utility', 'LFO', 'Oscillator', 'Delay', 'Waveshaper', 'Sampling']",4,42.0,51.0,19.0,0.0,189.0,48139,4.48,265.0,Available,0
+5,Maths (white knobs),Make Noise,"['Attenuator', 'CV Modulation', 'Envelope Follower', 'Envelope Generator', 'Function Generator', 'LFO', 'Logic', 'Slew Limiter']",20,24.0,60.0,50.0,0.0,319.0,44616,4.69,176.0,Available,0
+6,Rings,Mutable instruments,"['External', 'Oscillator', 'Filter']",14,25.0,120.0,5.0,0.0,299.0,42339,4.67,309.0,Discontinued,1
+7,Quad VCA,Intellijel,"['Mixer', 'VCA', 'Quad']",12,29.0,65.0,65.0,0.0,189.0,41668,4.63,205.0,Available,1
+8,Mimeophon,Make Noise,"['Delay', 'Effect', 'Dual/Stereo', 'Digital', 'Looper', 'Reverb']",16,30.0,100.0,10.0,0.0,399.0,38971,4.52,165.0,Available,1
+9,Clouds,Mutable instruments,"['Effect', 'Delay', 'Digital', 'Pitch Shifter ', 'Sampling']",18,25.0,120.0,10.0,0.0,299.0,37024,4.44,334.0,Discontinued,1
+10,Beads,Mutable instruments,"['Delay', 'Digital', 'Dual/Stereo', 'Effect', 'Random', 'Reverb']",14,25.0,100.0,10.0,,299.0,35307,4.66,157.0,Discontinued,1
+11,ochd,DivKid,"['CV Modulation', 'LFO']",4,32.0,80.0,80.0,0.0,165.0,35139,4.75,165.0,Available,1
+12,Batumi,Xaoc Devices,"['Clock Generator', 'LFO', 'Quad', 'Random']",10,45.0,45.0,15.0,0.0,280.0,30954,4.71,263.0,Available,1
+13,Buff Mult,Intellijel,"['Multiple', 'Dual/Stereo', 'TrueGrid']",2,39.0,4.0,17.0,0.0,80.0,30756,4.5,113.0,Available,1
+14,Marbles,Mutable instruments,"['Sequencer', 'Clock Generator', 'Clock Modulator', 'Quantizer', 'Random', 'Digital']",18,25.0,80.0,20.0,0.0,299.0,27799,4.7,217.0,Discontinued,0
+15,uZeus,Tiptop Audio,['Power'],4,34.0,,,,80.0,27675,4.35,108.0,Available,1
+16,Richter Wogglebug 2014,Make Noise,"['Random', 'Clock Generator', 'Oscillator', 'Ring Modulator', 'Sample and Hold', 'Slew Limiter']",10,24.0,50.0,40.0,0.0,224.0,27312,4.41,167.0,,1
+17,Pressure Points,Make Noise,"['Controller', 'Sequencer']",20,24.0,20.0,0.0,0.0,195.0,25992,4.41,176.0,,1
+18,A-124 SE,Doepfer,['Filter'],8,45.0,30.0,10.0,0.0,85.0,24911,4.49,166.0,Available,0
+19,QPAS,Make Noise,"['Filter', 'VCA', 'Dual/Stereo', 'Quad']",18,30.0,166.0,190.0,0.0,341.0,24857,4.5,110.0,Available,1
+20,Pamela's PRO Workout,ALM Busy Circuits,"['Clock Generator', 'Clock Modulator', 'Function Generator', 'LFO', 'Sequencer', 'Digital', 'Quantizer', 'Random']",8,32.0,60.0,10.0,0.0,318.0,24232,4.89,92.0,Available,0
+21,Pico DSP,Erica Synths,"['Delay', 'Distortion', 'Effect', 'Panning', 'Reverb']",3,35.0,82.0,20.0,,120.0,24226,4.26,94.0,Available,1
+22,Stages,Mutable instruments,"['CV Modulation', 'Envelope Generator', 'LFO', 'Sample and Hold', 'Sequencer', 'Slew Limiter']",14,25.0,80.0,20.0,0.0,299.0,23675,4.58,160.0,Discontinued,0
+23,RackBrute 6UPower,Arturia,['Power'],5,80.0,,,,300.0,23129,4.5,48.0,Available,0
+24,Ears,Mutable instruments,"['Controller', 'Envelope Follower', 'External', 'PreAmp']",4,25.0,5.0,5.0,0.0,99.0,22667,4.59,123.0,Discontinued,0
+25,Zadar,Xaoc Devices,"['CV Modulation', 'Digital', 'Envelope Generator', 'Function Generator', 'LFO', 'Quad']",10,,90.0,40.0,,310.0,22404,4.53,128.0,Available,1
+26,Links,Mutable instruments,"['Multiple', 'Mixer']",4,20.0,15.0,15.0,0.0,69.0,21177,4.5,151.0,Discontinued,1
+27,A-140,Doepfer,"['Envelope Generator', 'TrueGrid']",8,50.0,20.0,20.0,0.0,74.0,20832,4.13,111.0,Available,0
+28,Moog Mother-32,Moog Music Inc.,"['Synth Voice', 'Clock Generator', 'MIDI', 'Sequencer']",60,26.0,230.0,0.0,0.0,540.0,20777,4.59,252.0,Available,0
+29,Basimilus Iteritas Alter (Black),Noise Engineering,"['Drum', 'Oscillator']",10,28.0,80.0,5.0,90.0,359.0,20602,4.65,84.0,Discontinued,1
+30,Dixie II+,Intellijel,"['LFO', 'Oscillator']",8,40.0,70.0,60.0,0.0,225.0,20306,4.61,116.0,Available,1
+31,disting EX,Expert Sleepers,"['Effect', 'MIDI', 'Sampling', 'Utility', 'Drum', 'Function Generator', 'Quantizer', 'Synth Voice']",8,50.0,229.0,50.0,0.0,398.0,19530,4.44,87.0,Available,0
+32,Plonk,Intellijel,"['Digital', 'Oscillator', 'Noise', 'Drum']",12,38.0,170.0,6.0,0.0,314.0,18915,4.43,99.0,Available,1
+33,Mixup,Intellijel,"['Mixer', 'Multiple', 'Utility', 'Dual/Stereo']",6,29.0,15.0,16.0,0.0,99.0,18828,4.61,67.0,Available,0
+34,Pico DRUMS,Erica Synths,"['Drum', 'Sampling']",3,35.0,35.0,4.0,0.0,120.0,18819,4.24,80.0,,1
+35,A-180-2 Multiples,Doepfer,"['Multiple', 'Utility', 'Dual/Stereo']",2,18.0,,,,35.0,18589,4.2,60.0,Available,0
+36,Magneto,Strymon,"['Delay', 'Dual/Stereo', 'Effect', 'Reverb', 'Sampling', 'Looper']",28,41.0,210.0,210.0,0.0,649.0,18045,4.68,92.0,Available,0
+37,Quadrax,Intellijel,"['Envelope Generator', 'Function Generator', 'Quad', 'LFO', 'Clock Generator', 'CV Modulation']",14,38.0,106.0,9.0,,332.0,17488,4.64,81.0,Available,1
+38,MATHS (black panel),Make Noise,"['Attenuator', 'CV Modulation', 'Envelope Follower', 'Envelope Generator', 'Function Generator', 'LFO', 'Logic', 'Slew Limiter']",20,24.0,60.0,50.0,0.0,325.0,17400,4.5,42.0,Available,0
+39,Basimilus Iteritas Alter,Noise Engineering,"['Drum', 'Oscillator', 'Digital']",10,28.0,80.0,5.0,90.0,359.0,17228,4.65,172.0,Discontinued,1
+40,Peaks,Mutable instruments,"['Drum', 'Envelope Generator', 'LFO', 'Delay', 'Sequencer', 'Dual/Stereo']",8,20.0,60.0,2.0,0.0,179.0,16921,4.48,213.0,Discontinued,1
+41,Ripples,Mutable instruments,"['Filter', 'VCA', 'Oscillator']",8,20.0,35.0,35.0,0.0,175.0,16861,4.47,149.0,Discontinued,1
+42,Optomix rev2 2016,Make Noise,"['Dual/Stereo', 'Filter', 'Low Pass Gate', 'Mixer', 'VCA', 'Envelope Generator']",8,24.0,25.0,25.0,0.0,199.0,16777,4.39,93.0,Available,0
+43,STO,Make Noise,['Oscillator'],8,30.0,40.0,30.0,0.0,179.0,16708,4.42,134.0,,1
+44,Veils (2020),Mutable instruments,"['Mixer', 'Quad', 'Utility', 'VCA']",10,10.0,50.0,50.0,0.0,179.0,16323,4.68,73.0,Discontinued,1
+45,THREE SISTERS,Mannequins,"['Filter', 'Mixer', 'Dual/Stereo', 'Equalizer', 'Oscillator']",10,30.0,100.0,93.0,0.0,298.0,16205,4.73,154.0,,1
+46,Rene,Make Noise,"['Sequencer', 'Logic']",34,24.0,80.0,0.0,0.0,560.0,15992,4.41,206.0,Discontinued,1
+47,Tempi,Make Noise,"['Clock Generator', 'Clock Modulator', 'Controller', 'Dual/Stereo']",10,24.0,46.0,0.0,0.0,242.0,15834,4.22,94.0,Available,1
+48,A-151,Doepfer,"['Switch', 'Quad']",4,35.0,20.0,10.0,0.0,60.0,15458,4.62,110.0,Available,0
+49,μVCA II,Intellijel,"['Attenuator', 'Dual/Stereo', 'VCA', 'Mixer']",6,35.0,36.0,35.0,0.0,169.0,15424,4.44,154.0,Available,0
+50,Data Bender,Qu-Bit Electronix,"['Digital', 'Distortion', 'Sampling', 'Dual/Stereo', 'Effect']",14,28.0,58.0,60.0,0.0,359.0,15396,4.5,62.0,Available,1
+51,DFAM - Drummer From Another Mother,Moog Music Inc.,"['Clock Generator', 'Drum', 'Noise', 'Oscillator', 'Sequencer', 'Synth Voice']",60,26.0,230.0,0.0,0.0,565.0,15254,4.65,124.0,Available,0
+52,Quadra,Intellijel,"['Envelope Generator', 'LFO', 'Quad', 'Function Generator']",12,38.0,98.0,53.0,0.0,275.0,14829,4.5,131.0,Available,1
+53,Veils,Mutable instruments,"['VCA', 'Mixer', 'Utility', 'Quad']",12,10.0,50.0,50.0,0.0,179.0,14605,4.54,110.0,Discontinued,1
+54,CP1-A,Behringer,['Power'],4,39.0,,,,65.0,14470,3.86,49.0,Available,0
+55,Metropolis,Intellijel,"['Sequencer', 'Clock Modulator', 'Random', 'Clock Generator']",34,45.0,195.0,8.0,0.0,599.0,14460,4.66,152.0,Discontinued,0
+56,arbhar,Instruō,"['Oscillator', 'Sampling', 'Effect', 'Delay', 'Digital', 'Dual/Stereo', 'Pitch Shifter ', 'Reverb']",18,42.0,250.0,30.0,0.0,660.0,14363,4.74,68.0,Available,0
+57,Optomix,Make Noise,"['Filter', 'Mixer', 'VCA', 'Low Pass Gate', 'Dual/Stereo']",8,24.0,25.0,25.0,0.0,195.0,14261,4.3,178.0,,1
+58,Braids (2015),Mutable instruments,"['Digital', 'Oscillator', 'Noise', 'Synth Voice']",16,20.0,100.0,15.0,0.0,349.0,14041,4.56,153.0,Discontinued,1
+59,OUT V3,Befaco,"['External', 'Utility']",4,35.0,24.0,26.0,0.0,120.0,13950,4.42,52.0,Available,1
+60,ES-9,Expert Sleepers,"['Clock Generator', 'Digital', 'Dual/Stereo', 'External', 'MIDI', 'Mixer']",16,50.0,451.0,133.0,0.0,559.0,13838,4.43,60.0,Available,0
+61,Brains,Make Noise,['Sequencer'],4,36.0,10.0,0.0,0.0,105.0,13802,4.31,94.0,Discontinued,1
+62,Tides,Mutable instruments,"['Clock Generator', 'Digital', 'Envelope Generator', 'Frequency Divider', 'Function Generator', 'LFO', 'Oscillator']",14,25.0,50.0,20.0,0.0,229.0,13668,4.67,88.0,Discontinued,1
+63,Dual ADSR,Intellijel,"['Dual/Stereo', 'Envelope Generator']",14,38.0,60.0,49.0,0.0,255.0,13626,4.57,128.0,Discontinued,1
+64,DPO,Make Noise,"['Dual/Stereo', 'Oscillator', 'Waveshaper', 'LFO']",28,30.0,70.0,70.0,0.0,556.0,13611,4.54,203.0,,1
+65,Planar 2,Intellijel,"['Controller', 'CV Modulation', 'Mixer', 'Panning', 'Envelope Generator']",14,40.0,85.0,32.0,0.0,305.0,13576,4.68,71.0,Available,1
+66,Erbe-Verb,Make Noise,"['Digital', 'Effect', 'Reverb']",20,30.0,149.0,15.0,0.0,452.0,13486,4.61,145.0,Available,1
+67,Rene Mk2,Make Noise,"['Controller', 'CV Modulation', 'Quantizer', 'Sequencer', 'Logic']",34,24.0,235.0,0.0,0.0,473.0,13426,4.4,55.0,Available,1
+68,A-138b,Doepfer,"['Mixer', 'Quad']",8,35.0,10.0,10.0,0.0,55.0,13280,3.64,101.0,Available,0
+69,SYSTEM 100 140 DUAL ENVELOPE/LFO,Behringer,"['Envelope Generator', 'LFO', 'Dual/Stereo']",16,44.0,40.0,40.0,0.0,88.0,13056,3.54,39.0,Available,0
+70,1hp Blank,Make Noise,['Blank Panel'],1,,,,,3.0,12892,4.18,28.0,,0
+71,Warps,Mutable instruments,"['Digital', 'Oscillator', 'Ring Modulator', 'VCA', 'Waveshaper', 'Effect']",10,,110.0,5.0,0.0,229.0,12788,4.23,121.0,Discontinued,1
+72,A-160-2,Doepfer,"['Clock Modulator', 'Frequency Divider']",4,35.0,50.0,0.0,0.0,100.0,12753,4.5,101.0,Available,0
+73,Scales,Intellijel,"['Digital', 'Quantizer', 'Sample and Hold', 'Sequencer']",8,39.0,35.0,5.0,,258.0,12719,4.52,42.0,Available,1
+74,Elements,Mutable instruments,"['Digital', 'Synth Voice']",34,25.0,130.0,10.0,0.0,529.0,12659,4.59,149.0,Discontinued,1
+75,Desmodus Versio,Noise Engineering,"['Digital', 'Reverb', 'Effect', 'Dual/Stereo']",10,28.0,70.0,70.0,0.0,354.0,12601,4.68,87.0,Available,1
+76,Ripples (2020),Mutable instruments,"['Filter', 'Oscillator', 'VCA']",8,25.0,35.0,35.0,0.0,169.0,12511,4.71,68.0,Discontinued,1
+77,Mult,Intellijel,"['Multiple', 'Dual/Stereo']",2,15.0,,,,27.0,12471,4.35,55.0,Available,1
+78,Mix,2hp,"['Attenuator', 'Mixer']",2,42.0,41.0,41.0,0.0,88.0,12244,3.89,36.0,Available,1
+79,MANGROVE,Mannequins,['Oscillator'],10,30.0,58.0,54.0,0.0,284.0,12086,4.67,128.0,,1
+80,Rainmaker,Intellijel,"['Delay', 'Effect', 'Digital', 'Dual/Stereo', 'Filter', 'Oscillator', 'Reverb', 'Clock Generator']",36,44.0,270.0,24.0,0.0,576.0,12081,4.71,95.0,,1
+81,Rotating Clock Divider V2,4ms Company,"['Clock Modulator', 'Frequency Divider']",4,35.0,33.0,4.0,0.0,179.0,11899,4.5,96.0,Available,0
+82,Kinks,Mutable instruments,"['Logic', 'Sample and Hold', 'Utility', 'Waveshaper', 'Noise']",4,12.0,25.0,25.0,0.0,99.0,11837,4.59,90.0,Discontinued,1
+83,Rosie,Make Noise,"['Mixer', 'Utility', 'External']",8,29.0,45.0,40.0,0.0,125.0,11792,4.04,85.0,Discontinued,1
+84,Metropolix,Intellijel,"['Clock Generator', 'Controller', 'CV Modulation', 'Digital', 'Envelope Generator', 'Function Generator', 'Sequencer']",34,25.0,95.0,10.0,,536.0,11720,4.77,71.0,Available,1
+85,A-124,Doepfer,['Filter'],8,45.0,30.0,10.0,0.0,85.0,11569,4.38,114.0,Available,0
+86,Voltage Block,Malekko Heavy Industry,"['CV Modulation', 'Quantizer', 'Sequencer', 'Digital']",20,20.0,120.0,15.0,0.0,418.0,11517,4.39,87.0,Discontinued,0
+87,A-119,Doepfer,"['External', 'Envelope Follower', 'PreAmp', 'Controller', 'Comparator']",8,45.0,30.0,20.0,0.0,65.0,11260,3.89,96.0,Available,0
+88,Belgrad,Xaoc Devices,"['Filter', 'Oscillator']",14,20.0,45.0,42.0,0.0,320.0,11166,4.75,126.0,Available,1
+89,921B,Behringer,['Oscillator'],8,42.0,45.0,45.0,0.0,95.0,11083,3.0,16.0,Available,0
+90,uZeus,Tiptop Audio,['Power'],4,34.0,,,,85.0,11070,4.34,118.0,Discontinued,1
+91,Clep Diaz,Noise Engineering,"['CV Modulation', 'LFO', 'Random', 'Sequencer']",4,26.0,44.0,10.0,0.0,169.0,11029,4.64,42.0,Available,1
+92,ES-8,Expert Sleepers,"['CV Modulation', 'Utility', 'External', 'Controller', 'MIDI']",8,50.0,198.0,52.0,0.0,435.0,10935,4.67,45.0,Available,0
+93,A-100B2,Doepfer,['Blank Panel'],2,,,,,3.0,10651,4.69,16.0,Available,0
+94,X-Pan,Make Noise,"['Dual/Stereo', 'Mixer', 'Panning', 'VCA']",10,30.0,145.0,110.0,,233.0,10614,4.68,28.0,Available,1
+95,C4RBN,WMD,"['Filter', 'Waveshaper', 'Distortion']",4,38.0,92.0,82.0,0.0,268.0,10492,4.73,52.0,Available,0
+96,LxD (Low Strike Duo),Make Noise,"['Filter', 'Low Pass Gate', 'Dual/Stereo', 'VCA']",4,36.0,20.0,20.0,0.0,99.0,10418,4.43,90.0,Available,1
+97,Grids,Mutable instruments,['Sequencer'],16,20.0,25.0,1.0,0.0,199.0,10361,4.18,117.0,Discontinued,1
+98,Function,Make Noise,"['Envelope Generator', 'LFO', 'Sample and Hold', 'Slew Limiter', 'Envelope Follower', 'Function Generator']",8,24.0,30.0,20.0,0.0,144.0,10358,4.46,114.0,,1
+99,Yarns,Mutable instruments,"['MIDI', 'Sequencer', 'Oscillator', 'Quad']",12,20.0,60.0,2.0,0.0,299.0,10239,4.43,100.0,Discontinued,1
+100,Dixie II,Intellijel,"['LFO', 'Oscillator']",6,37.0,42.0,37.0,0.0,235.0,10085,4.46,113.0,Discontinued,1
+101,Mult,Make Noise,"['Multiple', 'Logic']",4,20.0,,,,30.0,10063,3.98,46.0,,1
+102,Echophon,Make Noise,"['Delay', 'Pitch Shifter ', 'Effect']",20,30.0,70.0,40.0,0.0,368.0,10061,4.33,126.0,,1
+103,Buchla 258t,Tiptop Audio,"['Dual/Stereo', 'Oscillator']",18,45.0,70.0,40.0,0.0,198.0,9979,4.79,29.0,Available,0
+104,Tallin,Xaoc Devices,"['Distortion', 'Dual/Stereo', 'VCA']",6,33.0,20.0,20.0,,160.0,9918,4.65,60.0,Available,1
+105,Bitbox Micro,1010 Music,"['Sampling', 'Drum', 'Clock Generator', 'Controller', 'Digital', 'Dual/Stereo', 'MIDI']",18,32.0,400.0,0.0,0.0,449.0,9913,4.39,46.0,Available,0
+106,A-132-3,Doepfer,"['VCA', 'Dual/Stereo', 'TrueGrid']",8,50.0,30.0,30.0,0.0,100.0,9822,4.1,70.0,Available,0
+107,A-160-1,Doepfer,['Clock Modulator'],4,40.0,40.0,0.0,0.0,70.0,9818,3.96,72.0,Available,0
+108,arbhar expander,Instruō,['Expander'],2,,,,,,9772,4.94,17.0,Available,0
+109,Ikarie,Bastl Instruments,"['Envelope Follower', 'Filter', 'Dual/Stereo', 'VCA']",8,35.0,100.0,95.0,0.0,240.0,9765,4.74,47.0,Available,0
+110,Filter 8,Joranalogue Audio Design,['Filter'],12,30.0,75.0,75.0,0.0,325.0,9750,4.68,102.0,Available,1
+111,Rampage,Befaco,"['CV Modulation', 'Envelope Generator', 'Function Generator', 'Envelope Follower', 'Slew Limiter', 'Dual/Stereo', 'Comparator', 'LFO']",18,30.0,110.0,90.0,0.0,260.0,9746,4.63,115.0,,1
+112,Unity Mixer,Intellijel,"['Mixer', 'Dual/Stereo']",2,29.0,11.0,14.0,0.0,75.0,9733,4.4,52.0,Available,1
+113,A-148,Doepfer,"['CV Modulation', 'Sample and Hold', 'Dual/Stereo']",4,30.0,20.0,20.0,0.0,65.0,9722,4.17,64.0,Available,0
+114,QCD: Quad Clock Distributor,4ms Company,"['Clock Generator', 'Clock Modulator', 'CV Modulation', 'Frequency Divider', 'Quad', 'Utility']",10,26.0,48.0,40.0,41.0,249.0,9667,4.53,78.0,Available,0
+115,Polaris,Intellijel,"['Distortion', 'Filter', 'Phase Shifter']",10,40.0,60.0,56.0,0.0,204.0,9639,4.48,71.0,,1
+116,Atlantis,Intellijel,"['Synth Voice', 'Envelope Generator', 'Filter', 'LFO', 'Noise', 'Oscillator']",40,38.0,214.0,196.0,0.0,679.0,9636,4.49,100.0,Available,1
+117,FX AID_black,Happy Nerding,"['Delay', 'Digital', 'Distortion', 'Effect', 'Pitch Shifter ', 'Reverb', 'Dual/Stereo']",4,45.0,80.0,30.0,0.0,199.0,9614,4.49,37.0,Available,0
+118,Brains,Behringer,"['Digital', 'Drum', 'Dual/Stereo', 'Oscillator', 'Synth Voice']",16,45.0,130.0,10.0,0.0,129.0,9609,1.69,206.0,Available,0
+119,ONE,Tiptop Audio,"['Sampling', 'Digital', 'Drum', 'CV Modulation']",4,43.0,80.0,8.0,0.0,158.0,9566,4.05,55.0,Available,1
+120,Shapeshifter,Intellijel,"['Oscillator', 'Dual/Stereo', 'Digital', 'LFO', 'Waveshaper', 'Synth Voice']",26,44.0,195.0,50.0,0.0,549.0,9526,4.59,128.0,Available,1
+121,Poti,Xaoc Devices,['Expander'],3,20.0,,,,45.0,9516,4.25,52.0,Available,1
+122,A-106-5 SEM,Doepfer,['Filter'],8,55.0,20.0,20.0,0.0,80.0,9511,4.3,90.0,Available,0
+123,μScale [v2],Intellijel,['Quantizer'],6,24.0,60.0,7.0,0.0,245.0,9426,4.19,94.0,Discontinued,0
+124,ROW POWER 40,4ms Company,['Power'],4,28.0,,,,125.0,9404,4.57,44.0,Available,0
+125,Mimetic Digitalis (Black),Noise Engineering,"['CV Modulation', 'Random', 'Sequencer']",10,26.0,58.0,22.0,0.0,314.0,9395,4.58,33.0,Available,1
+126,modDemix 2014,Make Noise,"['Dual/Stereo', 'Mixer', 'Ring Modulator', 'VCA']",6,24.0,30.0,30.0,0.0,130.0,9382,4.0,71.0,,1
+127,A-180-1,Doepfer,['Multiple'],4,10.0,,,,35.0,9370,3.69,35.0,Available,0
+128,Mult,2hp,['Multiple'],2,15.0,,,,31.0,9356,3.94,18.0,Available,1
+129,DATA (BLACK),Mordax,"['Clock Generator', 'Clock Modulator', 'Dual/Stereo', 'LFO', 'Oscillator', 'Quad', 'Tuner', 'Utility']",16,35.0,250.0,60.0,,356.0,9285,4.57,49.0,Available,1
+130,A-100B1,Doepfer,['Blank Panel'],1,,,,,3.0,9279,4.62,16.0,Available,0
+131,Tangle Quartet,ALM Busy Circuits,"['Quad', 'VCA', 'Mixer', 'Attenuator']",8,32.0,80.0,80.0,0.0,198.0,9261,4.43,42.0,Available,0
+132,Z3000 Smart VCO MKII,Tiptop Audio,"['Oscillator', 'Utility', 'LFO', 'Waveshaper', 'TrueGrid']",14,26.0,50.0,25.0,0.0,250.0,9251,4.3,132.0,Available,1
+133,A-110,Doepfer,['Oscillator'],10,55.0,90.0,20.0,0.0,150.0,9239,4.03,69.0,Available,0
+134,A-145,Doepfer,"['LFO', 'Clock Generator']",8,55.0,30.0,20.0,0.0,65.0,9198,3.87,71.0,Available,0
+135,A-118-1,Doepfer,"['Noise', 'Random']",8,40.0,20.0,10.0,0.0,75.0,9028,3.81,80.0,Available,0
+136,Stmix,Befaco,"['Mixer', 'Dual/Stereo']",6,30.0,8.0,10.0,0.0,149.0,8985,4.19,31.0,Available,1
+137,A-180-9,Doepfer,['Utility'],4,25.0,,,,120.0,8949,4.57,14.0,Available,0
+138,A-135-2 Quad VCA / VC Mixer,Doepfer,"['Mixer', 'Quad', 'VCA']",8,45.0,40.0,40.0,0.0,129.0,8846,4.59,29.0,Available,0
+139,"MiniMod Vintage Transistor Core VCO ""Dark Edition""",AJH Synth,['Oscillator'],14,38.0,55.0,40.0,0.0,369.0,8806,4.65,34.0,Available,0
+140,Mutes,DivKid,"['Controller', 'Expander', 'Expression', 'Multiple', 'Quad', 'Utility']",4,32.0,50.0,,,125.0,8790,4.41,41.0,Available,1
+141,Dual Looping Delay,4ms Company,"['Delay', 'Dual/Stereo', 'Effect']",20,25.0,180.0,48.0,,429.0,8782,4.56,78.0,Available,1
+142,StarLab,Strymon,"['Digital', 'Dual/Stereo', 'Effect', 'Reverb', 'Synth Voice', 'Delay']",28,41.0,210.0,210.0,0.0,669.0,8779,4.72,40.0,Available,0
+143,Sample Drum,Erica Synths,"['Drum', 'Sampling']",14,25.0,65.0,2.0,0.0,358.0,8760,4.69,35.0,Available,0
+144,Mix (Black Panel),2hp,"['Mixer', 'Attenuator']",2,42.0,41.0,41.0,0.0,89.0,8740,3.91,23.0,Available,1
+145,Bloom,Qu-Bit Electronix,"['Clock Generator', 'Dual/Stereo', 'Random', 'Sequencer']",16,,82.0,0.0,0.0,359.0,8739,4.18,49.0,Available,1
+146,MFX,ALM Busy Circuits,"['Delay', 'Digital', 'Distortion', 'Dual/Stereo', 'Dynamics', 'Effect', 'Utility', 'Reverb']",6,32.0,50.0,15.0,0.0,298.0,8678,4.54,26.0,Available,0
+147,FH-2 'factotum',Expert Sleepers,"['Clock Generator', 'MIDI', 'Envelope Generator', 'Clock Modulator', 'CV Modulation', 'Noise', 'Random', 'Sequencer']",8,48.0,118.0,48.0,0.0,335.0,8552,4.57,46.0,Available,0
+148,SYSTEM 100 112 DUAL VCO,Behringer,"['Dual/Stereo', 'Oscillator']",16,46.0,90.0,70.0,0.0,108.0,8550,3.32,22.0,Available,0
+149,Forbidden Planet,Tiptop Audio,"['CV Modulation', 'Effect', 'Filter']",8,30.0,10.0,10.0,,105.0,8549,4.42,33.0,Available,1
+150,VCA,2hp,"['Dual/Stereo', 'VCA', 'Attenuator']",2,42.0,21.0,26.0,0.0,89.0,8492,3.71,21.0,Available,1
+151,RND STEP,DivKid,"['CV Modulation', 'Noise', 'Random', 'Sample and Hold']",4,44.0,67.0,67.0,0.0,184.0,8485,4.68,37.0,Available,1
+152,Contour 1,Joranalogue Audio Design,"['Function Generator', 'Slew Limiter']",8,30.0,90.0,85.0,0.0,215.0,8471,4.72,60.0,Available,1
+153,902,Behringer,['VCA'],8,35.0,50.0,45.0,0.0,52.0,8467,3.31,16.0,Available,0
+154,Branches,Mutable instruments,"['Random', 'Dual/Stereo']",6,20.0,25.0,1.0,0.0,107.0,8455,4.38,61.0,Discontinued,1
+155,Tetrapad,Intellijel,['Controller'],20,19.0,130.0,15.0,0.0,269.0,8348,4.52,54.0,Available,1
+156,Harmonic Oscillator,Verbos Electronics,['Oscillator'],32,26.0,120.0,90.0,0.0,699.0,8308,4.67,87.0,Available,0
+157,HPO,ALM Busy Circuits,"['External', 'Dual/Stereo']",2,38.0,5.0,5.0,0.0,85.0,8295,4.57,30.0,Available,0
+158,A-130-2,Doepfer,"['Dual/Stereo', 'VCA']",4,45.0,30.0,30.0,0.0,85.0,8251,4.46,26.0,Available,0
+159,Assimil8or,Rossum Electro-Music,"['Sampling', 'CV Modulation', 'Digital', 'Drum', 'Dual/Stereo', 'Multiple', 'LFO']",28,25.0,220.0,30.0,0.0,1.119,8246,4.68,63.0,Available,0
+160,System 100 121 Dual VCF,Behringer,"['Filter', 'Dual/Stereo', 'Mixer']",16,39.0,40.0,40.0,0.0,95.0,8190,3.75,28.0,Available,0
+161,A-138a,Doepfer,"['Mixer', 'Quad']",8,35.0,10.0,10.0,0.0,55.0,8186,4.04,47.0,Available,0
+162,911,Behringer,['Envelope Generator'],8,35.0,30.0,30.0,0.0,68.0,8048,2.0,7.0,Available,0
+163,SYSTEM 100 150 RING MOD/NOISE/ S&H/LFO,Behringer,"['LFO', 'Random', 'Ring Modulator', 'Sample and Hold', 'Clock Modulator', 'Noise']",16,44.0,60.0,50.0,0.0,59.0,7989,3.45,31.0,Available,0
+164,Lúbadh,Instruō,"['Sampling', 'Dual/Stereo', 'Distortion', 'Delay', 'Digital', 'Effect', 'Looper']",20,42.0,250.0,100.0,0.0,688.0,7971,4.79,29.0,Available,0
+165,Shades,Mutable instruments,"['Mixer', 'Attenuator', 'Polarizer']",6,20.0,15.0,15.0,0.0,99.0,7953,4.48,83.0,Discontinued,1
+166,FX AID XL_black,Happy Nerding,"['Delay', 'Digital', 'Distortion', 'Effect', 'Pitch Shifter ', 'Reverb', 'Filter', 'Dual/Stereo']",6,45.0,80.0,30.0,0.0,245.0,7952,4.64,33.0,Available,0
+167,Piston Honda MK III,Industrial Music Electronics,"['Dual/Stereo', 'Oscillator', 'Waveshaper', 'Digital']",17,40.0,145.0,45.0,0.0,505.0,7942,4.7,81.0,Available,0
+168,COLD MAC,Mannequins,"['Logic', 'Utility', 'Envelope Follower', 'Mixer', 'Panning', 'VCA']",8,30.0,65.0,62.0,0.0,200.0,7896,4.68,56.0,,1
+169,XOH,Make Noise,"['External', 'Mixer']",6,24.0,40.0,40.0,0.0,99.0,7852,4.79,29.0,Available,1
+170,MMG,Make Noise,"['Filter', 'Low Pass Gate', 'VCA']",12,24.0,45.0,40.0,0.0,227.0,7841,4.34,106.0,Discontinued,1
+171,A-199,Doepfer,"['Effect', 'Reverb']",8,50.0,80.0,10.0,0.0,120.0,7841,4.3,67.0,Available,0
+172,A-138s,Doepfer,"['Mixer', 'Panning', 'Dual/Stereo', 'Quad']",8,30.0,10.0,10.0,0.0,75.0,7825,4.5,46.0,Available,0
+173,Squid Salmple,ALM Busy Circuits,"['Sampling', 'Drum']",21,38.0,300.0,35.0,,548.0,7783,4.73,44.0,Available,0
+174,Spectral Multiband Resonant Filter,4ms Company,"['Filter', 'Envelope Follower', 'Digital', 'Oscillator', 'Dual/Stereo']",26,24.0,110.0,28.0,0.0,499.0,7781,4.16,97.0,Available,1
+175,VCA (Black Panel),2hp,"['VCA', 'Attenuator', 'Dual/Stereo']",2,42.0,21.0,26.0,0.0,89.0,7757,4.15,20.0,Available,1
+176,A-131,Doepfer,['VCA'],8,45.0,20.0,10.0,0.0,70.0,7701,3.74,38.0,Available,0
+177,FX AID,Happy Nerding,"['Delay', 'Digital', 'Distortion', 'Effect', 'Pitch Shifter ', 'Reverb']",4,40.0,80.0,30.0,,199.0,7631,4.56,36.0,Available,0
+178,Pip Slope (mk II),ALM Busy Circuits,"['Envelope Generator', 'Function Generator', 'LFO']",4,38.0,30.0,10.0,0.0,128.0,7610,4.43,21.0,Available,1
+179,SYSTEM 100 182 ANALOG SEQUENCER,Behringer,['Sequencer'],16,43.0,30.0,30.0,0.0,89.0,7496,3.44,25.0,Available,0
+180,Audio Interface II,Intellijel,"['Attenuator', 'External', 'Utility']",10,44.0,120.0,50.0,0.0,285.0,7494,4.61,51.0,Discontinued,1
+181,Blinds,Mutable instruments,"['Mixer', 'Ring Modulator', 'Utility', 'VCA', 'Quad', 'Polarizer', 'Attenuator']",12,10.0,90.0,90.0,0.0,169.0,7494,4.45,47.0,Discontinued,1
+182,Black Wavetable VCO,Erica Synths,['Oscillator'],12,25.0,45.0,20.0,0.0,280.0,7487,4.43,46.0,Discontinued,1
+183,Pingable Envelope Generator,4ms Company,"['Dual/Stereo', 'Envelope Generator', 'Clock Generator', 'Clock Modulator', 'LFO', 'Function Generator']",20,26.0,105.0,35.0,0.0,311.0,7477,4.4,111.0,Available,1
+184,BD808,Tiptop Audio,['Drum'],4,14.0,13.0,6.0,0.0,99.0,7468,3.92,61.0,Available,1
+185,Nautilus,Qu-Bit Electronix,"['Delay', 'Digital', 'Dual/Stereo', 'Effect']",14,22.0,151.0,15.0,0.0,359.0,7452,4.7,33.0,Available,1
+186,Chainsaw,Acid Rain Technology,"['Digital', 'Dual/Stereo', 'Oscillator']",4,35.0,110.0,10.0,0.0,242.0,7417,4.72,32.0,Available,1
+187,Rample,Squarp Instruments,"['Sampling', 'Drum', 'MIDI']",14,25.0,190.0,40.0,0.0,384.0,7393,4.42,36.0,Available,0
+188,MSCL (Black Panel),WMD,"['Dual/Stereo', 'Dynamics', 'Effect']",4,39.0,50.0,50.0,0.0,251.0,7381,4.69,26.0,Available,0
+189,321,Frap Tools,"['Attenuator', 'CV Modulation', 'Mixer', 'Polarizer', 'Utility']",6,38.0,48.0,48.0,0.0,85.0,7370,4.68,65.0,Available,1
+190,Tides (2014 version),Mutable instruments,"['Envelope Generator', 'Clock Generator', 'Digital', 'Frequency Divider', 'Function Generator', 'LFO', 'Oscillator']",14,20.0,55.0,5.0,0.0,229.0,7366,4.41,120.0,Discontinued,1
+191,SYSTEM 100 130 DUAL VCA,Behringer,"['VCA', 'Dual/Stereo', 'Mixer']",16,44.0,30.0,20.0,0.0,74.0,7362,3.5,16.0,Available,0
+192,Link 2,Joranalogue Audio Design,['Multiple'],2,40.0,20.0,20.0,0.0,80.0,7338,4.74,19.0,Available,1
+193,A-138n,Doepfer,"['Mixer', 'Quad']",4,30.0,10.0,10.0,0.0,50.0,7299,4.35,20.0,Available,0
+194,Euclidean Circles v2,vpme.de,"['Sequencer', 'Frequency Divider', 'Random', 'Utility']",10,25.0,0.0,0.0,70.0,265.0,7298,4.76,62.0,Available,1
+195,Buchla 281t,Tiptop Audio,"['Envelope Generator', 'Logic', 'Quad', 'Function Generator', 'LFO']",28,33.0,160.0,55.0,0.0,209.0,7294,4.73,22.0,Available,0
+196,Ensemble Oscillator,4ms Company,"['Digital', 'Oscillator']",16,25.0,114.0,45.0,0.0,328.0,7291,4.53,58.0,Available,0
+197,Maestro,Acid Rain Technology,"['Clock Generator', 'Clock Modulator', 'Controller', 'CV Modulation', 'Envelope Generator', 'LFO', 'Random', 'Sequencer']",20,25.0,65.0,18.0,0.0,369.0,7245,4.72,36.0,Available,1
+198,Braids (old version),Mutable instruments,"['Oscillator', 'Digital', 'Drum']",16,20.0,15.0,15.0,85.0,349.0,7233,4.56,165.0,Discontinued,1
+199,Cs-L,Instruō,"['LFO', 'Oscillator', 'Ring Modulator', 'Waveshaper', 'VCA']",26,42.0,200.0,80.0,,510.0,7232,4.66,64.0,Available,1
+200,Pico OUT,Erica Synths,"['External', 'Utility']",3,35.0,20.0,7.0,0.0,80.0,7211,4.29,24.0,,1
+201,O/A/x2,ALM Busy Circuits,"['Attenuator', 'Dual/Stereo', 'Mixer', 'Polarizer', 'Utility']",4,32.0,50.0,50.0,,95.0,7210,4.24,29.0,Available,0
+202,A-100B4,Doepfer,['Blank Panel'],4,,,,,3.0,7209,4.36,11.0,Available,0
+203,Harmonaig,Instruō,"['Quantizer', 'Controller', 'Quad']",18,27.0,130.0,25.0,,300.0,7179,4.52,44.0,Available,1
+204,SYSTEM 100 110 VCO/VCF/VCA,Behringer,"['Filter', 'Oscillator', 'Synth Voice', 'VCA']",16,46.0,80.0,50.0,0.0,97.0,7125,3.56,25.0,Available,0
+205,VOLTERA,WMD,"['Expander', 'Sequencer']",4,45.0,60.0,15.0,0.0,268.0,7114,4.5,6.0,Available,0
+206,Steppy,Intellijel,"['Clock Modulator', 'Digital', 'Quad', 'Sequencer']",8,25.0,15.0,0.0,0.0,213.0,7102,4.67,36.0,Available,1
+207,Disting mk3,Expert Sleepers,"['Delay', 'Effect', 'LFO', 'Oscillator', 'Quantizer', 'Sample and Hold', 'Utility', 'Waveshaper']",4,42.0,50.0,20.0,0.0,190.0,7084,4.27,96.0,Discontinued,0
+208,Varigate 4+,Malekko Heavy Industry,['Sequencer'],12,26.0,90.0,13.0,0.0,312.0,7007,4.31,39.0,Discontinued,0
+209,µMIDI,Intellijel,"['Clock Generator', 'MIDI']",6,40.0,47.0,3.0,0.0,204.0,6990,4.49,41.0,,1
+210,μFold II/uFold II,Intellijel,['Waveshaper'],6,29.0,28.0,27.0,0.0,159.0,6986,4.28,89.0,Discontinued,0
+211,A-185-2,Doepfer,"['Multiple', 'Attenuator', 'Mixer', 'Utility', 'Controller', 'Switch']",6,50.0,10.0,10.0,0.0,75.0,6982,4.41,58.0,Available,0
+212,3x MIA,Happy Nerding,"['Attenuator', 'Mixer', 'Polarizer', 'Utility', 'Multiple']",6,35.0,80.0,80.0,0.0,99.0,6943,4.69,55.0,Available,0
+213,A-182-1,Doepfer,"['Multiple', 'Switch']",6,20.0,,,,54.0,6941,4.14,35.0,Available,0
+214,MCO,ALM Busy Circuits,"['Digital', 'Noise', 'Oscillator']",6,32.0,40.0,15.0,,178.0,6923,4.38,21.0,Available,0
+215,Mix,Manhattan Analog,"['Mixer', 'TrueGrid']",4,33.0,13.0,13.0,0.0,99.0,6906,4.35,57.0,Available,0
+216,Lapsus Os (Black),Noise Engineering,"['Attenuator', 'Controller', 'Multiple', 'Utility']",10,26.0,60.0,50.0,0.0,234.0,6906,4.74,19.0,Available,1
+217,CP3A-M Mixer,Behringer,"['CV Modulation', 'Mixer', 'Multiple']",14,35.0,30.0,30.0,0.0,59.0,6886,3.5,14.0,Available,0
+218,Milky Way (black),Endorphin.es,"['Dual/Stereo', 'Effect', 'VCA', 'Delay', 'Digital', 'Distortion', 'Panning', 'Reverb']",6,26.0,120.0,15.0,0.0,199.0,6852,3.57,30.0,Available,1
+219,Black Hole DSP2,Erica Synths,"['CV Modulation', 'Delay', 'Digital', 'Distortion', 'Dual/Stereo', 'Effect', 'Pitch Shifter ', 'Reverb']",16,35.0,170.0,56.0,0.0,309.0,6826,4.0,28.0,Available,1
+220,A-180-3,Doepfer,"['Multiple', 'Dual/Stereo']",4,20.0,20.0,20.0,0.0,49.0,6805,4.29,34.0,Available,0
+221,A-100B8,Doepfer,['Blank Panel'],8,,,,,4.0,6790,4.67,9.0,Available,0
+222,A-110-1,Doepfer,['Oscillator'],10,55.0,90.0,20.0,0.0,155.0,6750,4.15,34.0,Available,0
+223,Akemie's Taiko,ALM Busy Circuits,"['Drum', 'Synth Voice', 'Digital']",18,32.0,70.0,30.0,,338.0,6747,4.44,45.0,Available,0
+224,A-120,Doepfer,"['Filter', 'TrueGrid']",8,50.0,30.0,20.0,0.0,109.0,6692,3.96,46.0,Available,0
+225,Pexp-1,ALM Busy Circuits,"['Expander', 'Digital']",4,38.0,25.0,0.0,0.0,105.0,6674,4.56,16.0,Available,0
+226,A-100B2v,Doepfer,['Blank Panel'],2,,,,,3.0,6670,4.5,4.0,Available,0
+227,A-156,Doepfer,"['Dual/Stereo', 'Quantizer']",8,55.0,50.0,10.0,0.0,115.0,6635,3.98,65.0,Available,0
+228,Mutant Brain,Hexinverter Électronique,"['Clock Generator', 'CV Modulation', 'MIDI', 'Utility']",8,38.0,19.0,4.0,0.0,151.0,6628,4.56,39.0,Available,1
+229,A-140-2,Doepfer,"['Dual/Stereo', 'Envelope Generator']",8,40.0,50.0,40.0,0.0,140.0,6623,4.6,25.0,Available,0
+230,Verb,2hp,"['Dual/Stereo', 'Effect', 'Reverb']",2,42.0,81.0,28.0,0.0,134.0,6609,3.79,39.0,Available,1
+231,Odessa,Xaoc Devices,"['Oscillator', 'Synth Voice']",24,32.0,110.0,80.0,0.0,490.0,6553,4.72,50.0,,1
+232,Fold 6,Joranalogue Audio Design,['Waveshaper'],4,35.0,40.0,40.0,0.0,175.0,6547,4.68,38.0,Available,1
+233,A-180-2v,Doepfer,"['Multiple', 'Dual/Stereo']",2,,,,,39.0,6499,4.48,23.0,Available,0
+234,Eloquencer,Winter Modular,['Sequencer'],38,35.0,170.0,50.0,0.0,550.0,6489,4.48,61.0,Available,1
+235,Pico INPUT,Erica Synths,"['External', 'Utility']",3,35.0,18.0,8.0,0.0,60.0,6484,4.23,26.0,,1
+236,Loquelic Iteritas,Noise Engineering,"['Oscillator', 'Digital']",10,28.0,80.0,5.0,90.0,359.0,6466,4.55,84.0,Available,1
+237,Telharmonic,Make Noise,"['Oscillator', 'Digital', 'Synth Voice', 'Noise']",14,30.0,139.0,10.0,0.0,314.0,6464,4.37,92.0,Discontinued,1
+238,HATS909,Tiptop Audio,['Drum'],8,36.0,33.0,22.0,0.0,190.0,6421,4.17,30.0,Available,1
+239,Dual Dagger,Shakmat,"['Filter', 'Dual/Stereo']",6,29.0,65.0,80.0,,249.0,6410,4.69,48.0,Available,1
+240,Dual FX,Erica Synths,"['Effect', 'Dual/Stereo']",10,45.0,118.0,61.0,0.0,260.0,6388,4.21,19.0,,1
+241,Mult (Black Panel),2hp,['Multiple'],2,15.0,,,,31.0,6378,3.62,8.0,Available,1
+242,LS1lightstrip,Soundmachines,['Controller'],4,32.0,100.0,7.0,0.0,80.0,6374,4.45,38.0,Available,0
+243,A-145-4,Doepfer,"['LFO', 'Quad', 'Clock Generator']",4,30.0,30.0,30.0,0.0,80.0,6319,4.5,34.0,Available,0
+244,JUST FRIENDS,Mannequins,"['Function Generator', 'Utility', 'Envelope Generator', 'LFO', 'Oscillator', 'Waveshaper']",14,30.0,153.0,34.0,0.0,420.0,6281,4.71,76.0,,1
+245,QD - Quad Drum Voice,vpme.de,"['Quad', 'Drum', 'Sampling']",22,20.0,120.0,10.0,0.0,360.0,6225,4.72,58.0,Available,1
+246,Complex Oscillator,Verbos Electronics,"['Oscillator', 'Dual/Stereo', 'Waveshaper']",32,26.0,70.0,50.0,0.0,649.0,6202,4.58,62.0,Available,0
+247,921,Behringer,"['LFO', 'Oscillator']",14,45.0,50.0,50.0,0.0,111.0,6199,3.55,29.0,Available,0
+248,Drum2,Erica Synths,['Drum'],3,35.0,28.0,5.0,,120.0,6166,4.28,18.0,,1
+249,Outs,Intellijel,"['Attenuator', 'Dual/Stereo', 'External', 'Utility']",6,35.0,37.0,29.0,,133.0,6164,4.71,28.0,Available,1
+250,SEQUENTIAL CONTROLLER 960,Behringer,"['Clock Generator', 'Controller', 'Sequencer']",56,47.0,100.0,50.0,0.0,149.0,6162,3.63,30.0,Available,0
+251,Nin,Xaoc Devices,['Expander'],3,20.0,,,,55.0,6126,4.63,19.0,Available,1
+252,Nebulae v2,Qu-Bit Electronix,"['Sampling', 'Digital', 'Dual/Stereo', 'Looper']",20,,318.0,7.0,,450.0,6079,4.42,57.0,Available,1
+253,Beast's Chalkboard,ALM Busy Circuits,"['Utility', 'Multiple']",6,22.0,30.0,30.0,0.0,129.0,6074,4.05,41.0,Available,0
+254,Oscillator,Pittsburgh Modular,"['Oscillator', 'LFO', 'TrueGrid']",8,35.0,30.0,30.0,0.0,225.0,6066,4.09,45.0,Discontinued,0
+255,Phonogene,Make Noise,['Sampling'],20,30.0,70.0,40.0,0.0,500.0,6065,4.38,93.0,Discontinued,1
+256,Blades,Mutable instruments,"['Distortion', 'Dual/Stereo', 'Filter', 'Oscillator', 'Waveshaper']",18,25.0,150.0,140.0,,299.0,6054,4.71,42.0,Discontinued,1
+257,A-138m,Doepfer,"['Attenuator', 'Mixer', 'Quad']",20,20.0,30.0,30.0,0.0,140.0,6008,4.47,45.0,Available,0
+258,Generate 3,Joranalogue Audio Design,['Oscillator'],12,30.0,130.0,115.0,0.0,385.0,5991,4.69,70.0,Available,1
+259,ES-3 mk4,Expert Sleepers,"['Controller', 'External']",8,50.0,148.0,18.0,0.0,199.0,5986,4.75,28.0,Available,0
+260,SD808,Tiptop Audio,['Drum'],4,36.0,18.0,16.0,0.0,125.0,5972,3.63,41.0,Available,1
+261,SYSTEM 100 305 EQ/MIXER/OUTPUT,Behringer,"['Equalizer', 'Mixer', 'Panning', 'Tuner', 'External']",24,53.0,120.0,100.0,0.0,86.0,5971,2.84,19.0,Available,0
+262,Frames,Mutable instruments,"['Attenuator', 'CV Modulation', 'Mixer', 'VCA', 'Panning', 'Quad', 'Sequencer']",18,20.0,90.0,30.0,0.0,299.0,5967,4.27,73.0,Discontinued,1
+263,Bitbox 2.0,1010 Music,['Sampling'],26,25.0,350.0,0.0,0.0,535.0,5957,4.41,41.0,Available,1
+264,Viol Ruina,Noise Engineering,"['Distortion', 'Envelope Follower', 'Filter']",4,26.0,40.0,35.0,0.0,179.0,5952,4.48,21.0,Available,1
+265,Black Sequencer,Erica Synths,"['Clock Generator', 'Clock Modulator', 'CV Modulation', 'MIDI', 'Sequencer']",42,25.0,148.0,20.0,,510.0,5949,4.67,48.0,,1
+266,µVCF,Intellijel,"['Filter', 'Oscillator']",6,21.0,26.0,27.0,0.0,165.0,5929,4.25,52.0,Available,0
+267,333,Frap Tools,"['Attenuator', 'Mixer', 'Multiple', 'Utility']",6,38.0,48.0,48.0,0.0,85.0,5929,4.71,62.0,Available,1
+268,Triatt,Intellijel,"['Attenuator', 'Mixer', 'Polarizer', 'Utility', 'CV Modulation']",6,24.0,16.0,14.0,0.0,95.0,5912,4.43,65.0,Discontinued,1
+269,Panharmonium,Rossum Electro-Music,"['Digital', 'Oscillator', 'Clock Generator', 'Pitch Shifter ', 'Effect', 'Dual/Stereo']",26,25.0,140.0,30.0,0.0,540.0,5910,4.2,25.0,Available,0
+270,Natural Gate,Rabid Elephant,['Low Pass Gate'],12,38.0,80.0,80.0,0.0,355.0,5907,4.68,44.0,Available,1
+271,Manis Iteritas (Black),Noise Engineering,"['Digital', 'Oscillator']",10,28.0,80.0,5.0,90.0,359.0,5892,4.86,21.0,Discontinued,1
+272,Triplatt,Intellijel,"['Attenuator', 'Controller', 'Dual/Stereo', 'Mixer', 'Polarizer', 'Switch', 'Utility']",6,21.0,49.0,25.0,,97.0,5872,4.45,29.0,Available,1
+273,OSCILLATOR MODULE 1004,Behringer,"['LFO', 'Oscillator']",16,46.0,60.0,50.0,,89.0,5870,2.76,21.0,Available,0
+274,Pamela’s NEW Workout,ALM Busy Circuits,"['Clock Generator', 'LFO', 'Quantizer']",8,32.0,50.0,1.0,0.0,248.0,5866,4.88,8.0,,0
+275,Pico RND,Erica Synths,"['LFO', 'Noise', 'Random']",3,35.0,28.0,15.0,0.0,80.0,5850,4.3,27.0,,1
+276,FX AID XL,Happy Nerding,"['Delay', 'Digital', 'Distortion', 'Effect', 'Pitch Shifter ', 'Reverb', 'Dual/Stereo']",6,45.0,80.0,30.0,,239.0,5827,4.49,37.0,Available,0
+277,Javelin,WMD,"['CV Modulation', 'Envelope Generator', 'LFO', 'VCA']",6,38.0,98.0,63.0,0.0,238.0,5812,4.22,9.0,Available,0
+278,A-130-8,Doepfer,"['Mixer', 'Quad', 'VCA']",6,40.0,50.0,50.0,0.0,108.0,5787,4.83,23.0,Available,0
+279,XPO,Make Noise,"['Oscillator', 'Dual/Stereo']",18,45.0,145.0,135.0,0.0,458.0,5773,4.47,15.0,Available,0
+280,MATHS,Make Noise,['Function Generator'],20,24.0,60.0,60.0,0.0,325.0,5771,4.6,98.0,Discontinued,0
+281,Muxlicer,Befaco,"['Sequencer', 'Switch', 'Clock Generator']",16,23.0,50.0,5.0,0.0,200.0,5761,4.31,45.0,Available,1
+282,Hermod (Black Panel),Squarp Instruments,"['CV Modulation', 'External', 'LFO', 'MIDI', 'Quantizer', 'Sequencer']",26,30.0,310.0,30.0,0.0,459.0,5756,4.41,32.0,Available,0
+283,Streams,Mutable instruments,"['Dual/Stereo', 'Dynamics', 'Envelope Follower', 'Envelope Generator', 'VCA']",12,,100.0,30.0,0.0,229.0,5732,4.2,61.0,Discontinued,1
+284,Model D,Behringer,"['Filter', 'Oscillator', 'Synth Voice', 'MIDI']",70,30.0,583.0,0.0,0.0,299.0,5729,4.17,64.0,Available,0
+285,Wogglebug,Make Noise,"['Random', 'Ring Modulator', 'Sample and Hold']",14,24.0,50.0,40.0,0.0,250.0,5717,4.41,94.0,Discontinued,0
+286,Morpheus,Rossum Electro-Music,"['Filter', 'Sequencer', 'Dual/Stereo', 'Effect']",18,25.0,135.0,25.0,0.0,649.0,5704,4.26,43.0,Available,0
+287,uZeus,Tiptop Audio,['Power'],4,36.0,,,,98.0,5697,4.83,12.0,Available,0
+288,Chord v2,Qu-Bit Electronix,"['Digital', 'Oscillator', 'Quad']",14,23.0,122.0,25.0,0.0,314.0,5680,4.14,29.0,Available,1
+289,Instrument Interface v2,Befaco,"['Envelope Generator', 'PreAmp', 'External']",8,30.0,90.0,41.0,0.0,250.0,5659,4.4,10.0,Available,1
+290,Prism,Qu-Bit Electronix,"['Delay', 'Digital', 'Effect', 'Filter']",12,22.0,90.0,10.0,0.0,269.0,5658,4.0,45.0,Available,1
+291,ochd expander,DivKid,"['CV Modulation', 'Expander', 'Logic', 'Random', 'Utility']",4,32.0,5.0,5.0,0.0,110.0,5648,4.85,27.0,Available,1
+292,Lúbadh expander,Instruō,"['Sampling', 'Expander']",2,38.0,,,,,5635,4.86,7.0,Available,0
+293,AA.1,Strymon,"['Attenuator', 'Dual/Stereo', 'External', 'Utility']",4,38.0,10.0,10.0,0.0,149.0,5627,4.67,18.0,Available,0
+294,Bifold,Intellijel,"['Waveshaper', 'Distortion', 'Panning', 'Ring Modulator']",8,38.0,94.0,94.0,0.0,245.0,5612,4.74,34.0,Available,1
+295,Morgasmatron,Intellijel,"['Distortion', 'Dual/Stereo', 'Filter', 'Ring Modulator']",20,38.0,113.0,102.0,0.0,350.0,5609,4.71,45.0,Available,1
+296,Performance Buffered Mult,Malekko Heavy Industry,"['Multiple', 'Dual/Stereo']",2,15.0,20.0,20.0,0.0,85.0,5579,4.73,22.0,Available,0
+297,4tten,WMD,"['Attenuator', 'Controller', 'CV Modulation', 'Quad']",4,30.0,5.0,5.0,0.0,100.0,5567,4.27,15.0,Available,0
+298,μJack,Intellijel,"['Utility', 'External']",6,24.0,17.0,17.0,0.0,130.0,5541,4.11,53.0,Discontinued,1
+299,Subharmonicon (2020 edition),Moog Music Inc.,"['Filter', 'Frequency Divider', 'Oscillator', 'Synth Voice', 'VCA', 'MIDI']",60,26.0,360.0,0.0,0.0,699.0,5535,4.37,41.0,Available,0
+300,Turing Machine Mk II,Music Thing Modular,"['Noise', 'Random', 'Sequencer']",10,38.0,40.0,0.0,0.0,91.0,5515,4.56,54.0,Available,0
+301,Plasma Drive,Erica Synths,"['Distortion', 'Waveshaper', 'Oscillator']",16,45.0,150.0,50.0,,310.0,5502,4.26,19.0,Available,1
+302,Erbe-Verb (white knobs),Make Noise,"['Digital', 'Effect', 'Reverb']",20,30.0,149.0,15.0,0.0,538.0,5462,4.2,25.0,Available,0
+303,tanh[3],Instruō,"['Distortion', 'Expression', 'Waveshaper', 'Effect']",4,27.0,20.0,15.0,0.0,96.0,5443,4.41,32.0,Available,1
+304,Buff ( Black Panel),2hp,"['Multiple', 'Utility']",2,42.0,16.0,16.0,0.0,71.0,5440,3.64,11.0,Available,1
+305,Grey+Pink Pamela’s NEW Workout,ALM Busy Circuits,"['Clock Generator', 'Clock Modulator', 'Digital', 'LFO', 'Random', 'Sequencer']",8,32.0,50.0,1.0,0.0,254.0,5436,4.91,11.0,Discontinued,0
+306,Pamela's Workout,ALM Busy Circuits,"['Clock Generator', 'Clock Modulator', 'Sequencer']",8,22.0,80.0,80.0,0.0,249.0,5404,4.48,95.0,Discontinued,0
+307,3x MIA - black,Happy Nerding,"['Attenuator', 'Mixer', 'Polarizer']",6,35.0,80.0,80.0,0.0,88.0,5395,4.74,46.0,Available,0
+308,ADSR,2hp,['Envelope Generator'],2,45.0,24.0,7.0,0.0,98.0,5375,3.9,10.0,Available,1
+309,Shifty,Intellijel,"['Sample and Hold', 'Switch', 'Sequencer', 'Multiple', 'Clock Modulator', 'Shift Register']",6,40.0,49.0,4.0,0.0,215.0,5372,4.29,42.0,Available,1
+310,DATA (SILVER),Mordax,"['Clock Generator', 'Clock Modulator', 'Dual/Stereo', 'LFO', 'Oscillator', 'Quad', 'Tuner', 'Utility']",16,35.0,250.0,60.0,0.0,366.0,5337,4.64,25.0,Available,1
+311,Maths,Make Noise,"['Envelope Generator', 'Envelope Follower', 'LFO', 'Mixer', 'Slew Limiter', 'Function Generator', 'Clock Generator', 'CV Modulation']",20,24.0,60.0,50.0,0.0,245.0,5335,4.49,83.0,Discontinued,0
+312,Radio Music,Music Thing Modular,['Sampling'],4,40.0,75.0,8.0,0.0,103.0,5318,4.37,62.0,Available,0
+313,Compare 2,Joranalogue Audio Design,['Comparator'],8,30.0,20.0,15.0,0.0,215.0,5313,4.76,49.0,Available,1
+314,Hexmix,Befaco,"['Equalizer', 'Mixer', 'Panning', 'Utility', 'Dual/Stereo', 'External']",28,27.0,106.0,88.0,0.0,475.0,5277,4.38,13.0,Available,0
+315,Varigate 8+,Malekko Heavy Industry,"['Clock Generator', 'Quantizer', 'Sequencer']",26,25.0,180.0,39.0,0.0,485.0,5275,4.51,49.0,Discontinued,0
+316,Buchla 292t,Tiptop Audio,"['Low Pass Gate', 'Quad', 'Mixer']",16,45.0,87.0,36.0,,315.0,5237,4.0,10.0,Available,0
+317,MMF,Steady State Fate,"['Filter', 'Oscillator']",4,25.0,62.0,24.0,0.0,152.0,5222,4.39,31.0,Discontinued,0
+318,Abacus,Behringer,"['Attenuator', 'CV Modulation', 'Envelope Follower', 'Envelope Generator', 'Function Generator', 'LFO', 'Logic', 'Slew Limiter']",20,24.0,60.0,50.0,0.0,111.0,5202,1.55,200.0,Available,0
+319,Even VCO,Befaco,['Oscillator'],8,45.0,36.0,26.0,0.0,200.0,5194,4.57,44.0,Available,1
+320,Spherical Wavetable Navigator,4ms Company,"['Oscillator', 'Digital', 'LFO', 'Synth Voice']",26,25.0,185.0,30.0,0.0,570.0,5185,4.67,36.0,Available,1
+321,Buchla 266t,Tiptop Audio,"['CV Modulation', 'Quantizer', 'Random', 'Noise', 'Sample and Hold', 'Slew Limiter']",24,25.0,150.0,100.0,0.0,318.0,5172,4.55,11.0,Available,0
+322,Variable Q VCF Serge modular,Random*Source,"['Filter', 'LFO', 'Oscillator']",14,26.0,52.0,52.0,0.0,349.0,5156,4.63,57.0,Available,0
+323,E350 Morphing Terrarium,Synthesis Technology,"['Digital', 'Oscillator', 'LFO']",14,47.0,55.0,25.0,0.0,399.0,5149,4.47,125.0,Discontinued,0
+324,Crucible,WMD,"['Drum', 'Resonator']",8,30.0,60.0,17.0,0.0,263.0,5147,4.29,17.0,Available,0
+325,Buchla 245t,Tiptop Audio,"['Clock Generator', 'Sequencer', 'Quad']",30,25.0,63.0,28.0,,244.0,5145,4.38,13.0,Available,0
+326,Pico Mixer,Erica Synths,['Mixer'],3,35.0,4.0,4.0,,50.0,5137,4.29,7.0,Available,0
+327,A-138sV,Doepfer,"['Dual/Stereo', 'Mixer', 'Panning', 'Quad']",8,30.0,10.0,10.0,0.0,75.0,5136,4.68,22.0,Available,0
+328,Pico VCF1,Erica Synths,['Filter'],3,35.0,12.0,11.0,0.0,90.0,5135,4.27,11.0,,1
+329,A-183-1,Doepfer,"['Attenuator', 'Dual/Stereo']",4,20.0,,,,40.0,5136,4.03,29.0,Available,0
+330,crow,Monome,"['Digital', 'Expander', 'Utility', 'External']",2,41.0,60.0,15.0,0.0,254.0,5114,4.76,17.0,Available,0
+331,DPLPG (Black),MengQiMusic,"['Dual/Stereo', 'Filter', 'Low Pass Gate', 'VCA']",2,23.0,,,,54.0,5107,4.68,44.0,Available,1
+332,A-143-2,Doepfer,"['Envelope Generator', 'Quad', 'LFO', 'Function Generator']",26,50.0,70.0,50.0,0.0,211.0,5105,4.23,53.0,Available,0
+333,uO_C Black & Gold Panel,After Later Audio,"['Digital', 'LFO', 'Quantizer', 'Random', 'Sequencer', 'Utility', 'Envelope Generator']",8,20.0,85.0,10.0,0.0,249.0,5100,4.33,18.0,Available,0
+334,Erbe-Verb (black panel),Make Noise,"['Digital', 'Effect', 'Reverb']",20,30.0,149.0,15.0,,549.0,5095,4.53,17.0,,0
+335,Gliss,Bela,"['Controller', 'CV Modulation', 'Envelope Generator', 'Function Generator', 'LFO', 'Oscillator', 'Sequencer', 'Waveshaper']",4,26.0,150.0,30.0,0.0,155.0,5086,4.94,17.0,Available,0
+336,Cellz,Cre8audio,"['Controller', 'Dual/Stereo', 'Sequencer']",12,30.0,3.0,2.0,27.0,88.0,5082,3.2,46.0,Available,0
+337,HATS808,Tiptop Audio,['Drum'],8,14.0,30.0,25.0,0.0,165.0,5079,3.64,28.0,Available,1
+338,Turing Machine Mk II,Music Thing Modular,"['Noise', 'Random', 'Sequencer']",10,38.0,40.0,0.0,0.0,150.0,5070,4.61,28.0,Available,0
+339,Rubicon,Intellijel,"['LFO', 'Oscillator']",18,37.0,107.0,95.0,0.0,435.0,5069,4.63,95.0,Discontinued,0
+340,uO_C,CalSynth,"['Digital', 'Envelope Generator', 'LFO', 'Quantizer', 'Sequencer', 'Tuner', 'Utility']",8,25.0,85.0,10.0,,203.0,5068,4.82,17.0,Available,0
+341,mmMidi,ALM Busy Circuits,"['MIDI', 'Dual/Stereo', 'Clock Generator']",4,27.0,30.0,0.0,,115.0,5064,4.43,14.0,Available,0
+342,A-114,Doepfer,"['Ring Modulator', 'Dual/Stereo']",4,40.0,40.0,40.0,0.0,80.0,5050,3.66,32.0,Available,0
+343,904A,Behringer,['Filter'],8,38.0,65.0,50.0,0.0,95.0,5043,2.82,17.0,Available,0
+344,A-118-2,Doepfer,"['Noise', 'Random', 'Sample and Hold']",4,40.0,20.0,20.0,0.0,80.0,5024,4.41,22.0,Available,0
+345,Serge Resonant Equalizer (EQ),Random*Source,"['Equalizer', 'Filter']",18,38.0,100.0,100.0,0.0,375.0,5022,4.73,60.0,Available,0
+346,MSCL,WMD,"['Dual/Stereo', 'Dynamics', 'Effect']",4,39.0,50.0,50.0,0.0,200.0,5021,4.5,16.0,Available,0
+347,STO (white knobs),Make Noise,['Oscillator'],8,30.0,40.0,30.0,0.0,178.0,5011,4.29,14.0,Available,0
+348,MIX 4,Malekko Heavy Industry,"['Mixer', 'Quad']",3,34.0,2.0,4.0,0.0,125.0,5005,4.17,30.0,Available,0
+349,Eudemonia,Dreadbox,"['Filter', 'Mixer', 'VCA']",10,35.0,61.0,69.0,,89.0,4988,4.05,19.0,Available,0
+350,Ensemble Oscillator (Black Panel),4ms Company,"['Digital', 'Oscillator']",16,25.0,114.0,45.0,0.0,328.0,4983,4.67,30.0,Available,0
+351,A-130,Doepfer,['VCA'],8,45.0,20.0,10.0,0.0,65.0,4976,3.82,22.0,Available,0
+352,Shades (2020),Mutable instruments,"['Attenuator', 'Mixer', 'Polarizer']",6,25.0,15.0,15.0,0.0,99.0,4957,4.63,30.0,Discontinued,1
+353,Sealegs,Intellijel,"['Delay', 'Distortion', 'Dual/Stereo', 'Effect', 'Noise', 'Reverb']",20,29.0,116.0,10.0,,375.0,4956,4.78,37.0,Available,1
+354,Circadian Rhythms,Tiptop Audio,"['Clock Generator', 'Sequencer', 'Random']",36,29.0,160.0,0.0,0.0,635.0,4950,4.22,46.0,Available,1
+355,FHX-8CV Expander for FH-2,Expert Sleepers,"['Expander', 'CV Modulation', 'MIDI', 'Dynamics', 'Expression', 'Sequencer']",4,48.0,65.0,33.0,0.0,149.0,4918,4.9,10.0,Available,0
+356,Spectraphon,Make Noise,"['CV Modulation', 'Digital', 'Dual/Stereo', 'Envelope Follower', 'LFO', 'Oscillator', 'Effect']",34,36.0,230.0,55.0,0.0,678.0,4912,4.56,18.0,Available,0
+357,Kickall,Befaco,"['Drum', 'Synth Voice']",6,30.0,26.0,26.0,0.0,200.0,4901,4.28,39.0,Available,1
+358,System X Envelope,Frequency Central,['Envelope Generator'],4,45.0,7.0,7.0,0.0,120.0,4891,4.67,51.0,,1
+359,Pico Voice,Erica Synths,"['Oscillator', 'Synth Voice']",3,35.0,30.0,20.0,,120.0,4890,4.29,24.0,Available,1
+360,Korgasmatron II,Intellijel,"['Filter', 'Oscillator', 'Dual/Stereo', 'Distortion']",20,38.0,98.0,88.0,0.0,389.0,4879,4.47,66.0,Discontinued,0
+361,Chipz,Cre8audio,"['Dual/Stereo', 'LFO', 'Oscillator']",12,30.0,35.0,19.0,30.0,99.0,4875,2.84,43.0,Available,0
+362,Voltage Block (Black Panel),Malekko Heavy Industry,"['CV Modulation', 'Digital', 'Quantizer', 'Sequencer']",20,20.0,120.0,15.0,0.0,418.0,4848,4.57,23.0,Available,0
+363,Bassline,Erica Synths,"['Filter', 'Oscillator', 'Synth Voice']",14,35.0,78.0,70.0,0.0,290.0,4836,4.45,22.0,Available,1
+364,Tete,Intellijel,"['Controller', 'Sequencer', 'Expander']",8,39.0,120.0,6.0,,269.0,4830,4.59,32.0,Available,1
+365,Surface,Qu-Bit Electronix,"['Digital', 'Oscillator', 'Synth Voice', 'Dual/Stereo']",10,,60.0,60.0,0.0,314.0,4820,4.12,17.0,Available,1
+366,JUST FRIENDS (v2-Gold Clouds),Mannequins,"['Envelope Generator', 'Function Generator', 'LFO', 'Oscillator', 'Utility', 'Waveshaper']",14,30.0,96.0,30.0,0.0,375.0,4817,4.68,38.0,Available,0
+367,Percall,Befaco,"['Envelope Generator', 'Mixer', 'VCA', 'Quad']",12,25.0,80.0,60.0,0.0,230.0,4812,4.5,20.0,Available,1
+368,Black Blank panel 1HP,Erica Synths,['Blank Panel'],1,,,,,4.0,4809,,,Available,0
+369,sequential switch 962,Behringer,"['Sequencer', 'Switch']",8,31.0,40.0,20.0,0.0,55.0,4800,2.4,15.0,Available,0
+370,FALISTRI,Frap Tools,"['Clock Generator', 'Envelope Generator', 'Frequency Divider', 'LFO', 'Oscillator', 'Ring Modulator', 'Slew Limiter', 'VCA']",18,38.0,170.0,170.0,,365.0,4795,4.73,66.0,Available,1
+371,ROW POWER 45,4ms Company,['Power'],4,27.0,,,,174.0,4791,4.36,11.0,Available,0
+372,SYSTEM 100 172 PHASE SHIFTER/AUDIO DELAY/GATE DELAY/LFO,Behringer,"['CV Modulation', 'Delay', 'Effect', 'LFO', 'Phase Shifter']",16,44.0,60.0,60.0,0.0,98.0,4783,3.0,19.0,Available,0
+373,Akemie's Castle,ALM Busy Circuits,['Oscillator'],38,25.0,120.0,60.0,0.0,618.0,4763,4.66,38.0,Available,0
+374,Pizza,Bastl Instruments,"['Oscillator', 'Digital']",8,24.0,90.0,20.0,0.0,309.0,4756,4.79,29.0,Available,0
+375,modDemix (black panel),Make Noise,"['Dual/Stereo', 'Mixer', 'Ring Modulator', 'VCA']",6,24.0,30.0,30.0,0.0,126.0,4747,4.35,20.0,Available,0
+376,Poly 2,Polyend,"['External', 'MIDI', 'Quantizer', 'Utility']",14,24.0,160.0,14.0,0.0,349.0,4701,4.43,23.0,Discontinued,0
+377,SYSTEM 100 173 QUAD SIGNAL GATE/ PATCH BAY,Behringer,"['Multiple', 'Quad', 'Switch']",16,28.0,40.0,40.0,0.0,59.0,4694,3.65,17.0,Available,0
+378,Pico VCO,Erica Synths,"['Oscillator', 'LFO']",3,35.0,26.0,4.0,0.0,100.0,4689,4.03,36.0,,1
+379,Ghost (black),Endorphin.es,"['Delay', 'Digital', 'Distortion', 'Dual/Stereo', 'Dynamics', 'Effect', 'Filter', 'Reverb']",16,26.0,135.0,35.0,0.0,475.0,4689,4.38,13.0,Available,1
+380,A-183-2,Doepfer,"['Attenuator', 'CV Modulation', 'Polarizer']",4,20.0,10.0,10.0,0.0,45.0,4688,4.23,30.0,Available,0
+381,Teletype,Monome,"['Controller', 'Logic', 'Random', 'Sequencer', 'Clock Generator', 'Function Generator']",18,32.0,72.0,12.0,0.0,341.0,4683,4.64,50.0,Discontinued,0
+382,Verb (Black Panel),2hp,"['Dual/Stereo', 'Effect', 'Reverb']",2,42.0,81.0,28.0,0.0,134.0,4670,3.87,23.0,Available,1
+383,Aurora,Qu-Bit Electronix,"['Dual/Stereo', 'Effect', 'Pitch Shifter ', 'Reverb']",12,22.0,215.0,5.0,0.0,341.0,4630,4.44,16.0,Available,1
+384,Hysteria,Dreadbox,"['Clock Generator', 'Oscillator', 'Quantizer']",10,35.0,114.0,46.0,,139.0,4628,4.16,25.0,Available,0
+385,A-190-3,Doepfer,['MIDI'],6,55.0,60.0,10.0,0.0,130.0,4606,4.2,30.0,Available,0
+386,A-110-2,Doepfer,['Oscillator'],8,50.0,150.0,30.0,0.0,125.0,4604,4.04,28.0,Available,0
+387,BD909,Tiptop Audio,['Drum'],8,36.0,34.0,21.0,0.0,170.0,4604,4.18,28.0,Available,1
+388,A-161,Doepfer,"['Sequencer', 'Expander', 'Clock Modulator']",4,40.0,20.0,0.0,0.0,55.0,4598,3.97,39.0,Available,0
+389,Ceis,Instruō,"['Envelope Generator', 'Clock Modulator']",8,27.0,60.0,30.0,,150.0,4600,4.3,20.0,Available,1
+390,Black Joystick2,Erica Synths,"['Controller', 'CV Modulation', 'LFO', 'Random']",12,30.0,71.0,20.0,0.0,210.0,4578,4.59,22.0,Available,1
+391,A-150,Doepfer,"['Dual/Stereo', 'Switch']",4,30.0,30.0,10.0,0.0,45.0,4563,4.35,34.0,Available,0
+392,Chronoblob2,Alright Devices,"['Delay', 'Digital', 'Dual/Stereo', 'Effect']",12,30.0,80.0,15.0,0.0,315.0,4561,4.53,32.0,Available,1
+393,Pulses Mk II,Music Thing Modular,"['Expander', 'Logic']",4,25.0,10.0,0.0,0.0,37.0,4550,4.55,22.0,Available,0
+394,CRATER,WMD,"['Drum', 'Oscillator']",8,38.0,120.0,80.0,0.0,298.0,4548,4.62,24.0,Available,0
+395,Pico SEQ,Erica Synths,['Sequencer'],3,35.0,55.0,4.0,0.0,120.0,4543,4.38,24.0,,1
+396,Turing Machine Mk II (Black),Music Thing Modular,"['Random', 'Sequencer']",10,38.0,40.0,0.0,0.0,99.0,4538,4.72,32.0,Available,0
+397,Buff,2hp,"['Multiple', 'Utility']",2,42.0,16.0,16.0,0.0,71.0,4537,2.8,5.0,Available,1
+398,Steve's MS-22,ThreeTom Modular,"['Attenuator', 'Filter', 'VCA', 'Oscillator']",4,45.0,100.0,100.0,0.0,235.0,4534,4.79,66.0,Available,1
+399,FOUR PLAY,Behringer,"['VCA', 'Mixer', 'Quad']",12,41.0,100.0,100.0,0.0,99.0,4524,1.23,192.0,Available,0
+400,O'Tool Plus,Dave Jones Design,"['Utility', 'Dual/Stereo', 'Tuner']",8,40.0,80.0,22.0,0.0,339.0,4524,4.57,65.0,Discontinued,0
+401,Pluck,2hp,"['Digital', 'Oscillator', 'Synth Voice']",2,42.0,78.0,6.0,0.0,133.0,4521,4.14,22.0,Available,1
+402,Qx,Intellijel,"['Clock Generator', 'Digital', 'Expander', 'Function Generator', 'Logic', 'Quad', 'Utility']",4,22.0,8.0,0.0,,62.0,4520,4.73,15.0,Available,1
+403,Buchla 257t,Tiptop Audio,"['Attenuator', 'Dual/Stereo', 'CV Modulation', 'Mixer']",14,25.0,45.0,22.0,0.0,210.0,4500,4.38,8.0,Available,0
+404,Performance mixer,WMD,"['Mixer', 'Panning', 'Attenuator', 'Controller', 'External', 'VCA']",40,45.0,450.0,430.0,0.0,699.0,4497,4.67,42.0,Discontinued,1
+405,RCD Breakout v1.1,4ms Company,"['Expander', 'Clock Modulator']",4,29.0,,,,92.0,4478,4.31,36.0,Available,0
+406,SCM - Shuffling Clock Multiplier V2,4ms Company,['Clock Modulator'],4,35.0,60.0,0.0,0.0,139.0,4477,4.33,39.0,Available,0
+407,Listen IO,4ms Company,"['Dual/Stereo', 'External', 'Mixer', 'PreAmp', 'Utility']",6,24.0,62.0,55.0,0.0,113.0,4476,4.23,13.0,Available,1
+408,CP909,Tiptop Audio,['Drum'],4,36.0,6.0,10.0,0.0,125.0,4470,3.85,26.0,Available,1
+409,914,Behringer,"['Filter', 'Equalizer']",28,42.0,60.0,70.0,0.0,78.0,4470,3.28,18.0,Available,0
+410,Performance Mixer (black),WMD,"['Attenuator', 'Controller', 'External', 'Mixer', 'Panning', 'VCA']",40,45.0,450.0,430.0,0.0,694.0,4463,4.65,20.0,Discontinued,1
+411,"Minimod Transistor Ladder Filter ""Dark Edition""",AJH Synth,"['Filter', 'Mixer']",14,26.0,45.0,30.0,0.0,289.0,4441,4.77,31.0,Available,0
+412,Squawk Dirty To Me (black),Endorphin.es,"['Filter', 'VCA', 'Dual/Stereo', 'Digital', 'Effect', 'Low Pass Gate']",6,26.0,120.0,15.0,0.0,199.0,4425,3.45,20.0,Available,1
+413,0-Coast,Make Noise,"['Function Generator', 'Low Pass Gate', 'MIDI', 'Mixer', 'Synth Voice', 'Oscillator', 'Sample and Hold']",45,,400.0,,,575.0,4411,4.69,80.0,Available,0
+414,S.B.G,ALM Busy Circuits,"['Attenuator', 'External', 'Utility', 'Mixer']",4,22.0,30.0,30.0,,119.0,4395,4.35,17.0,Available,0
+415,Fracture (Black),WMD,"['Drum', 'Dual/Stereo', 'Noise', 'Oscillator']",8,30.0,63.0,17.0,,358.0,4395,4.67,12.0,Available,0
+416,Navigator,Acid Rain Technology,"['Attenuator', 'Controller', 'Mixer', 'Polarizer', 'Utility']",4,25.0,11.0,8.0,0.0,80.0,4387,4.64,11.0,Available,1
+417,Scan & Pan,Verbos Electronics,"['Mixer', 'Panning', 'Quad', 'Dual/Stereo', 'VCA']",14,26.0,50.0,20.0,0.0,439.0,4369,4.44,25.0,Available,0
+418,Nostalgia,Dreadbox,"['Delay', 'Effect', 'External', 'LFO']",10,35.0,117.0,25.0,0.0,99.0,4365,4.14,22.0,Available,0
+419,Metron (Black),WMD,['Sequencer'],36,31.0,240.0,0.0,0.0,849.0,4317,4.92,24.0,Available,0
+420,Tš-L v2,Instruō,"['Oscillator', 'Waveshaper', 'LFO']",6,42.0,60.0,40.0,0.0,308.0,4311,4.5,18.0,Available,0
+421,Ultra-Random Analog,Steady State Fate,"['Random', 'Sample and Hold', 'Noise', 'Clock Generator', 'Envelope Generator', 'Slew Limiter', 'Clock Modulator', 'Oscillator']",10,33.0,76.0,47.0,0.0,345.0,4311,4.62,80.0,Discontinued,1
+422,Volts,Music Thing Modular,['Expander'],4,24.0,,,,44.0,4307,3.95,19.0,,0
+423,A*B+C,Befaco,"['Mixer', 'Ring Modulator', 'VCA', 'Dual/Stereo', 'Attenuator', 'Polarizer']",6,30.0,40.0,40.0,0.0,140.0,4296,4.68,38.0,Available,1
+424,Z4000 VC-EG,Tiptop Audio,['Envelope Generator'],8,28.0,34.0,18.0,0.0,150.0,4271,4.42,62.0,Available,1
+425,A-171-2,Doepfer,"['Envelope Generator', 'Function Generator', 'LFO', 'Oscillator', 'Slew Limiter']",8,60.0,30.0,30.0,0.0,120.0,4270,4.31,45.0,Available,0
+426,DPO (white knobs),Make Noise,"['Dual/Stereo', 'LFO', 'Oscillator', 'Waveshaper']",28,30.0,70.0,70.0,0.0,679.0,4238,4.44,25.0,Available,0
+427,Hexpander,Befaco,"['Expander', 'External', 'Mixer', 'Utility', 'Dual/Stereo']",28,27.0,137.0,64.0,0.0,339.0,4218,4.5,8.0,Available,0
+428,Receive 2,Joranalogue Audio Design,['External'],6,45.0,35.0,35.0,0.0,215.0,4214,4.71,14.0,Available,1
+429,meloDICER,Vermona,"['Sequencer', 'Quantizer', 'Random']",34,25.0,150.0,50.0,0.0,436.0,4212,4.74,38.0,Available,0
+430,A-151v,Doepfer,"['Quad', 'Switch']",4,35.0,20.0,10.0,0.0,60.0,4211,4.86,14.0,Available,0
+431,Mysteron,Make Noise,"['Digital', 'Oscillator']",14,24.0,95.0,25.0,0.0,284.0,4202,4.17,69.0,Discontinued,1
+432,Neutron,Behringer,"['Delay', 'Distortion', 'Synth Voice']",80,35.0,750.0,0.0,0.0,299.0,4197,4.2,71.0,Available,0
+433,Quad Pingable LFO,4ms Company,"['Clock Modulator', 'Digital', 'LFO', 'Quad']",12,40.0,154.0,73.0,0.0,315.0,4195,4.21,42.0,Available,0
+434,Kamieniec,Xaoc Devices,"['LFO', 'Phase Shifter']",9,20.0,40.0,40.0,,240.0,4192,4.64,39.0,Available,1
+435,Nerdseq Black Aluminium Front,XOR Electronics,"['Clock Modulator', 'CV Modulation', 'Sampling', 'Sequencer', 'Envelope Generator', 'LFO', 'Synth Voice']",32,25.0,150.0,40.0,0.0,598.0,4175,4.72,76.0,Available,0
+436,Trigger Riot,Tiptop Audio,"['Clock Generator', 'Clock Modulator', 'Logic', 'Random', 'Sequencer']",28,28.0,200.0,0.0,0.0,499.0,4172,4.36,47.0,Available,1
+437,Voltage Multistage,Verbos Electronics,"['Envelope Generator', 'Function Generator', 'LFO', 'Sequencer', 'Dual/Stereo']",30,26.0,70.0,30.0,0.0,599.0,4168,4.59,32.0,Available,0
+438,Optomix (black panel),Make Noise,"['Dual/Stereo', 'Filter', 'Low Pass Gate', 'VCA']",8,24.0,25.0,25.0,,295.0,4156,4.23,13.0,Available,0
+439,Buffered Mult,4ms Company,"['Multiple', 'Video']",3,18.0,13.0,13.0,0.0,89.0,4146,4.61,23.0,Available,0
+440,Dark Matter,Bastl Instruments,"['Mixer', 'Distortion', 'Effect', 'Envelope Follower']",13,24.0,75.0,75.0,0.0,358.0,4134,4.5,24.0,Available,0
+441,Mixer,Pittsburgh Modular,"['Mixer', 'Attenuator', 'TrueGrid']",8,20.0,10.0,10.0,0.0,85.0,4116,4.2,55.0,Discontinued,0
+442,VC ADSR,Befaco,['Envelope Generator'],8,30.0,55.0,15.0,0.0,160.0,4102,4.55,31.0,Available,1
+443,multimode filter / resonator 1047,Behringer,"['Filter', 'Resonator']",16,43.0,55.0,45.0,,95.0,4102,3.0,20.0,Available,0
+444,Bard Quartet,Shakmat,"['Quantizer', 'Quad']",10,29.0,60.0,10.0,0.0,395.0,4091,4.75,51.0,Available,1
+445,KNIT,Antumbra,"['Digital', 'Drum', 'Noise', 'Oscillator', 'Synth Voice']",6,40.0,50.0,5.0,0.0,170.0,4080,4.5,30.0,Available,0
+446,A-101-2,Doepfer,"['Low Pass Gate', 'Filter', 'VCA']",8,50.0,20.0,20.0,0.0,90.0,4078,3.95,44.0,Available,0
+447,MUM M8,ALM Busy Circuits,"['Filter', 'VCA', 'Distortion']",8,32.0,40.0,40.0,0.0,216.0,4075,4.62,16.0,Available,0
+448,ROW POWER 30,4ms Company,['Power'],4,28.0,,,,129.0,4069,4.55,31.0,Discontinued,0
+449,Tiny MIDI breakout TMB,Expert Sleepers,"['Expander', 'MIDI', 'Utility']",2,30.0,,,,45.0,4055,4.6,5.0,Available,0
+450,A-182-2,Doepfer,"['Quad', 'Switch']",4,20.0,,,,60.0,4054,4.73,11.0,Available,0
+451,STMIX,Befaco,"['Mixer', 'Dual/Stereo']",6,20.0,8.0,10.0,0.0,149.0,4051,4.18,17.0,Discontinued,0
+452,Jumble Henge,ALM Busy Circuits,"['Dual/Stereo', 'Equalizer', 'Mixer', 'Panning']",8,38.0,70.0,70.0,0.0,250.0,4032,4.57,14.0,Available,0
+453,Black Stereo Mixer V2,Erica Synths,['Mixer'],10,35.0,25.0,15.0,,130.0,4024,4.23,26.0,Available,1
+454,2LPG v2,Takaab,"['Dual/Stereo', 'Low Pass Gate', 'VCA']",2,25.0,,,,34.0,4016,4.74,27.0,Available,1
+455,Sarajewo,Xaoc Devices,"['Delay', 'Effect']",12,,180.0,120.0,0.0,420.0,4008,4.64,25.0,Available,1
+456,Black Octasource,Erica Synths,['LFO'],12,25.0,82.0,44.0,,280.0,4001,4.59,29.0,Available,1
+457,W/,Mannequins,"['Effect', 'Pitch Shifter ', 'Sampling']",2,39.0,59.0,13.0,0.0,240.0,3995,4.08,26.0,Available,1
+458,Black Hole DSP,Erica Synths,"['Effect', 'Delay', 'Digital', 'Reverb']",14,25.0,135.0,31.0,,230.0,3991,4.17,40.0,,1
+459,DPO (black panel),Make Noise,"['CV Modulation', 'LFO', 'Oscillator', 'Dual/Stereo', 'Waveshaper']",28,30.0,70.0,70.0,0.0,675.0,3991,4.44,16.0,,0
+460,M303,Acidlab,"['Filter', 'Oscillator', 'VCA', 'Synth Voice', 'Envelope Generator']",16,41.0,60.0,20.0,0.0,303.0,3990,4.38,34.0,Available,0
+461,921A Oscillator Driver,Behringer,"['Expander', 'Oscillator', 'CV Modulation', 'Utility']",8,35.0,25.0,25.0,0.0,62.0,3988,2.5,10.0,Available,0
+462,Zularic Repetitor,Noise Engineering,"['Clock Modulator', 'Quad', 'Sequencer']",8,26.0,50.0,5.0,0.0,215.0,3974,4.21,33.0,Available,1
+463,Hel,Xaoc Devices,['Expander'],3,30.0,20.0,0.0,0.0,75.0,3973,4.4,10.0,Available,0
+464,Mult,After Later Audio,['Multiple'],2,29.0,20.0,20.0,,45.0,3973,4.45,11.0,Available,0
+465,Tune,2hp,"['CV Modulation', 'Quantizer', 'Utility']",2,42.0,40.0,3.0,0.0,98.0,3965,3.78,18.0,Available,1
+466,A-196,Doepfer,"['Filter', 'Oscillator', 'Effect']",8,40.0,40.0,10.0,0.0,70.0,3963,4.26,58.0,Available,0
+467,A-136,Doepfer,"['Waveshaper', 'Distortion']",8,45.0,30.0,10.0,0.0,60.0,3962,3.63,30.0,Available,0
+468,A-106-5 SE,Doepfer,['Filter'],8,55.0,30.0,20.0,0.0,90.0,3946,4.57,28.0,Available,0
+469,Hat,2hp,['Drum'],2,42.0,83.0,2.0,0.0,125.0,3945,3.82,17.0,Available,1
+470,Instant LoFi Junky,Zvex,"['Distortion', 'Effect', 'Filter', 'Pitch Shifter ']",10,26.0,85.0,50.0,0.0,329.0,3925,4.55,31.0,Discontinued,0
+471,Mimetic Digitalis,Noise Engineering,"['CV Modulation', 'Random', 'Sequencer']",10,26.0,58.0,22.0,0.0,314.0,3919,4.48,23.0,Available,1
+472,DTM,Manhattan Analog,"['Mixer', 'Utility', 'Distortion']",4,39.0,12.0,12.0,0.0,99.0,3912,4.71,45.0,Available,0
+473,HiPass,Shakmat,"['Equalizer', 'Filter', 'Quad']",2,40.0,15.0,15.0,0.0,85.0,3912,4.71,41.0,Available,1
+474,ADSR (Black Panel),2hp,['Envelope Generator'],2,45.0,24.0,7.0,0.0,98.0,3903,3.29,7.0,Available,1
+475,Hermod,Squarp Instruments,"['MIDI', 'Sequencer', 'CV Modulation', 'LFO', 'External', 'Multiple', 'Quantizer']",26,30.0,310.0,30.0,,475.0,3892,4.5,16.0,Available,0
+476,modDemix,Make Noise,"['Mixer', 'Ring Modulator', 'VCA', 'Dual/Stereo']",6,24.0,30.0,30.0,0.0,136.0,3856,4.14,69.0,Discontinued,0
+477,Stereo Dipole (Black and Gold),Steady State Fate,"['Dual/Stereo', 'Filter', 'Oscillator', 'Panning', 'Phase Shifter']",20,23.0,150.0,150.0,0.0,356.0,3854,4.4,30.0,Available,0
+478,Amplitude & Tone Controller,Verbos Electronics,"['Filter', 'VCA', 'Distortion', 'Low Pass Gate']",16,26.0,30.0,20.0,,359.0,3852,4.56,39.0,Available,0
+479,Ansible,Monome,"['Controller', 'Expander', 'MIDI', 'Sequencer']",6,39.0,200.0,19.0,0.0,250.0,3823,4.78,23.0,,1
+480,Quadigy,Klavis,"['Envelope Generator', 'LFO', 'Quad']",14,21.0,24.0,10.0,40.0,309.0,3818,4.7,46.0,Available,1
+481,Outs,Pittsburgh Modular,"['External', 'TrueGrid']",6,43.0,20.0,20.0,0.0,105.0,3816,3.96,46.0,Discontinued,0
+482,Entity Ultra-Kick,Steady State Fate,"['Drum', 'Envelope Generator', 'Synth Voice']",14,23.0,110.0,110.0,0.0,298.0,3803,4.86,22.0,Available,1
+483,Disting mk1,Expert Sleepers,"['Delay', 'LFO', 'Oscillator', 'Sample and Hold', 'Slew Limiter', 'Waveshaper', 'Quantizer', 'Comparator']",4,53.0,111.0,37.0,0.0,149.0,3795,4.4,68.0,Discontinued,0
+484,Noise Plethora,Befaco,"['Filter', 'Noise', 'Synth Voice']",14,25.0,110.0,67.0,0.0,350.0,3791,4.79,24.0,Available,1
+485,Mutamix,Intellijel,"['Attenuator', 'Mixer', 'Sequencer', 'Switch']",18,38.0,58.0,44.0,0.0,295.0,3790,4.31,42.0,Discontinued,0
+486,Steady State Gate,Steady State Fate,"['Distortion', 'Drum', 'Dynamics', 'Envelope Generator', 'Filter', 'Low Pass Gate', 'VCA', 'Waveshaper']",8,23.0,76.0,72.0,0.0,221.0,3790,4.74,23.0,Available,1
+487,HexMix VCA,Befaco,"['Attenuator', 'Mixer', 'VCA']",14,30.0,50.0,50.0,0.0,265.0,3784,4.08,12.0,Available,1
+488,Pip Slope,ALM Busy Circuits,"['Envelope Generator', 'Function Generator', 'LFO']",4,32.0,50.0,50.0,0.0,99.0,3768,4.5,24.0,Discontinued,0
+489,Quad-Atten,Steady State Fate,"['Attenuator', 'Quad']",4,25.0,,,,62.0,3763,4.48,25.0,Discontinued,1
+490,nRings (Black/Gold),After Later Audio,"['Digital', 'Effect', 'Filter', 'Reverb']",8,25.0,110.0,5.0,,212.0,3742,4.33,6.0,Available,0
+491,Lifeforms SV-1,Pittsburgh Modular,"['Envelope Generator', 'Filter', 'LFO', 'MIDI', 'Oscillator', 'VCA', 'Synth Voice']",48,35.0,230.0,200.0,,585.0,3733,4.39,41.0,Available,1
+492,Linix,Intellijel,"['Mixer', 'VCA']",16,28.0,88.0,84.0,0.0,345.0,3729,4.63,52.0,Discontinued,0
+493,Pico Quant,Erica Synths,['Quantizer'],3,35.0,25.0,6.0,0.0,120.0,3722,4.59,17.0,Available,1
+494,Pluck (Black Panel),2hp,"['Oscillator', 'Digital', 'Synth Voice']",2,42.0,78.0,6.0,0.0,133.0,3721,3.9,10.0,Available,1
+495,Stereo Triggered Sampler,4ms Company,"['Sampling', 'Digital', 'Dual/Stereo', 'Oscillator', 'Synth Voice']",20,25.0,145.0,39.0,0.0,469.0,3714,4.52,27.0,Available,1
+496,A-170,Doepfer,"['Slew Limiter', 'Envelope Generator', 'Dual/Stereo']",8,40.0,20.0,20.0,0.0,65.0,3710,3.75,28.0,Available,0
+497,Mutant Bassdrum,Hexinverter Électronique,"['Distortion', 'Drum', 'Effect']",13,35.0,55.0,45.0,0.0,224.0,3701,4.21,42.0,Available,1
+498,DXG,Make Noise,"['Dual/Stereo', 'Low Pass Gate', 'Mixer', 'VCA']",8,43.0,74.0,86.0,0.0,248.0,3700,4.75,8.0,Available,0
+499,A-143-3,Doepfer,"['LFO', 'Quad', 'Clock Generator']",14,40.0,70.0,60.0,0.0,115.0,3693,3.89,38.0,Available,0
+500,Freez,2hp,"['Effect', 'Sampling']",2,42.0,95.0,27.0,0.0,115.0,3686,4.05,21.0,Discontinued,1
+501,MIDI Breakout,Expert Sleepers,['MIDI'],4,27.0,,,,49.0,3685,4.15,13.0,Available,0
+502,CM1A,Behringer,"['Digital', 'MIDI']",6,56.0,70.0,10.0,,95.0,3671,1.38,21.0,Available,0
+503,ornament+crime (pcb panel),Oscillosaurus,"['CV Modulation', 'Digital', 'Function Generator', 'Quantizer']",14,25.0,85.0,10.0,,225.0,3649,4.48,23.0,,0
+504,Spectrum,Steady State Fate,"['Oscillator', 'LFO']",10,25.0,80.0,55.0,0.0,249.0,3648,4.53,40.0,Discontinued,1
+505,Pico A MIX,Erica Synths,"['Mixer', 'Utility']",3,35.0,5.0,5.0,0.0,50.0,3647,3.86,14.0,,1
+506,ER-301: Sound Computer,Orthogonal Devices,"['Digital', 'Sampling']",30,25.0,300.0,20.0,0.0,797.0,3631,4.68,62.0,Available,1
+507,Kraken,WMD,['Drum'],8,30.0,61.0,17.0,0.0,269.0,3624,4.6,15.0,Available,0
+508,Z-DSP,Tiptop Audio,"['Delay', 'Digital', 'Effect', 'Filter', 'Pitch Shifter ', 'Reverb', 'Panning', 'Phase Shifter']",28,59.0,130.0,36.0,0.0,355.0,3617,4.17,48.0,Available,1
+509,vincâ,Instruō,"['Dual/Stereo', 'VCA', 'Ring Modulator']",4,27.0,30.0,30.0,0.0,218.0,3617,4.5,10.0,Available,0
+510,Gx,Intellijel,"['Clock Generator', 'Expander', 'Logic', 'Sequencer', 'Utility']",4,22.0,8.0,0.0,,64.0,3591,4.86,7.0,Available,1
+511,saïch,Instruō,"['Oscillator', 'Quad']",12,27.0,110.0,90.0,0.0,538.0,3589,4.21,14.0,Available,0
+512,Sinc Bucina,Noise Engineering,"['Envelope Generator', 'VCA', 'Low Pass Gate', 'Function Generator', 'Slew Limiter']",4,26.0,45.0,40.0,0.0,182.0,3587,4.62,13.0,Available,1
+513,Ts-L,Instruō,"['Oscillator', 'Waveshaper']",6,42.0,80.0,75.0,0.0,250.0,3581,4.35,17.0,Available,1
+514,995,Behringer,['Attenuator'],8,35.0,,,,49.0,3568,2.92,13.0,Available,0
+515,Chronoblob,Alright Devices,"['Delay', 'Effect', 'Digital']",10,30.0,90.0,30.0,0.0,225.0,3559,4.53,53.0,Discontinued,1
+516,A-138nV,Doepfer,"['Mixer', 'Quad']",4,30.0,10.0,10.0,0.0,60.0,3557,4.12,8.0,Available,0
+517,Chaos,Clank,"['Clock Generator', 'CV Modulation', 'LFO', 'Random', 'Sample and Hold', 'Sequencer', 'Quantizer', 'Digital']",12,24.0,115.0,0.0,0.0,399.0,3551,4.88,25.0,Available,1
+518,STMix (DIY Kit),Befaco,"['Dual/Stereo', 'Mixer']",6,20.0,8.0,10.0,0.0,70.0,3550,4.4,15.0,Available,0
+519,Delta-V,Cosmotronic,"['Envelope Generator', 'LFO', 'Slew Limiter', 'VCA', 'Mixer', 'Function Generator']",10,20.0,70.0,70.0,0.0,229.0,3541,4.72,54.0,Available,1
+520,A-140v,Doepfer,['Envelope Generator'],8,50.0,20.0,20.0,0.0,95.0,3539,4.33,15.0,Available,0
+521,LRMSMSLR (Black and gold panel),WORNG Electronics,"['Mixer', 'Panning', 'Polarizer', 'Utility', 'Dual/Stereo']",4,37.0,30.0,30.0,0.0,70.0,3540,4.64,28.0,Available,1
+522,DUAL BORG,Malekko Heavy Industry,"['Filter', 'Low Pass Gate', 'Dual/Stereo', 'VCA']",16,25.0,80.0,0.0,0.0,288.0,3538,4.5,58.0,Available,0
+523,Praga,Xaoc Devices,"['Mixer', 'Panning', 'VCA', 'Dual/Stereo', 'Quad']",20,45.0,210.0,180.0,,460.0,3534,4.77,26.0,Available,1
+524,Moskwa,Xaoc Devices,"['Sequencer', 'Clock Generator', 'Slew Limiter', 'Random', 'TrueGrid']",20,20.0,50.0,50.0,0.0,280.0,3534,4.44,54.0,Discontinued,0
+525,A-135-1,Doepfer,"['Mixer', 'Quad', 'VCA']",18,45.0,60.0,60.0,,145.0,3532,4.26,31.0,Available,0
+526,E440 Discrete OTA VCF,Synthesis Technology,['Filter'],14,32.0,23.0,23.0,0.0,375.0,3530,4.6,67.0,Discontinued,0
+527,Vortices,Steady State Fate,"['Distortion', 'Mixer', 'Panning', 'VCA']",16,24.0,110.0,105.0,0.0,351.0,3528,4.69,16.0,Available,1
+528,Wave Multipliers Serge modular,Random*Source,"['VCA', 'Waveshaper', 'Mixer']",18,40.0,45.0,40.0,0.0,300.0,3527,4.62,39.0,Available,0
+529,Zadar (black panel),Xaoc Devices,"['Envelope Generator', 'LFO', 'Quad']",10,,90.0,40.0,,35.0,3525,4.7,10.0,Available,1
+530,ZOIA Euroburo,Empress Effects,"['CV Modulation', 'Effect', 'Synth Voice', 'Utility', 'MIDI', 'Dual/Stereo', 'Sampling']",34,28.0,300.0,0.0,,750.0,3514,4.88,17.0,Available,0
+531,DROID P2B8 Controller,Der Mann mit der Maschine,['Controller'],5,25.0,12.0,0.0,0.0,118.0,3504,4.8,50.0,Available,1
+532,Quantum Rainbow 2,Steady State Fate,"['Noise', 'Random']",4,23.0,23.0,23.0,0.0,165.0,3503,4.53,30.0,Available,1
+533,Morph 4,Joranalogue Audio Design,['VCA'],20,30.0,110.0,110.0,0.0,385.0,3495,4.74,19.0,Available,1
+534,Springray II,Intellijel,"['Reverb', 'Effect']",10,38.0,44.0,34.0,0.0,259.0,3490,4.18,22.0,Available,1
+535,A-147-2,Doepfer,"['Envelope Generator', 'LFO', 'VCA', 'CV Modulation']",8,55.0,60.0,40.0,0.0,120.0,3473,4.49,35.0,Available,0
+536,Messor,Cosmotronic,"['Dual/Stereo', 'Dynamics', 'Envelope Follower', 'Expander', 'VCA']",8,25.0,45.0,26.0,,228.0,3467,4.95,21.0,Available,1
+537,Timiszoara,Xaoc Devices,"['Delay', 'Digital', 'Dual/Stereo', 'Effect', 'Reverb', 'Fuzz', 'Phase Shifter', 'Pitch Shifter ']",10,43.0,120.0,45.0,0.0,360.0,3464,4.68,19.0,Available,1
+538,Ruina Versio,Noise Engineering,"['Digital', 'Distortion', 'Dual/Stereo', 'Effect']",10,32.0,70.0,70.0,0.0,354.0,3449,4.83,18.0,Available,1
+539,Amp & Tone,Verbos Electronics,"['Low Pass Gate', 'VCA', 'Filter']",10,,85.0,83.0,0.0,365.0,3447,4.65,20.0,Available,0
+540,Vactrol SVF-201,KOMA Elektronik,"['Filter', 'TrueGrid']",12,40.0,80.0,11.0,0.0,289.0,3447,4.3,30.0,Discontinued,1
+541,INamp,Befaco,['PreAmp'],4,35.0,21.0,10.0,0.0,100.0,3444,3.88,8.0,Available,1
+542,Poly Cinematic,Knobula,"['Synth Voice', 'MIDI', 'Oscillator']",12,40.0,70.0,70.0,0.0,310.0,3434,4.69,13.0,Available,1
+543,ADSR,Pittsburgh Modular,"['Envelope Generator', 'TrueGrid']",6,35.0,35.0,35.0,0.0,100.0,3418,4.0,24.0,Discontinued,0
+544,A-106-6,Doepfer,"['Filter', 'Oscillator']",12,50.0,35.0,38.0,0.0,150.0,3412,4.22,32.0,Available,0
+545,Kermit MK III,Industrial Music Electronics,"['LFO', 'Oscillator', 'Quad', 'Clock Generator', 'CV Modulation', 'Envelope Generator', 'Random', 'Sample and Hold']",12,40.0,135.0,50.0,0.0,409.0,3409,4.79,24.0,Available,0
+546,A-160-5,Doepfer,['Clock Modulator'],4,35.0,50.0,0.0,0.0,100.0,3407,4.18,22.0,Available,0
+547,Passive Mult,Synthrotek,['Multiple'],2,14.0,,,,16.0,3406,4.09,23.0,Available,1
+548,A-147 VCLFO,Doepfer,"['LFO', 'Clock Generator']",8,55.0,40.0,40.0,0.0,85.0,3404,4.04,23.0,Discontinued,0
+549,SAPÈL,Frap Tools,"['Clock Generator', 'Clock Modulator', 'CV Modulation', 'Dual/Stereo', 'Noise', 'Quantizer', 'Random', 'Sample and Hold']",18,38.0,250.0,170.0,0.0,415.0,3398,4.73,63.0,Available,1
+550,MST '07 Buffered Multiple (4HP),Synthrotek,"['Multiple', 'Utility', 'Quad']",4,33.0,42.0,42.0,0.0,99.0,3393,4.19,27.0,Available,1
+551,Filtamp Module 1006,Behringer,"['Filter', 'VCA']",16,43.0,22.0,20.0,0.0,75.0,3389,2.38,16.0,Available,0
+552,100 Grit (black),Schlappi Engineering,"['Distortion', 'Filter', 'VCA']",14,25.0,55.0,70.0,0.0,232.0,3388,4.93,28.0,Available,1
+553,Queen of Pentacles (black),Endorphin.es,"['Drum', 'Effect', 'Sampling', 'Dual/Stereo', 'Delay', 'Distortion', 'Filter', 'Reverb']",30,26.0,350.0,90.0,0.0,579.0,3387,4.34,32.0,Available,1
+554,A-121-3,Doepfer,"['Filter', 'Oscillator']",4,50.0,40.0,30.0,0.0,99.0,3388,4.67,15.0,Available,0
+555,Transmit 2,Joranalogue Audio Design,['External'],6,45.0,100.0,100.0,0.0,215.0,3378,4.75,24.0,Available,1
+556,A-166,Doepfer,"['Dual/Stereo', 'Logic']",8,50.0,40.0,20.0,0.0,109.0,3370,4.0,26.0,Available,0
+557,BRENSO,Frap Tools,"['Oscillator', 'Dual/Stereo', 'LFO', 'Ring Modulator', 'VCA']",30,38.0,325.0,235.0,0.0,550.0,3368,4.76,55.0,Available,1
+558,Add 2,Joranalogue Audio Design,['Mixer'],2,40.0,20.0,20.0,0.0,80.0,3352,4.72,18.0,Available,1
+559,Krait,Dnipro modular,"['Controller', 'CV Modulation', 'LFO', 'Random', 'Sequencer']",6,42.0,70.0,12.0,0.0,240.0,3351,4.68,19.0,Available,1
+560,Twin Waves MkII,Klavis,"['Digital', 'LFO', 'Oscillator', 'Dual/Stereo', 'Noise', 'Quantizer', 'Ring Modulator', 'Random']",8,21.0,52.0,17.0,0.0,269.0,3344,4.72,47.0,Available,1
+561,A-149-1,Doepfer,['Random'],12,60.0,40.0,10.0,0.0,109.0,3346,4.44,41.0,Available,0
+562,DATA (powder/silk panel),Mordax,"['Utility', 'Clock Generator', 'Oscillator', 'Quad', 'LFO', 'Tuner', 'Clock Modulator', 'Dual/Stereo']",16,35.0,250.0,60.0,0.0,356.0,3343,4.6,53.0,Available,1
+563,A-162,Doepfer,"['Delay', 'Dual/Stereo', 'Utility']",8,45.0,40.0,0.0,0.0,65.0,3342,3.67,24.0,Available,0
+564,Triple Sloths V2,Nonlinearcircuits,"['LFO', 'Random', 'CV Modulation', 'Dual/Stereo']",8,38.0,60.0,,,199.0,3341,4.67,57.0,Available,1
+565,3x VCA,Happy Nerding,"['VCA', 'Mixer']",6,35.0,60.0,60.0,0.0,159.0,3335,4.4,15.0,Available,0
+566,ONA,NANO Modules,"['Clock Generator', 'CV Modulation', 'Frequency Divider', 'LFO', 'Oscillator']",8,15.0,50.0,30.0,0.0,165.0,3330,4.7,27.0,Available,1
+567,JOVE,System80,['Filter'],14,25.0,15.0,10.0,0.0,214.0,3329,4.67,33.0,Available,1
+568,Sinfonion,ACL,"['Controller', 'Quantizer', 'Sequencer', 'Clock Modulator', 'Sample and Hold', 'Slew Limiter']",42,25.0,160.0,4.0,0.0,960.0,3327,4.73,95.0,Available,1
+569,Furthrrrr Generator (golden),Endorphin.es,"['Oscillator', 'Dual/Stereo', 'Function Generator', 'LFO', 'Noise', 'Random']",30,25.0,180.0,215.0,0.0,729.0,3324,4.51,76.0,Available,1
+570,A-140-2V,Doepfer,"['Dual/Stereo', 'Envelope Generator']",8,40.0,50.0,40.0,0.0,150.0,3322,4.45,11.0,Available,0
+571,Monsoon,After Later Audio,"['Delay', 'Digital', 'Effect', 'Pitch Shifter ', 'Sampling']",12,22.0,120.0,10.0,0.0,259.0,3320,4.45,11.0,Available,0
+572,A-135-2v,Doepfer,"['Mixer', 'Quad', 'VCA', 'Attenuator']",8,45.0,40.0,40.0,0.0,130.0,3315,4.57,7.0,Available,0
+573,A-190-4,Doepfer,['MIDI'],10,50.0,200.0,40.0,0.0,180.0,3307,3.87,15.0,Available,0
+574,Rubicon II,Intellijel,"['LFO', 'Oscillator', 'Waveshaper']",20,38.0,142.0,150.0,0.0,359.0,3300,4.47,30.0,Available,1
+575,Delay,2hp,"['Delay', 'Effect']",2,42.0,72.0,28.0,0.0,116.0,3293,3.4,15.0,Available,1
+576,Plog,Intellijel,"['Clock Generator', 'Logic']",8,29.0,55.0,11.0,0.0,220.0,3292,4.43,42.0,Available,1
+577,DSM01 Curtis Filter,Dave Smith Modular,"['Filter', 'VCA']",8,27.0,36.0,25.0,0.0,189.0,3292,4.14,42.0,Discontinued,0
+578,ES-6 mk2,Expert Sleepers,"['External', 'Expander', 'Utility']",4,50.0,103.0,52.0,0.0,155.0,3289,4.53,15.0,Discontinued,0
+579,Dual Atenuverter,Befaco,"['Attenuator', 'Utility', 'Mixer']",5,24.0,21.0,18.0,0.0,90.0,3290,4.27,15.0,,1
+580,A-155,Doepfer,['Sequencer'],50,40.0,80.0,20.0,0.0,299.0,3282,4.43,37.0,Available,0
+581,Ataxia,Dreadbox,"['Envelope Generator', 'Function Generator', 'LFO', 'Dual/Stereo']",10,35.0,75.0,24.0,0.0,89.0,3282,4.18,17.0,Discontinued,0
+582,Zagrzeb,Xaoc Devices,"['Dual/Stereo', 'Effect', 'Filter']",8,,70.0,60.0,0.0,260.0,3280,4.88,16.0,Available,1
+583,ZeroScope,vpme.de,"['Utility', 'Tuner']",6,25.0,30.0,10.0,0.0,180.0,3279,4.43,28.0,Available,1
+584,LXR eurorack module,Erica Synths,['Drum'],28,35.0,88.0,10.0,0.0,420.0,3270,4.93,15.0,Available,1
+585,Beehive (uPlaits),After Later Audio,"['Drum', 'Noise', 'Oscillator', 'Synth Voice', 'Digital']",8,25.0,50.0,5.0,0.0,238.0,3270,4.14,7.0,Available,0
+586,A-100B42,Doepfer,['Blank Panel'],42,,,,,10.0,3269,4.8,5.0,Available,0
+587,SYSTEM 100 297,Behringer,"['CV Modulation', 'Dual/Stereo', 'Mixer', 'Slew Limiter']",16,38.0,70.0,60.0,0.0,97.0,3262,3.32,22.0,Available,0
+588,Penrose Quantizer,Sonic Potions,['Quantizer'],6,40.0,60.0,3.0,0.0,95.0,3259,4.29,52.0,,0
+589,A-115,Doepfer,['Frequency Divider'],8,40.0,20.0,10.0,0.0,65.0,3255,3.66,35.0,Available,0
+590,994,Behringer,['Multiple'],4,23.0,,,,29.0,3255,2.62,13.0,Available,0
+591,Serge New Timbral Oscillator (NTO),Random*Source,"['Oscillator', 'Waveshaper']",18,40.0,115.0,80.0,0.0,555.0,3244,4.77,26.0,Available,0
+592,Dual Envelope Generator 1033,Behringer,"['Dual/Stereo', 'Envelope Generator']",16,42.0,40.0,20.0,0.0,75.0,3239,2.0,14.0,Available,0
+593,TM,2hp,"['Random', 'Sequencer']",2,42.0,23.0,7.0,0.0,98.0,3238,4.09,23.0,Available,1
+594,ADE-32 Octocontroller,Abstract Data,"['Clock Generator', 'LFO', 'Random', 'Sample and Hold', 'Utility', 'Sequencer', 'Digital']",14,35.0,135.0,110.0,0.0,350.0,3236,4.51,45.0,Available,1
+595,Multi-Envelope,Verbos Electronics,"['Envelope Generator', 'Function Generator', 'Dual/Stereo']",22,24.0,70.0,30.0,,475.0,3231,4.83,24.0,Available,0
+596,Waver,Bastl Instruments,"['Distortion', 'VCA', 'Waveshaper', 'Mixer']",8,24.0,130.0,85.0,0.0,316.0,3214,4.95,19.0,Available,0
+597,QAM,Rides in the Storm,"['Multiple', 'Quad']",4,25.0,10.0,10.0,0.0,60.0,3208,4.83,12.0,Available,1
+598,SCION,Instruō,"['CV Modulation', 'Controller', 'Function Generator', 'Quad', 'Random', 'Sample and Hold']",14,27.0,90.0,20.0,0.0,280.0,3202,4.06,18.0,Available,1
+599,Black 4 HP Blank Panel,Syinsi,['Blank Panel'],4,,,,,,3198,,,,0
+600,Buffered Mult,WMD,['Multiple'],4,25.0,30.0,30.0,0.0,138.0,3195,4.87,15.0,Available,0
+601,Cosmix,Cosmotronic,"['Distortion', 'Dual/Stereo', 'Mixer', 'Dynamics', 'Effect', 'Panning']",16,20.0,70.0,70.0,0.0,269.0,3192,4.76,25.0,,1
+602,Hermod+,Squarp Instruments,"['Clock Generator', 'LFO', 'Looper', 'MIDI', 'Quantizer', 'Random', 'Sequencer', 'Tuner']",26,20.0,400.0,20.0,,460.0,3189,5.0,16.0,Available,0
+603,Piston Honda MK II,Industrial Music Electronics,"['Oscillator', 'Digital', 'Waveshaper', 'LFO', 'Noise']",17,25.0,105.0,33.0,0.0,519.0,3174,4.53,49.0,Discontinued,0
+604,Manis Iteritas,Noise Engineering,"['Oscillator', 'Digital']",10,28.0,80.0,5.0,90.0,359.0,3169,4.76,42.0,Discontinued,1
+605,Fusion VCO2,Erica Synths,"['Distortion', 'Oscillator', 'Tube']",14,42.0,228.0,55.0,0.0,300.0,3168,5.0,23.0,Available,1
+606,LFO v2 (Black Panel),2hp,"['CV Modulation', 'LFO', 'Oscillator']",2,42.0,43.0,16.0,0.0,88.0,3161,4.0,11.0,Available,1
+607,FOUR LFO,Behringer,"['LFO', 'Quad']",14,33.0,95.0,69.0,0.0,99.0,3155,1.53,74.0,Available,0
+608,Stereo Strip,DivKid,"['Attenuator', 'Distortion', 'Dual/Stereo', 'Equalizer', 'External', 'Panning', 'PreAmp', 'VCA']",6,33.0,63.0,63.0,0.0,,3154,4.83,6.0,Available,1
+609,Knit (uPlaits),After Later Audio,"['Digital', 'Oscillator', 'Synth Voice']",6,40.0,50.0,5.0,0.0,230.0,3154,3.89,9.0,Available,0
+610,DATA (System 5V),Mordax,"['Clock Generator', 'Utility']",16,35.0,100.0,60.0,150.0,478.0,3146,5.0,10.0,Available,0
+611,DPLR,Steady State Fate,"['Delay', 'Effect', 'Dual/Stereo']",4,45.0,67.0,31.0,0.0,161.0,3147,4.41,29.0,Discontinued,1
+612,LFO2,Pittsburgh Modular,"['Dual/Stereo', 'LFO', 'TrueGrid']",6,35.0,30.0,30.0,0.0,100.0,3143,3.86,21.0,Discontinued,0
+613,Listen Four,4ms Company,"['Dual/Stereo', 'Mixer', 'Panning', 'Utility', 'PreAmp']",10,25.0,200.0,62.0,0.0,170.0,3142,4.36,11.0,Available,1
+614,Analog Delay,Pittsburgh Modular,"['Delay', 'Effect', 'TrueGrid']",16,35.0,35.0,35.0,0.0,225.0,3137,3.91,33.0,Discontinued,0
+615,Mutant Hihats,Hexinverter Électronique,"['Drum', 'Synth Voice']",13,35.0,75.0,45.0,0.0,224.0,3136,4.32,28.0,Available,1
+616,Arp,2hp,"['Sequencer', 'CV Modulation', 'Quantizer']",2,42.0,40.0,7.0,0.0,98.0,3126,3.58,19.0,Available,1
+617,923,Behringer,"['Filter', 'Noise']",8,35.0,35.0,45.0,0.0,66.0,3124,2.5,18.0,Available,0
+618,Monsoon,Michigan Synth Works,"['Delay', 'Digital', 'Dual/Stereo', 'Reverb', 'Effect']",12,20.0,120.0,10.0,0.0,190.0,3124,4.6,30.0,Available,0
+619,A-137-1,Doepfer,['Waveshaper'],14,65.0,40.0,20.0,0.0,110.0,3118,4.14,35.0,Available,0
+620,Echophon (black panel),Make Noise,"['Delay', 'Digital', 'Pitch Shifter ']",20,30.0,70.0,40.0,,359.0,3110,4.07,15.0,Available,0
+621,FUMANA,Frap Tools,"['Envelope Follower', 'Filter', 'Equalizer']",42,38.0,430.0,390.0,0.0,840.0,3110,4.76,58.0,Available,1
+622,CP3A-O,Behringer,"['Attenuator', 'Controller', 'CV Modulation', 'Utility']",8,35.0,5.0,5.0,0.0,44.0,3103,2.75,8.0,Available,0
+623,SYSTEM-500 512,Roland,"['Dual/Stereo', 'Oscillator']",16,58.0,70.0,55.0,0.0,369.0,3096,4.36,28.0,Available,0
+624,Vector Sequencer,Five12,"['Sequencer', 'Clock Generator', 'MIDI']",42,28.0,140.0,20.0,0.0,684.0,3084,4.69,49.0,Discontinued,1
+625,Graphic VCO,Erica Synths,"['Oscillator', 'Waveshaper', 'Distortion', 'Effect']",16,25.0,152.0,20.0,0.0,330.0,3079,4.64,28.0,Available,1
+626,A-190-2,Doepfer,['MIDI'],6,45.0,50.0,20.0,0.0,110.0,3077,3.7,20.0,Discontinued,0
+627,VCA Matrix,4ms Company,"['VCA', 'Mixer']",26,40.0,110.0,110.0,0.0,360.0,3071,4.44,41.0,Available,0
+628,Function (white knobs),Make Noise,"['Envelope Follower', 'Envelope Generator', 'LFO', 'Slew Limiter', 'Function Generator']",8,24.0,30.0,20.0,0.0,169.0,3070,4.25,16.0,Available,0
+629,Batumi (black panel),Xaoc Devices,"['Clock Generator', 'LFO', 'Quad', 'Random']",10,45.0,70.0,10.0,,35.0,3067,5.0,11.0,,1
+630,Sample Drum,Erica Synths,"['Drum', 'Sampling', 'Dual/Stereo']",14,,95.0,2.0,0.0,310.0,3066,4.73,11.0,,1
+631,OR,Intellijel,['Logic'],2,18.0,,,,49.0,3062,4.57,21.0,Available,1
+632,Pachinko,After Later Audio,"['Clock Generator', 'Clock Modulator', 'Quantizer', 'Random', 'Sequencer']",12,25.0,80.0,20.0,0.0,288.0,3051,3.1,10.0,Available,0
+633,Step 8,Joranalogue Audio Design,"['Sample and Hold', 'Sequencer', 'Switch']",16,35.0,110.0,45.0,0.0,385.0,3047,4.67,12.0,Available,1
+634,A-132-1,Doepfer,"['VCA', 'Dual/Stereo']",4,35.0,20.0,10.0,0.0,60.0,3042,4.19,21.0,Available,0
+635,Mojave,Qu-Bit Electronix,"['Digital', 'Dual/Stereo', 'Effect']",14,22.0,167.0,13.0,0.0,341.0,3016,3.93,15.0,Available,1
+636,A-111-4,Doepfer,"['Oscillator', 'Quad']",18,40.0,120.0,100.0,0.0,400.0,3008,4.56,16.0,Available,0
+637,E352 Cloud Terrarium,Synthesis Technology,"['LFO', 'Oscillator', 'Digital', 'Dual/Stereo']",26,37.0,65.0,24.0,0.0,838.0,3004,4.67,33.0,Discontinued,0
+638,Kick,2hp,['Drum'],2,42.0,74.0,2.0,0.0,125.0,2997,3.57,14.0,Available,1
+639,ES-5 mk3,Expert Sleepers,"['MIDI', 'Digital', 'Expander', 'External']",4,49.0,8.0,0.0,0.0,139.0,2996,3.6,10.0,Available,0
+640,Six Switches,vpme.de,"['Expander', 'Switch', 'Utility']",2,20.0,,,,50.0,2985,4.71,14.0,Available,1
+641,Varigate 4+ (Black),Malekko Heavy Industry,['Sequencer'],12,26.0,90.0,13.0,0.0,318.0,2980,4.2,10.0,Available,0
+642,A-103,Doepfer,['Filter'],8,55.0,30.0,10.0,0.0,80.0,2974,4.24,21.0,Available,0
+643,Dual Universal Slope Generator SERGE MODULAR DUSG,Random*Source,"['Dual/Stereo', 'Envelope Follower', 'Envelope Generator', 'LFO', 'Slew Limiter', 'Function Generator', 'Oscillator', 'Clock Generator']",26,40.0,90.0,80.0,0.0,450.0,2964,4.6,35.0,Available,0
+644,Multi-Delay Processor,Verbos Electronics,"['Delay', 'Digital', 'Effect', 'Reverb', 'Envelope Follower']",28,,290.0,90.0,0.0,590.0,2964,4.62,26.0,Available,0
+645,Drum Mixer,Erica Synths,"['Dynamics', 'Mixer']",14,,41.0,42.0,,180.0,2964,4.0,7.0,Available,1
+646,Multiple,Pittsburgh Modular,"['Multiple', 'Dual/Stereo']",2,20.0,,,,23.0,2956,4.39,18.0,Available,0
+647,Z5000 (BLACK),Tiptop Audio,"['Digital', 'Effect']",8,40.0,130.0,20.0,0.0,199.0,2954,4.46,13.0,Available,0
+648,A-189-1,Doepfer,"['Digital', 'Distortion', 'Effect']",8,60.0,50.0,20.0,0.0,100.0,2950,4.26,38.0,Available,0
+649,Radio Music (Black Panel),Music Thing Modular,"['Digital', 'Random', 'Sampling']",4,40.0,75.0,8.0,0.0,106.0,2950,4.55,29.0,Available,0
+650,Black Polivoks VCF V2,Erica Synths,['Filter'],10,24.0,11.0,11.0,,165.0,2943,4.81,16.0,Available,1
+651,Traffic,Jasmine & Olive Trees,"['Controller', 'CV Modulation']",8,23.0,90.0,90.0,0.0,189.0,2942,4.88,17.0,Available,0
+652,[1]f,Instruō,"['Attenuator', 'Mixer', 'Utility']",2,27.0,8.0,8.0,,99.0,2940,5.0,10.0,Available,1
+653,Mutant Brain silver,Hexinverter Électronique,['MIDI'],8,38.0,50.0,4.0,0.0,180.0,2938,4.71,7.0,Available,0
+654,Select 2,Joranalogue Audio Design,"['Attenuator', 'Sample and Hold', 'Switch']",6,30.0,25.0,25.0,0.0,175.0,2938,4.74,27.0,Available,1
+655,Outs (Mk. II),Pittsburgh Modular,['External'],6,39.0,20.0,20.0,0.0,99.0,2931,3.97,30.0,Discontinued,0
+656,Jones O'Tool Oscilloscope,Dave Jones Design,"['Utility', 'Dual/Stereo', 'TrueGrid']",8,40.0,130.0,10.0,0.0,249.0,2929,4.38,40.0,Discontinued,0
+657,Imitor Versio,Noise Engineering,"['Delay', 'Digital', 'Distortion', 'Dual/Stereo', 'Effect', 'Panning']",10,32.0,70.0,70.0,0.0,354.0,2921,4.62,16.0,Available,1
+658,Zone B.F. Black Edition,Eowave,"['Clock Generator', 'Dual/Stereo', 'LFO', 'CV Modulation']",5,40.0,40.0,10.0,,99.0,2917,4.31,35.0,,0
+659,Blank Panel,Control,['Blank Panel'],1,,,,,4.0,2916,3.0,1.0,Available,0
+660,WAV Recorder,4ms Company,"['Dual/Stereo', 'Sampling', 'Utility']",6,25.0,112.0,12.0,0.0,260.0,2913,4.61,18.0,Available,0
+661,ADSRVCA,Steady State Fate,"['Envelope Generator', 'VCA', 'LFO']",6,25.0,36.0,16.0,0.0,199.0,2912,4.67,24.0,Discontinued,1
+662,Terci Ruina,Noise Engineering,['Distortion'],4,26.0,30.0,25.0,0.0,169.0,2910,3.89,9.0,Available,1
+663,Ultrafold,Steady State Fate,"['Waveshaper', 'Dynamics', 'Distortion']",6,25.0,30.0,30.0,0.0,189.0,2910,4.56,39.0,Discontinued,1
+664,Hat (Black Panel),2hp,['Drum'],2,42.0,60.0,10.0,0.0,125.0,2905,3.58,12.0,Available,1
+665,Blck_Noir (black),Endorphin.es,"['Drum', 'Effect', 'Delay', 'Distortion', 'Filter', 'Reverb', 'Ring Modulator', 'Synth Voice']",30,25.0,240.0,75.0,0.0,519.0,2895,3.94,32.0,Available,1
+666,Modamp Module 1005,Behringer,"['CV Modulation', 'Ring Modulator', 'VCA']",16,43.0,60.0,45.0,0.0,75.0,2887,2.72,18.0,Available,0
+667,Quadra Expander,Intellijel,"['CV Modulation', 'Envelope Generator', 'Quad', 'Expander']",12,,32.0,28.0,0.0,130.0,2886,4.18,33.0,,1
+668,Freak,Vult,"['Dual/Stereo', 'Filter', 'Low Pass Gate', 'Digital', 'Distortion', 'Waveshaper', 'VCA']",12,45.0,110.0,13.0,0.0,250.0,2881,4.81,32.0,Available,1
+669,Deckard's Voice,Black Corporation,"['Oscillator', 'VCA', 'Envelope Generator', 'Noise', 'Synth Voice', 'Filter']",32,38.0,110.0,30.0,0.0,799.0,2880,4.4,15.0,Available,0
+670,Bark Filter Processor,Verbos Electronics,"['Envelope Follower', 'Filter', 'Equalizer']",34,30.0,210.0,185.0,,895.0,2878,4.61,23.0,Available,0
+671,Basimilus Iteritas Alia,Noise Engineering,"['Digital', 'Drum', 'Oscillator']",10,25.0,100.0,15.0,0.0,329.0,2870,4.8,5.0,Available,1
+672,Tune (Black Panel),2hp,"['CV Modulation', 'Quantizer', 'Utility']",2,47.0,40.0,3.0,0.0,98.0,2868,3.86,14.0,Available,1
+673,Typhoon,After Later Audio,"['Effect', 'Pitch Shifter ', 'Reverb', 'Sampling', 'VCA', 'Delay']",16,25.0,160.0,35.0,0.0,259.0,2852,4.77,13.0,Available,0
+674,SYSTEM-500 521,Roland,"['Dual/Stereo', 'Filter']",16,58.0,40.0,40.0,0.0,399.0,2848,4.7,20.0,Available,0
+675,SYSTEM-500 531,Roland,"['Mixer', 'External', 'Dual/Stereo', 'Panning']",20,58.0,195.0,165.0,0.0,359.0,2844,4.56,16.0,Available,0
+676,Orbit 3,Joranalogue Audio Design,"['LFO', 'Oscillator', 'Random']",10,30.0,70.0,65.0,0.0,275.0,2841,4.77,26.0,Available,1
+677,A-141-4,Doepfer,"['Envelope Generator', 'Quad']",8,45.0,70.0,60.0,,160.0,2835,4.5,6.0,Available,0
+678,Burst,Befaco,"['Clock Generator', 'Clock Modulator', 'Frequency Divider', 'Random']",8,30.0,50.0,25.0,0.0,160.0,2835,4.11,19.0,Available,1
+679,Geiger Counter,WMD,"['Distortion', 'Effect', 'Logic', 'Filter', 'Waveshaper', 'Digital']",10,30.0,60.0,60.0,0.0,369.0,2833,4.24,34.0,Available,0
+680,eãs,Instruō,"['Logic', 'Utility']",4,27.0,5.0,0.0,,169.0,2824,4.78,9.0,Available,1
+681,USTA,Frap Tools,"['Sequencer', 'Clock Generator', 'Quad', 'Quantizer']",36,38.0,270.0,50.0,0.0,640.0,2824,4.69,45.0,Available,1
+682,LINK,Erica Synths,"['Attenuator', 'Utility']",8,,,,,55.0,2818,4.67,12.0,Available,1
+683,SYSTEM-500 540,Roland,"['Dual/Stereo', 'Envelope Generator', 'LFO']",16,58.0,85.0,50.0,0.0,299.0,2815,4.33,12.0,Available,0
+684,Samara II,Xaoc Devices,"['Attenuator', 'Mixer', 'Multiple', 'Polarizer', 'Sample and Hold', 'Switch', 'Utility']",10,20.0,50.0,20.0,0.0,190.0,2814,4.54,24.0,Available,1
+685,Pressure Points (Original Knobs),Make Noise,"['Controller', 'Sequencer']",20,24.0,30.0,0.0,0.0,219.0,2809,4.29,7.0,Discontinued,0
+686,T43,vpme.de,"['Utility', 'CV Modulation', 'Mixer']",4,20.0,20.0,10.0,0.0,105.0,2800,4.74,27.0,Available,1
+687,OXI Pipe,Oxi Instruments,"['Expander', 'CV Modulation', 'Sequencer']",6,,,,,91.0,2796,5.0,7.0,Available,1
+688,Z2040 LP-VCF,Tiptop Audio,"['Filter', 'VCA']",8,42.0,20.0,20.0,0.0,189.0,2787,4.17,52.0,Discontinued,1
+689,A-178 V2,Doepfer,"['Controller', 'CV Modulation']",8,40.0,60.0,20.0,0.0,100.0,2786,4.0,17.0,Available,0
+690,Fracture,WMD,['Drum'],8,30.0,63.0,17.0,0.0,249.0,2772,4.46,13.0,Discontinued,0
+691,Mutable Instruments Plaits (Black/Gold),Oscillosaurus,"['Noise', 'Oscillator', 'Synth Voice', 'Waveshaper']",12,25.0,50.0,5.0,0.0,158.0,2767,4.35,20.0,Available,0
+692,LEVIT8,Erogenous Tones,"['Attenuator', 'Mixer', 'Utility', 'Polarizer']",10,29.0,50.0,50.0,0.0,215.0,2765,4.65,26.0,Available,0
+693,A-146,Doepfer,"['LFO', 'Clock Generator']",8,45.0,20.0,20.0,0.0,65.0,2764,3.5,22.0,Available,0
+694,MIXZ,Tiptop Audio,"['Mixer', 'Drum']",10,36.0,14.0,14.0,0.0,99.0,2761,3.8,25.0,Available,1
+695,STO (Black and Gold),Make Noise,['Oscillator'],8,30.0,40.0,30.0,0.0,219.0,2759,4.21,14.0,Available,0
+696,20hp Blank Panel (back side),Make Noise,['Blank Panel'],20,,,,,14.0,2758,5.0,2.0,Available,0
+697,1027 Clocked Sequential Control Module,Behringer,"['Clock Generator', 'Function Generator', 'Sequencer']",32,43.0,70.0,30.0,,95.0,2754,2.67,24.0,Available,0
+698,Time Wizard,Shakmat,"['Clock Modulator', 'Frequency Divider', 'Sequencer']",8,22.0,20.0,0.0,0.0,154.0,2748,4.67,42.0,Available,1
+699,Mixer,Befaco,['Mixer'],5,27.0,14.0,11.0,0.0,78.0,2746,4.23,13.0,,1
+700,Chimera (Black),WMD,"['Drum', 'Noise', 'Oscillator']",8,30.0,63.0,17.0,,296.0,2742,4.5,10.0,Available,0
+701,polygogo,E-RM,"['Oscillator', 'Digital', 'Dual/Stereo']",32,26.0,110.0,15.0,0.0,539.0,2739,4.67,21.0,Available,1
+702,RxMx,Make Noise,"['Mixer', 'Panning', 'Low Pass Gate']",20,24.0,35.0,30.0,,390.0,2734,4.11,38.0,Discontinued,1
+703,Hyrlo (inverted),knob.farm,"['Dual/Stereo', 'Mixer', 'Quad', 'Utility']",4,34.0,40.0,40.0,0.0,81.0,2731,4.9,29.0,Available,1
+704,Utopia,Dreadbox,"['Attenuator', 'LFO', 'Mixer', 'Utility', 'Waveshaper']",10,23.0,40.0,27.0,,89.0,2730,4.11,19.0,Available,0
+705,Pico Logic,Erica Synths,"['Logic', 'Clock Modulator']",3,35.0,22.0,0.0,,80.0,2723,4.14,14.0,Available,1
+706,DOT (black panel),Dnipro modular,"['Clock Modulator', 'Sequencer']",6,42.0,70.0,12.0,0.0,195.0,2724,4.72,18.0,Available,0
+707,Clouds (PCB Panel),Oscillosaurus,"['Effect', 'Delay', 'Pitch Shifter ', 'Reverb']",18,,120.0,10.0,,223.0,2713,4.2,15.0,Available,0
+708,Mavis,Moog Music Inc.,"['Synth Voice', 'Envelope Generator', 'Filter', 'Oscillator', 'VCA', 'Waveshaper', 'LFO', 'Sample and Hold']",44,26.0,175.0,0.0,0.0,269.0,2712,4.29,17.0,Available,0
+709,Lyra8-FX,SOMA Laboratory,"['Delay', 'Distortion']",20,40.0,90.0,20.0,0.0,220.0,2710,4.88,17.0,Available,0
+710,Hertz Donut MK III,Industrial Music Electronics,"['Digital', 'Oscillator', 'Distortion', 'Dual/Stereo']",17,25.0,150.0,50.0,0.0,525.0,2702,4.78,23.0,Available,0
+711,"MiniMod Discrete Cascaded VCA ""Dark Edition""",AJH Synth,"['VCA', 'Dual/Stereo']",10,26.0,40.0,22.0,0.0,219.0,2701,4.62,13.0,Available,0
+712,CVpal,Mutable instruments,['MIDI'],4,40.0,,,,49.0,2694,4.15,34.0,Available,1
+713,nw1,Waldorf,"['Oscillator', 'Sampling', 'Digital']",32,25.0,150.0,150.0,0.0,329.0,2693,4.0,47.0,Discontinued,0
+714,Miasma,Ritual Electronics,"['Distortion', 'Waveshaper']",10,37.0,35.0,30.0,0.0,229.0,2691,4.13,23.0,Available,1
+715,tàin,Instruō,"['Dual/Stereo', 'Switch']",4,27.0,10.0,5.0,,145.0,2687,4.67,6.0,Available,0
+716,Random Sampling,Verbos Electronics,"['CV Modulation', 'Noise', 'Random', 'Sample and Hold', 'Shift Register']",18,,120.0,80.0,0.0,579.0,2683,3.88,17.0,Available,0
+717,CHAOS,Behringer,"['Clock Generator', 'CV Modulation', 'Digital', 'Quantizer', 'Random']",18,42.0,100.0,60.0,0.0,99.0,2682,1.58,76.0,Available,0
+718,Golden Master (black),Endorphin.es,"['Dynamics', 'Equalizer', 'Utility', 'Dual/Stereo', 'Effect', 'VCA']",6,30.0,135.0,25.0,0.0,199.0,2682,3.75,8.0,Available,1
+719,Evolution,Rossum Electro-Music,['Filter'],16,25.0,85.0,75.0,0.0,549.0,2679,4.78,40.0,Available,0
+720,A-111-3,Doepfer,"['Oscillator', 'LFO']",4,65.0,40.0,40.0,0.0,160.0,2678,4.59,22.0,Available,0
+721,Mix 3,Joranalogue Audio Design,['Mixer'],6,30.0,30.0,25.0,0.0,175.0,2672,4.71,21.0,Available,1
+722,CONTROL FORGE,Rossum Electro-Music,"['Envelope Generator', 'LFO', 'Sequencer', 'Function Generator', 'Quantizer']",22,25.0,125.0,25.0,,565.0,2667,4.6,40.0,Available,0
+723,Osiris,Modbap Modular,"['Oscillator', 'Synth Voice', 'Digital']",12,28.0,50.0,50.0,0.0,332.0,2658,4.25,16.0,Available,0
+724,Switch 4,Joranalogue Audio Design,['Switch'],8,30.0,25.0,25.0,0.0,130.0,2659,4.5,18.0,Available,1
+725,A-116,Doepfer,['Waveshaper'],8,40.0,20.0,20.0,0.0,65.0,2653,3.21,33.0,Available,0
+726,1050,Behringer,"['Mixer', 'Sequencer', 'Switch']",24,42.0,110.0,20.0,0.0,111.0,2648,3.17,18.0,Available,0
+727,DPLPG (Blue),MengQiMusic,"['Filter', 'Low Pass Gate', 'VCA', 'Dual/Stereo']",2,23.0,,,,54.0,2642,4.39,28.0,Discontinued,1
+728,Lapsus Os,Noise Engineering,"['Attenuator', 'Controller', 'Multiple', 'Utility']",10,26.0,60.0,50.0,0.0,234.0,2639,4.67,9.0,Available,1
+729,Pico MODulator,Erica Synths,"['Envelope Generator', 'VCA']",3,35.0,28.0,5.0,0.0,110.0,2638,4.67,9.0,Available,1
+730,Black Blind panel 2HP,Erica Synths,['Blank Panel'],2,,,,,4.0,2629,5.0,1.0,Available,0
+731,A-198,Doepfer,['Controller'],8,40.0,40.0,20.0,0.0,200.0,2626,4.45,31.0,Available,0
+732,A-111-6V,Doepfer,"['Synth Voice', 'Oscillator']",10,50.0,60.0,60.0,0.0,190.0,2624,4.64,14.0,Available,0
+733,Pico Trigger,Erica Synths,"['Clock Generator', 'Controller', 'Function Generator']",3,35.0,13.0,0.0,0.0,100.0,2617,3.94,16.0,,1
+734,Arp (Black Panel),2hp,"['CV Modulation', 'Quantizer', 'Sequencer']",2,42.0,40.0,7.0,0.0,97.0,2613,3.0,7.0,Available,1
+735,MMF (Black Panel),2hp,['Filter'],2,42.0,55.0,55.0,0.0,106.0,2607,3.2,5.0,Available,1
+736,SoundStage,WORNG Electronics,"['Mixer', 'Dual/Stereo', 'Equalizer', 'Filter', 'Panning', 'VCA']",14,40.0,125.0,125.0,0.0,315.0,2595,4.5,12.0,Discontinued,1
+737,EX Pexp-2,ALM Busy Circuits,"['Digital', 'Expander']",2,38.0,15.0,0.0,0.0,85.0,2594,4.09,11.0,Available,0
+738,Stillson Hammer MK II,Industrial Music Electronics,"['Clock Generator', 'CV Modulation', 'Sequencer', 'Quad', 'Quantizer', 'Random', 'Clock Modulator']",32,43.0,200.0,50.0,0.0,699.0,2584,4.41,37.0,Discontinued,0
+739,A-184-1,Doepfer,"['Ring Modulator', 'Sample and Hold', 'Slew Limiter']",4,40.0,40.0,30.0,0.0,100.0,2571,4.18,11.0,Available,0
+740,Cinnamon,Bastl Instruments,['Filter'],5,35.0,30.0,30.0,0.0,109.0,2567,4.76,25.0,,1
+741,Dual Four Pole,Verbos Electronics,"['Dual/Stereo', 'Filter']",21,26.0,40.0,10.0,0.0,429.0,2564,4.41,22.0,Available,0
+742,FONT,NANO Modules,"['Filter', 'Oscillator']",6,15.0,22.0,25.0,0.0,115.0,2559,4.64,28.0,Available,1
+743,SY0.5,Michigan Synth Works,['Drum'],10,20.0,130.0,20.0,0.0,290.0,2556,4.73,15.0,Available,0
+744,GrandPa,Bastl Instruments,['Sampling'],5,35.0,50.0,0.0,0.0,210.0,2549,3.88,26.0,,1
+745,FXDf,Make Noise,['Filter'],4,24.0,27.0,27.0,0.0,111.0,2542,3.9,21.0,Discontinued,1
+746,Alan,After Later Audio,"['CV Modulation', 'Random', 'Sequencer']",6,35.0,45.0,20.0,,208.0,2539,3.83,6.0,Available,0
+747,FX AID Pro_black,Happy Nerding,"['Delay', 'Digital', 'Distortion', 'Dual/Stereo', 'Dynamics', 'Effect', 'Pitch Shifter ', 'Reverb']",14,35.0,90.0,33.0,,340.0,2538,5.0,20.0,Available,0
+748,Z-DSP (NS),Tiptop Audio,"['Delay', 'Digital', 'Distortion', 'Dual/Stereo', 'Effect', 'Filter', 'Pitch Shifter ', 'Reverb']",28,25.0,200.0,87.0,,399.0,2538,4.81,16.0,Available,0
+749,Endless Processor (both panels),Blukač,"['Digital', 'Dual/Stereo', 'Effect', 'Sampling']",16,25.0,125.0,10.0,0.0,300.0,2533,4.8,25.0,Available,1
+750,SCLPL,WMD,"['Digital', 'Dual/Stereo', 'Equalizer', 'Filter']",4,38.0,93.0,65.0,,222.0,2527,4.6,10.0,Available,0
+751,MMF,2hp,['Filter'],2,42.0,55.0,55.0,0.0,106.0,2524,4.0,6.0,Available,1
+752,Polivoks VCF (2013),Industrial Music Electronics,['Filter'],10,25.0,10.0,10.0,0.0,215.0,2522,4.35,34.0,Available,0
+753,Coral,Oxi Instruments,"['Synth Voice', 'Oscillator', 'MIDI']",14,30.0,110.0,10.0,0.0,399.0,2521,4.87,15.0,Available,1
+754,Snare,2hp,['Drum'],2,42.0,75.0,3.0,0.0,125.0,2519,3.09,11.0,Available,1
+755,Echo,Synthrotek,"['Effect', 'Delay']",4,50.0,40.0,20.0,0.0,115.0,2520,3.69,35.0,Available,1
+756,E340 Cloud Generator,Synthesis Technology,['Oscillator'],14,47.0,55.0,25.0,0.0,375.0,2518,4.35,55.0,Discontinued,0
+757,Pro Output (Black),WMD,"['External', 'Dual/Stereo']",6,39.0,60.0,60.0,0.0,255.0,2517,4.73,22.0,Discontinued,0
+758,E352 Cloud Terrarium (black panel),Synthesis Technology,"['Digital', 'LFO', 'Oscillator', 'Dual/Stereo']",26,37.0,75.0,10.0,0.0,838.0,2517,4.68,19.0,Discontinued,0
+759,Maths v2 (Grayscale panel),Grayscale,"['Clock Generator', 'CV Modulation', 'Envelope Generator', 'Slew Limiter']",20,24.0,60.0,50.0,,261.0,2517,4.6,15.0,,1
+760,Fold Processor,Tiptop Audio,"['Waveshaper', 'Frequency Divider']",12,31.0,60.0,55.0,0.0,122.0,2514,3.94,35.0,Available,1
+761,Electus Versio,Noise Engineering,"['Dual/Stereo', 'Effect', 'Reverb', 'Digital', 'Delay', 'Distortion']",10,31.0,70.0,70.0,,354.0,2513,4.55,11.0,Available,1
+762,Pico Multi2,Erica Synths,['Multiple'],3,35.0,20.0,14.0,0.0,60.0,2512,4.9,10.0,Available,0
+763,HiHats D,Erica Synths,['Drum'],10,,56.0,35.0,0.0,200.0,2509,4.36,11.0,Available,1
+764,Monsoon,CalSynth,"['Delay', 'Reverb', 'Effect', 'Digital', 'Pitch Shifter ', 'Sampling']",12,25.0,120.0,10.0,0.0,204.0,2491,4.67,12.0,Available,1
+765,QCD Expander:,4ms Company,"['Expander', 'Clock Modulator']",12,25.0,44.0,30.0,0.0,149.0,2487,4.64,11.0,Available,0
+766,Z8000 MK1,Tiptop Audio,"['CV Modulation', 'Sequencer']",28,59.0,70.0,70.0,0.0,,2487,4.2,50.0,Discontinued,1
+767,Sequence Selector,Verbos Electronics,"['CV Modulation', 'Sequencer', 'Switch']",16,,50.0,30.0,0.0,439.0,2485,4.46,13.0,Available,0
+768,SY0.5 Special Edition,Michigan Synth Works,['Drum'],10,,130.0,20.0,,293.0,2470,4.86,14.0,Available,0
+769,Scale - Polarize - Offset (S.P.O),Steady State Fate,"['Attenuator', 'Polarizer', 'Utility', 'Mixer', 'Dual/Stereo']",4,25.0,21.0,21.0,0.0,139.0,2470,4.64,25.0,Discontinued,1
+770,Koszalin,Xaoc Devices,"['Effect', 'Digital']",10,43.0,140.0,30.0,0.0,330.0,2468,4.82,11.0,Available,1
+771,SumDif,Shakmat,"['Dual/Stereo', 'Mixer', 'Multiple', 'Utility']",2,29.0,15.0,15.0,0.0,85.0,2465,4.82,33.0,Available,1
+772,Rings,Oscillosaurus,"['External', 'Filter', 'Oscillator']",14,25.0,120.0,5.0,0.0,157.0,2463,4.21,14.0,Available,0
+773,A-138d,Doepfer,"['External', 'Mixer']",8,40.0,20.0,20.0,0.0,65.0,2462,3.83,23.0,Available,0
+774,Hyrlo,knob.farm,"['Dual/Stereo', 'Mixer', 'Utility', 'Quad']",4,34.0,40.0,40.0,0.0,81.0,2462,4.7,50.0,Available,1
+775,A-111-6,Doepfer,"['Synth Voice', 'Oscillator']",10,50.0,60.0,60.0,0.0,180.0,2454,4.56,16.0,Available,0
+776,A-138i,Doepfer,"['Mixer', 'Switch', 'Quad', 'Attenuator']",6,35.0,10.0,10.0,0.0,80.0,2444,4.3,10.0,Available,0
+777,Shelves (2015),Mutable instruments,"['Equalizer', 'Filter']",18,25.0,75.0,75.0,0.0,229.0,2442,4.19,16.0,Discontinued,1
+778,Katowice,Xaoc Devices,"['Dynamics', 'Equalizer', 'Filter', 'VCA', 'Dual/Stereo']",10,,100.0,100.0,,240.0,2442,4.86,14.0,Available,1
+779,Little Mikey,Expert Sleepers,"['PreAmp', 'External']",8,43.0,51.0,19.0,0.0,158.0,2441,4.71,7.0,Available,0
+780,E560 Deflector Shield,Synthesis Technology,"['Phase Shifter', 'Ring Modulator', 'Effect', 'Pitch Shifter ', 'Digital']",14,33.0,90.0,20.0,0.0,399.0,2437,4.26,47.0,Discontinued,0
+781,Optodist,RYO,"['Distortion', 'VCA']",6,31.0,16.0,16.0,0.0,116.0,2436,4.3,37.0,Available,0
+782,SL3KT,WMD,['Switch'],4,30.0,10.0,10.0,0.0,124.0,2434,4.33,9.0,Discontinued,0
+783,Div,2hp,"['Clock Modulator', 'Utility', 'Digital', 'Dual/Stereo']",2,42.0,30.0,3.0,0.0,98.0,2433,4.21,19.0,Available,1
+784,Dystopia,Dreadbox,"['Filter', 'Noise', 'Random']",10,35.0,56.0,67.0,,89.0,2432,3.93,14.0,Available,0
+785,Melotus Versio,Noise Engineering,"['Digital', 'Effect', 'Dual/Stereo', 'Delay']",10,31.0,70.0,70.0,0.0,354.0,2424,4.82,17.0,Available,1
+786,Benjolin,Epoch Modular,"['Oscillator', 'Random', 'Sequencer', 'Logic', 'LFO', 'Noise']",18,22.0,57.0,57.0,0.0,449.0,2421,4.4,45.0,Discontinued,0
+787,CVP,Manhattan Analog,"['Attenuator', 'Slew Limiter', 'Multiple', 'Polarizer']",4,38.0,16.0,16.0,0.0,78.0,2416,4.32,31.0,Available,0
+788,V-CV,Steady State Fate,"['Distortion', 'Expander', 'VCA']",2,23.0,,,,,2410,5.0,4.0,Available,1
+789,Unity Mixer,Malekko Heavy Industry,['Mixer'],2,15.0,20.0,0.0,0.0,85.0,2410,4.08,12.0,Available,0
+790,Sequential Switch Matrix (SSM),WMD,"['Logic', 'Sequencer', 'Switch', 'Utility']",16,25.0,80.0,32.0,0.0,298.0,2410,4.68,34.0,Available,0
+791,nanoRings,CalSynth,"['Digital', 'Effect', 'Filter', 'Reverb', 'Resonator']",8,25.0,110.0,5.0,,151.0,2407,4.67,15.0,Available,0
+792,Euclid,2hp,"['Clock Generator', 'Clock Modulator', 'Sequencer']",2,42.0,21.0,2.0,0.0,98.0,2405,3.64,11.0,Available,1
+793,DROID,Der Mann mit der Maschine,"['Envelope Generator', 'Frequency Divider', 'Function Generator', 'LFO', 'Quantizer', 'Random', 'Sequencer', 'Slew Limiter']",8,40.0,154.0,15.0,0.0,398.0,2403,4.8,87.0,Available,1
+794,Dinky's Taiko,ALM Busy Circuits,"['Digital', 'Drum', 'Noise', 'Oscillator']",12,32.0,80.0,0.0,0.0,270.0,2397,4.29,38.0,Available,0
+795,WAVEFORMS,Pittsburgh Modular,"['Oscillator', 'Waveshaper', 'LFO']",10,37.0,70.0,65.0,0.0,265.0,2396,4.12,24.0,Discontinued,0
+796,Mutant Hot Glue,Hexinverter Électronique,"['Drum', 'Dynamics', 'Effect', 'Mixer', 'Utility']",24,35.0,70.0,70.0,0.0,359.0,2396,4.5,20.0,Available,1
+797,Filter,Pittsburgh Modular,['Filter'],12,35.0,31.0,31.0,,154.0,2395,4.52,33.0,Discontinued,0
+798,Mutant Clap,Hexinverter Électronique,"['Drum', 'Noise', 'Oscillator', 'Synth Voice']",13,35.0,75.0,35.0,0.0,189.0,2394,4.79,19.0,Available,1
+799,ES-3 MK3,Expert Sleepers,"['MIDI', 'Controller', 'Utility']",8,53.0,168.0,30.0,0.0,199.0,2390,4.59,34.0,Discontinued,0
+800,AXYS,WMD,"['Dual/Stereo', 'Mixer', 'Panning', 'VCA']",6,38.0,50.0,50.0,,204.0,2388,4.6,10.0,Available,0
+801,Diode Chaos,Złob,"['LFO', 'Random']",3,45.0,10.0,10.0,0.0,89.0,2384,4.86,21.0,Available,0
+802,PPEXP1,ALM Busy Circuits,"['Expander', 'MIDI']",4,32.0,40.0,,,143.0,2380,5.0,3.0,Available,0
+803,i-o47,Instruō,"['Filter', 'Resonator']",14,27.0,50.0,50.0,0.0,355.0,2378,4.43,14.0,Available,0
+804,Loop (Black Panel),2hp,"['Sampling', 'Digital', 'Looper']",2,46.0,83.0,8.0,0.0,138.0,2376,4.33,6.0,Available,1
+805,VCA,Manhattan Analog,['VCA'],4,38.0,15.0,16.0,0.0,89.0,2373,4.56,18.0,,0
+806,ADDAC207,ADDAC System,"['Quantizer', 'Quad']",10,52.0,150.0,50.0,,417.0,2371,4.14,22.0,Available,0
+807,Sallen Key Filter BF-22,Befaco,"['Dual/Stereo', 'Filter']",17,47.0,40.0,35.0,,230.0,2370,4.44,27.0,,1
+808,Audio Frequency Generator (AFG),Livewire Electronics,"['Oscillator', 'LFO']",28,56.0,120.0,120.0,0.0,399.0,2362,4.45,47.0,,0
+809,Arpitecht,WMD,"['Quantizer', 'Sequencer']",12,30.0,70.0,35.0,0.0,263.0,2358,4.56,18.0,Available,0
+810,A-143-9,Doepfer,"['Oscillator', 'LFO']",8,50.0,30.0,30.0,0.0,75.0,2355,4.05,37.0,Available,0
+811,Pico VCA,Erica Synths,"['Dual/Stereo', 'VCA']",3,35.0,14.0,14.0,0.0,65.0,2351,4.0,11.0,,1
+812,DATA (WHITE),Mordax,"['Clock Generator', 'Clock Modulator', 'Dual/Stereo', 'LFO', 'Oscillator', 'Quad', 'Tuner', 'Utility']",16,35.0,250.0,60.0,0.0,353.0,2351,5.0,17.0,Available,1
+813,A-132-3v,Doepfer,"['Dual/Stereo', 'VCA']",8,50.0,30.0,30.0,0.0,115.0,2351,4.1,10.0,Available,0
+814,PER|FORMER,Westlicht,"['Clock Generator', 'Controller', 'CV Modulation', 'Function Generator', 'MIDI', 'Sequencer']",34,25.0,100.0,15.0,0.0,400.0,2349,4.77,53.0,Available,0
+815,Twin waves,Klavis,"['Digital', 'Dual/Stereo', 'LFO', 'Noise', 'Oscillator', 'Quantizer', 'Random', 'Ring Modulator']",8,38.0,46.0,18.0,0.0,229.0,2347,4.69,70.0,Discontinued,1
+816,QSC - Quad Stereo Channel,Frap Tools,"['Mixer', 'Quad', 'VCA', 'Dual/Stereo']",18,38.0,170.0,170.0,0.0,425.0,2346,4.71,17.0,Available,1
+817,Hertz Donut MK II,Industrial Music Electronics,"['Oscillator', 'Digital', 'Dual/Stereo', 'LFO']",17,25.0,100.0,35.0,0.0,479.0,2347,4.5,42.0,Discontinued,0
+818,μStep,Intellijel,['Sequencer'],4,38.0,29.0,0.0,0.0,199.0,2345,4.0,34.0,Discontinued,0
+819,Ornament & Crime (Grayscale panel),Grayscale,"['Digital', 'Quad']",14,25.0,85.0,10.0,,,2342,4.47,15.0,Available,1
+820,A-185-2v,Doepfer,"['Attenuator', 'CV Modulation', 'Mixer', 'Multiple', 'Utility']",6,45.0,10.0,10.0,0.0,81.0,2341,4.4,15.0,Available,0
+821,Cosmix Pro,Cosmotronic,['Mixer'],22,20.0,170.0,170.0,,399.0,2342,4.33,12.0,Available,1
+822,µBurst,Michigan Synth Works,"['Delay', 'Digital', 'Effect', 'Pitch Shifter ', 'Sampling']",8,,110.0,10.0,0.0,200.0,2333,4.05,19.0,Available,0
+823,1036,Behringer,"['Dual/Stereo', 'Random', 'Sample and Hold']",16,,40.0,40.0,0.0,85.0,2333,2.76,17.0,Available,0
+824,Godspeed (black),Endorphin.es,"['Oscillator', 'Tuner', 'Waveshaper', 'Noise']",6,38.0,100.0,45.0,0.0,279.0,2330,4.3,10.0,Available,1
+825,SC - Stereo Channel,Frap Tools,"['Dual/Stereo', 'Mixer']",6,38.0,70.0,45.0,0.0,165.0,2328,5.0,4.0,Available,0
+826,904B,Behringer,['Filter'],8,39.0,55.0,55.0,0.0,75.0,2328,1.67,9.0,Available,0
+827,A-143-1,Doepfer,"['LFO', 'Envelope Generator', 'Quad', 'Comparator', 'Function Generator']",28,50.0,70.0,40.0,0.0,190.0,2320,4.37,30.0,Available,0
+828,Dynamix,Make Noise,"['Low Pass Gate', 'Mixer', 'VCA', 'Dual/Stereo', 'Attenuator', 'Dynamics']",10,24.0,55.0,45.0,0.0,185.0,2318,4.33,21.0,Discontinued,0
+829,uBurst,After Later Audio,"['Delay', 'Digital', 'Effect', 'Pitch Shifter ', 'Sampling']",8,22.0,120.0,10.0,,156.0,2308,4.27,11.0,Available,0
+830,A-145-4V,Doepfer,"['LFO', 'Quad']",4,30.0,30.0,30.0,,90.0,2302,4.0,7.0,Available,0
+831,Chord Organ,Music Thing Modular,"['Synth Voice', 'Digital', 'Oscillator']",4,40.0,75.0,8.0,0.0,103.0,2297,4.58,19.0,Available,0
+832,TM (Black Panel),2hp,"['Sequencer', 'Random']",2,42.0,23.0,7.0,0.0,98.0,2295,4.0,11.0,Available,1
+833,Batumi II,Xaoc Devices,"['Digital', 'LFO', 'Oscillator', 'Quad', 'Random', 'Clock Generator', 'CV Modulation']",10,45.0,90.0,50.0,0.0,330.0,2295,4.75,4.0,Available,1
+834,Junction,Acid Rain Technology,"['Attenuator', 'Mixer', 'Multiple', 'Polarizer', 'Quad']",4,25.0,23.0,20.0,0.0,101.0,2289,5.0,12.0,Available,1
+835,AI001 Multiple,AI Synthesis,['Multiple'],2,14.0,,,,19.0,2287,4.7,10.0,,1
+836,Pony VCO,Befaco,"['LFO', 'Oscillator']",4,30.0,37.0,26.0,0.0,238.0,2282,3.5,4.0,Available,0
+837,µO_C micro Ornament & Crime,Michigan Synth Works,"['LFO', 'Quantizer', 'Random', 'Sequencer', 'Utility', 'Envelope Generator', 'Tuner', 'Quad']",8,,85.0,10.0,0.0,232.0,2276,4.95,22.0,Available,0
+838,20hp Blank Panel (Maths Lightning Bolts),Make Noise,['Blank Panel'],20,,,,,14.0,2276,4.25,8.0,,1
+839,FX AID (black & gold),Happy Nerding,"['Delay', 'Distortion', 'Effect', 'Filter', 'Reverb', 'Dual/Stereo']",4,45.0,80.0,30.0,0.0,180.0,2275,4.88,8.0,Available,0
+840,Moskwa II,Xaoc Devices,"['Clock Generator', 'Quantizer', 'Random', 'Sequencer']",20,25.0,40.0,0.0,0.0,350.0,2274,4.62,13.0,Available,1
+841,RS-95E,Analogue Systems,['Oscillator'],12,65.0,65.0,65.0,0.0,275.0,2272,4.37,27.0,Available,0
+842,Dual VCA,Pittsburgh Modular,"['VCA', 'Mixer', 'Dual/Stereo', 'TrueGrid']",8,35.0,30.0,30.0,,145.0,2271,3.67,18.0,Discontinued,0
+843,Chimera,WMD,"['Drum', 'Oscillator']",8,30.0,63.0,17.0,0.0,242.0,2269,4.0,12.0,Discontinued,0
+844,S+H,2hp,"['Dual/Stereo', 'Sample and Hold']",2,42.0,5.0,5.0,0.0,80.0,2267,3.17,6.0,Available,1
+845,A-199v,Doepfer,"['Reverb', 'Effect']",8,50.0,80.0,10.0,0.0,140.0,2268,4.5,8.0,Available,0
+846,Knight's Gallop,Shakmat,"['Dual/Stereo', 'Sequencer', 'Clock Modulator']",8,22.0,22.0,0.0,0.0,195.0,2265,4.72,36.0,,1
+847,0-CTRL,Make Noise,"['Clock Generator', 'Clock Modulator', 'Controller', 'Sequencer', 'Envelope Generator']",45,,400.0,,,449.0,2264,4.37,27.0,Available,0
+848,Planar,Intellijel,"['Controller', 'Mixer', 'Panning', 'Quad', 'VCA']",14,38.0,103.0,95.0,0.0,359.0,2265,4.59,32.0,Discontinued,0
+849,QUART,NANO Modules,"['CV Modulation', 'Envelope Generator', 'Function Generator', 'LFO', 'Oscillator', 'Quad']",10,15.0,25.0,6.0,0.0,165.0,2262,4.38,21.0,Available,1
+850,Overseer (black panel),WMD,"['Dual/Stereo', 'Filter']",8,40.0,100.0,100.0,,249.0,2258,4.45,11.0,Discontinued,0
+851,MEX,Befaco,"['Expander', 'Sequencer']",4,20.0,20.0,0.0,0.0,84.0,2254,4.7,10.0,Available,0
+852,QuantiZer,Tiptop Audio,"['Digital', 'Quantizer', 'Utility']",10,43.0,60.0,5.0,0.0,315.0,2252,3.85,13.0,Available,1
+853,SYSTEM-500 530,Roland,"['VCA', 'Dual/Stereo', 'Mixer']",16,58.0,50.0,35.0,0.0,299.0,2251,4.44,18.0,Available,0
+854,Warna II,Xaoc Devices,"['Mixer', 'Multiple', 'Polarizer', 'Utility']",6,25.0,50.0,50.0,0.0,99.0,2251,4.59,37.0,Available,0
+855,DVCA,Antumbra,"['Attenuator', 'CV Modulation', 'VCA', 'Dual/Stereo', 'Mixer']",4,20.0,17.0,17.0,0.0,107.0,2252,4.33,12.0,Available,0
+856,Listen Four 1/4,4ms Company,"['Dual/Stereo', 'Mixer', 'Panning', 'Utility']",12,29.0,290.0,101.0,0.0,188.0,2246,4.89,9.0,Available,1
+857,MISO,Tiptop Audio,"['CV Modulation', 'Mixer', 'Utility']",10,42.0,55.0,55.0,,89.0,2245,4.36,14.0,Available,1
+858,961,Behringer,"['External', 'Sequencer', 'Utility']",21,35.0,50.0,0.0,0.0,66.0,2244,1.83,6.0,Available,0
+859,Cinnamon - Black,Bastl Instruments,['Filter'],5,35.0,30.0,30.0,,160.0,2239,3.83,6.0,Available,0
+860,Cnōc,Instruō,"['Envelope Follower', 'Envelope Generator', 'Function Generator', 'LFO', 'Logic', 'Slew Limiter']",4,27.0,45.0,40.0,0.0,268.0,2237,5.0,6.0,Available,0
+861,CalTrans,Klavis,"['Quantizer', 'Tuner', 'Utility', 'Quad', 'Slew Limiter']",6,36.0,44.0,8.0,0.0,189.0,2236,4.75,24.0,Available,1
+862,Richter Oscillator II,Malekko Heavy Industry,"['LFO', 'Oscillator']",14,35.0,90.0,90.0,0.0,279.0,2236,4.46,46.0,,0
+863,Beehive (Micro Plaits) Black,Michigan Synth Works,"['Digital', 'Oscillator', 'Dual/Stereo', 'Drum', 'Synth Voice']",8,,50.0,5.0,0.0,201.0,2235,4.55,11.0,Available,0
+864,FHX-8GT Gate Expander for FH-2,Expert Sleepers,"['Clock Generator', 'Expander']",4,41.0,16.0,0.0,0.0,86.0,2230,5.0,6.0,Available,0
+865,Black Stereo Mixer V3,Erica Synths,"['Mixer', 'Dual/Stereo']",10,25.0,25.0,15.0,,130.0,2232,4.58,12.0,Available,1
+866,Popple,After Later Audio,"['Filter', 'Dual/Stereo']",8,,35.0,35.0,0.0,238.0,2231,4.0,8.0,Available,0
+867,Pico MULTI,Erica Synths,"['Multiple', 'Utility']",3,35.0,20.0,14.0,0.0,60.0,2221,4.36,11.0,,1
+868,4x Stereo Mix,Happy Nerding,"['Mixer', 'Dual/Stereo', 'Quad']",4,35.0,65.0,47.0,,110.0,2221,4.58,12.0,Available,0
+869,Pons Asinorum (Black),Noise Engineering,"['CV Modulation', 'Envelope Generator', 'LFO']",6,26.0,60.0,50.0,0.0,234.0,2220,4.0,6.0,Available,1
+870,Black Quad VCA2,Erica Synths,"['Attenuator', 'Mixer', 'Quad', 'VCA']",10,35.0,64.0,62.0,,200.0,2218,5.0,2.0,Available,1
+871,Blank Panel,Control,['Blank Panel'],10,,,,,5.0,2218,,,Available,0
+872,tELHARMONIC (white knobs),Make Noise,"['Digital', 'Noise', 'Oscillator', 'Synth Voice']",14,30.0,139.0,10.0,0.0,379.0,2216,4.26,23.0,Discontinued,0
+873,A-141-2,Doepfer,"['Envelope Generator', 'LFO']",14,70.0,40.0,30.0,,130.0,2215,4.45,22.0,Available,0
+874,Pico SEQS,Erica Synths,"['Sequencer', 'Switch']",3,35.0,22.0,10.0,0.0,70.0,2214,4.29,17.0,Available,1
+875,Wood Filler,Pittsburgh Modular,['Blank Panel'],4,,,,,,2214,,,,0
+876,A-105,Doepfer,['Filter'],8,45.0,30.0,20.0,0.0,120.0,2213,4.59,27.0,Discontinued,0
+877,Quad Invert,Intellijel,"['Quad', 'Polarizer', 'Utility']",2,29.0,4.0,12.0,0.0,75.0,2208,4.38,13.0,Available,1
+878,Quantimator,Toppobrillo,['Quantizer'],8,40.0,25.0,0.0,0.0,260.0,2202,4.1,31.0,Discontinued,0
+879,ADDAC207 Intuitive Quantizer (black),ADDAC System,"['Quantizer', 'Quad']",10,52.0,150.0,50.0,0.0,429.0,2202,4.36,11.0,Available,0
+880,Brain Seed,Antimatter Audio,"['Quantizer', 'Random', 'Sample and Hold', 'Sequencer', 'CV Modulation', 'Digital', 'Clock Modulator']",4,48.0,45.0,45.0,0.0,249.0,2199,4.37,38.0,Discontinued,0
+881,"MiniMod Contour Generators ""Dark Edition""",AJH Synth,"['Envelope Generator', 'Dual/Stereo']",12,26.0,38.0,15.0,0.0,289.0,2199,4.36,11.0,Available,0
+882,Mikrophonie (2017 new panel design),Music Thing Modular,"['External', 'PreAmp']",4,25.0,5.0,0.0,0.0,45.0,2198,4.4,10.0,Available,0
+883,Per4mer,Modbap Modular,"['Effect', 'Delay', 'Digital', 'Quad', 'Reverb', 'Dual/Stereo', 'Dynamics', 'Sampling']",14,25.0,50.0,0.0,0.0,518.0,2196,4.7,10.0,Available,0
+884,uO_C,Antumbra,"['LFO', 'Sample and Hold', 'Quantizer', 'Sequencer', 'Clock Generator', 'Envelope Generator', 'Slew Limiter', 'Utility']",8,25.0,85.0,10.0,0.0,289.0,2197,4.3,23.0,Available,0
+885,Data Bender (Silver),Qu-Bit Electronix,"['Digital', 'Distortion', 'Dual/Stereo', 'Sampling', 'Effect']",14,28.0,58.0,60.0,0.0,359.0,2196,4.67,9.0,Available,1
+886,ModBase 09,Jomox,['Drum'],20,53.0,140.0,80.0,0.0,399.0,2195,4.53,15.0,Discontinued,0
+887,3x VCA - black,Happy Nerding,"['Mixer', 'VCA']",6,35.0,60.0,60.0,,159.0,2193,4.88,17.0,Available,0
+888,LFO v2,2hp,"['CV Modulation', 'LFO', 'Oscillator']",2,42.0,40.0,6.0,0.0,88.0,2191,4.38,8.0,Available,1
+889,TEX MIX - 4 Mono Channels,Tesseract Modular,"['Mixer', 'VCA']",12,21.0,13.0,8.0,,80.0,2190,4.42,12.0,Available,0
+890,A-143-4,Doepfer,"['Oscillator', 'LFO', 'Quad']",22,60.0,100.0,100.0,,220.0,2190,4.38,29.0,Available,0
+891,Sinc Defero (Black),Noise Engineering,"['Attenuator', 'Utility', 'Multiple']",4,26.0,70.0,30.0,0.0,134.0,2186,4.56,9.0,Available,1
+892,4hp Blank Panel,Make Noise,['Blank Panel'],4,,,,,5.0,2182,5.0,8.0,Available,0
+893,Dixie,Intellijel,"['LFO', 'Oscillator']",4,57.0,50.0,44.0,0.0,170.0,2180,4.48,21.0,Discontinued,0
+894,A-181,Doepfer,['Multiple'],4,30.0,,,,40.0,2179,3.6,15.0,Available,0
+895,Chance,Qu-Bit Electronix,"['Clock Generator', 'CV Modulation', 'Noise', 'Random']",14,34.0,45.0,17.0,0.0,267.0,2177,4.07,15.0,Discontinued,1
+896,DLY,Synthrotek,"['Delay', 'Effect']",4,46.0,56.0,10.0,0.0,139.0,2177,3.65,31.0,Available,0
+897,Boss Bow Two,ALM Busy Circuits,['Switch'],8,38.0,40.0,10.0,0.0,185.0,2172,4.43,7.0,Available,0
+898,ModBase 09 Mk II,Jomox,['Drum'],20,53.0,140.0,80.0,0.0,369.0,2171,4.92,12.0,Available,0
+899,Bionic Lester MK III,Industrial Music Electronics,"['Filter', 'Dual/Stereo', 'Distortion', 'VCA', 'Digital']",15,40.0,146.0,52.0,0.0,433.0,2169,4.84,19.0,Available,0
+900,Time Warp,WMD,"['Envelope Follower', 'Envelope Generator', 'Slew Limiter', 'Dual/Stereo']",4,30.0,50.0,50.0,,151.0,2169,4.75,4.0,Available,0
+901,Black VCO2,Erica Synths,"['LFO', 'Oscillator', 'Waveshaper']",12,35.0,71.0,62.0,0.0,230.0,2168,4.29,7.0,Available,1
+902,ABC,Bastl Instruments,['Mixer'],5,35.0,10.0,10.0,0.0,100.0,2168,4.36,11.0,,1
+903,Dual VCF,Erica Synths,['Filter'],18,35.0,40.0,36.0,0.0,350.0,2164,4.21,14.0,Available,1
+904,Cymbals,Erica Synths,['Drum'],10,40.0,95.0,36.0,0.0,200.0,2162,4.43,7.0,Available,1
+905,Ooots,knob.farm,"['Distortion', 'Dual/Stereo', 'Effect', 'Equalizer', 'External']",6,40.0,120.0,70.0,0.0,158.0,2154,4.58,24.0,Available,1
+906,Switchblade,Acid Rain Technology,"['CV Modulation', 'Mixer', 'Switch', 'Utility']",4,30.0,50.0,10.0,0.0,107.0,2154,4.81,16.0,Discontinued,1
+907,Bass Drum,Erica Synths,['Drum'],14,30.0,60.0,30.0,0.0,225.0,2152,4.11,9.0,Available,1
+908,Jack Expander,Five12,"['Expander', 'MIDI']",12,44.0,30.0,30.0,0.0,323.0,2146,4.89,9.0,Discontinued,1
+909,Lúbadh USB expander,Instruō,['Expander'],2,,,,,98.0,2143,4.0,2.0,Available,0
+910,Tapographic Delay,4ms Company,"['Delay', 'Digital', 'Effect', 'Dual/Stereo', 'Filter', 'Reverb']",18,25.0,125.0,32.0,0.0,449.0,2141,4.23,13.0,Available,1
+911,Contour,Make Noise,"['Clock Generator', 'Envelope Generator', 'LFO', 'Function Generator']",8,24.0,38.0,17.0,0.0,119.0,2139,4.43,23.0,Discontinued,0
+912,CV Thing,Befaco,"['Controller', 'MIDI']",6,32.0,50.0,8.0,0.0,240.0,2138,4.25,12.0,Available,0
+913,Loquelic Iteritas (Black),Noise Engineering,"['Digital', 'Oscillator']",10,28.0,80.0,5.0,90.0,359.0,2135,4.96,23.0,Available,1
+914,Triptych,Steady State Fate,"['Distortion', 'Filter', 'VCA', 'Effect']",14,,119.0,95.0,0.0,369.0,2135,4.53,17.0,Available,1
+915,Lipsk,Xaoc Devices,"['Expander', 'Logic']",6,20.0,30.0,0.0,,150.0,2128,4.58,12.0,Available,1
+916,Aikido,Bastl Instruments,"['Dynamics', 'Envelope Follower', 'Equalizer', 'Mixer', 'Quad', 'VCA']",11,24.0,120.0,120.0,0.0,289.0,2129,5.0,8.0,Available,0
+917,µO_C micro Ornament & Crime (silver),Michigan Synth Works,"['LFO', 'Quantizer', 'Random', 'Sequencer', 'Utility']",8,35.0,85.0,10.0,0.0,253.0,2126,4.6,10.0,Available,0
+918,Afterneath,EarthQuaker Devices,"['Effect', 'Delay', 'Dual/Stereo', 'Reverb']",16,32.0,95.0,0.0,0.0,222.0,2121,4.67,12.0,Available,1
+919,Mindphaser,Hexinverter Électronique,"['CV Modulation', 'Oscillator', 'Waveshaper', 'Ring Modulator']",30,24.0,110.0,100.0,0.0,540.0,2116,4.77,22.0,Available,1
+920,Basimilus Iteritas,Noise Engineering,"['Digital', 'Drum']",12,28.0,80.0,5.0,90.0,349.0,2114,4.5,40.0,Discontinued,1
+921,uO_c (black panel),Grayscale,"['CV Modulation', 'Digital', 'Quad']",8,25.0,85.0,10.0,0.0,,2113,4.8,10.0,,1
+922,VCMC,Befaco,['MIDI'],20,30.0,64.0,12.0,0.0,360.0,2108,4.5,12.0,Available,1
+923,VCO,2hp,"['LFO', 'Oscillator']",2,42.0,27.0,24.0,0.0,121.0,2107,4.54,13.0,Available,1
+924,Fusion Delay/Flanger/Vintage Ensemble,Erica Synths,"['Delay', 'Distortion', 'Effect', 'Tube']",20,35.0,35.0,170.0,0.0,375.0,2106,4.29,7.0,,1
+925,TAI-4,Vermona,"['Dual/Stereo', 'Utility', 'External']",14,42.0,20.0,20.0,0.0,288.0,2105,4.67,21.0,Available,0
+926,EON,Qu-Bit Electronix,"['Envelope Generator', 'LFO', 'Noise', 'Oscillator']",2,46.0,60.0,10.0,0.0,149.0,2100,3.87,15.0,Discontinued,1
+927,Desmodus Versio (Silver),Noise Engineering,"['Digital', 'Dual/Stereo', 'Effect', 'Reverb']",10,28.0,70.0,70.0,0.0,354.0,2098,4.95,19.0,Available,1
+928,Drum Sequencer with Black Keys,Erica Synths,['Sequencer'],42,30.0,152.0,56.0,0.0,648.0,2096,4.67,9.0,Available,0
+929,Black 8-Multi V2,Erica Synths,['Multiple'],4,25.0,25.0,25.0,,65.0,2096,3.43,7.0,Available,1
+930,smooth / stepped generator SERGE MODULAR SSG,Random*Source,"['Comparator', 'Function Generator', 'LFO', 'Sample and Hold', 'Slew Limiter', 'Waveshaper', 'Random']",18,35.0,30.0,30.0,0.0,300.0,2094,4.86,14.0,Available,0
+931,A-133-2,Doepfer,"['Attenuator', 'Dual/Stereo', 'Polarizer', 'Ring Modulator', 'VCA']",4,40.0,20.0,20.0,0.0,99.0,2093,4.33,9.0,Available,0
+932,nRings,After Later Audio,"['Digital', 'Effect', 'Filter', 'Oscillator', 'Synth Voice']",8,25.0,110.0,5.0,,219.0,2084,4.12,8.0,Available,0
+933,Trim,2hp,"['Attenuator', 'CV Modulation', 'Utility']",2,15.0,,,,41.0,2085,4.0,12.0,Available,1
+934,FX AID XL (black & gold),Happy Nerding,"['Delay', 'Digital', 'Distortion', 'Effect', 'Pitch Shifter ', 'Reverb', 'Dual/Stereo']",6,45.0,80.0,30.0,,239.0,2081,4.71,7.0,Available,0
+935,Spring Reverb,Befaco,['Reverb'],8,50.0,51.0,34.0,0.0,220.0,2072,4.47,19.0,,1
+936,Penta,RYO,"['Sequencer', 'Clock Modulator', 'Waveshaper']",4,39.0,6.0,1.0,,107.0,2064,4.05,20.0,Available,0
+937,TEX MIX - Master Section,Tesseract Modular,"['Mixer', 'External', 'Effect']",8,28.0,32.0,32.0,,70.0,2063,4.0,8.0,Available,0
+938,903A,Behringer,"['CV Modulation', 'Noise', 'Random']",4,23.0,25.0,35.0,0.0,45.0,2063,1.0,7.0,Available,0
+939,A-106-1,Doepfer,['Filter'],14,40.0,30.0,20.0,0.0,110.0,2057,4.0,23.0,Available,0
+940,A-135-3,Doepfer,"['Mixer', 'Dual/Stereo', 'Quad', 'VCA']",8,40.0,40.0,40.0,0.0,140.0,2052,4.5,4.0,Available,0
+941,ESX-8CV mk2,Expert Sleepers,['Expander'],4,49.0,41.0,33.0,0.0,169.0,2050,4.33,3.0,Available,0
+942,HATS909 (WHITE),Tiptop Audio,['Drum'],8,36.0,33.0,22.0,,190.0,2049,4.67,6.0,Available,1
+943,RS808,Tiptop Audio,['Drum'],4,14.0,14.0,13.0,0.0,89.0,2045,3.77,13.0,Available,1
+944,Pico EG,Erica Synths,"['Envelope Generator', 'LFO']",3,35.0,22.0,5.0,0.0,80.0,2042,3.8,10.0,,1
+945,BD,Prok Modular,"['Drum', 'Digital']",4,40.0,75.0,8.0,0.0,105.0,2041,4.4,15.0,Available,0
+946,Triad (Black Panel),WMD,"['Expander', 'Digital']",4,,14.0,13.0,,99.0,2039,3.89,9.0,Available,0
+947,Vector Wave,RYK Modular,"['Quad', 'Digital', 'MIDI', 'Oscillator', 'Dual/Stereo', 'Synth Voice']",17,25.0,60.0,5.0,0.0,455.0,2036,4.81,16.0,Available,0
+948,Cinnamon (Aluminum Panel),Bastl Instruments,"['Filter', 'Oscillator']",5,35.0,30.0,30.0,0.0,155.0,2036,3.87,15.0,Available,0
+949,bluebox,1010 Music,['Mixer'],30,26.0,320.0,82.0,850.0,597.0,2035,4.6,10.0,Available,0
+950,1003,Behringer,"['Dual/Stereo', 'Envelope Generator']",16,42.0,40.0,20.0,,62.0,2035,2.25,16.0,Available,0
+951,Tirana II,Xaoc Devices,"['Clock Modulator', 'CV Modulation', 'Sequencer']",6,45.0,30.0,5.0,,180.0,2034,4.73,22.0,Discontinued,1
+952,MIDI2,Pittsburgh Modular,['MIDI'],6,35.0,40.0,40.0,,165.0,2034,3.64,28.0,Discontinued,0
+953,106 Chorus,Feedback,['Effect'],6,49.0,24.0,24.0,0.0,150.0,2030,4.5,20.0,Available,1
+954,twinOUT,Vermona,"['Dual/Stereo', 'Utility', 'External']",8,36.0,25.0,25.0,0.0,209.0,2025,4.81,16.0,Available,0
+955,911A,Behringer,['Clock Modulator'],8,38.0,6.0,16.0,0.0,43.0,2024,1.57,7.0,Available,0
+956,Kick (Black Panel),2hp,['Drum'],2,42.0,74.0,2.0,0.0,125.0,2016,3.33,9.0,Available,1
+957,VnIcursal VCA,Złob,"['Mixer', 'Utility', 'VCA']",8,35.0,50.0,30.0,,241.0,2010,4.88,17.0,Available,1
+958,AI018 Stereo Matrix Mixer,AI Synthesis,"['Attenuator', 'Dynamics', 'Mixer', 'Multiple', 'Utility', 'Dual/Stereo']",18,35.0,20.0,15.0,0.0,115.0,2007,4.17,6.0,Available,0
+959,A-100B8v,Doepfer,['Blank Panel'],8,,,,,7.0,2006,5.0,1.0,Available,0
+960,Optx,Boredbrain Music,"['CV Modulation', 'Digital', 'External', 'Utility']",8,38.0,78.0,78.0,,305.0,2006,3.64,14.0,Discontinued,1
+961,Mikrophonie,Music Thing Modular,"['External', 'PreAmp', 'Controller']",4,25.0,5.0,0.0,0.0,34.0,2004,4.48,33.0,Available,0
+962,A-125,Doepfer,"['Effect', 'Phase Shifter']",8,65.0,20.0,10.0,0.0,90.0,2003,3.8,15.0,Available,0
+963,Euclid (Black Panel),2hp,['Sequencer'],2,42.0,21.0,2.0,0.0,98.0,2002,3.25,4.0,Available,1
+964,Flurry,Intellijel,"['Clock Generator', 'Envelope Follower', 'Noise', 'Random', 'Sample and Hold', 'Slew Limiter', 'Utility']",8,34.0,116.0,30.0,,224.0,2001,5.0,8.0,Available,1
+965,Dual AHDSR,MFB,"['Envelope Generator', 'Dual/Stereo']",12,30.0,30.0,30.0,0.0,99.0,2001,3.59,34.0,Discontinued,0
+966,A-148v,Doepfer,"['CV Modulation', 'Dual/Stereo', 'Sample and Hold']",4,30.0,20.0,20.0,0.0,68.0,1999,4.07,15.0,Available,0
+967,Triton,Rossum Electro-Music,['Oscillator'],30,25.0,290.0,270.0,0.0,829.0,1996,4.85,20.0,Available,0
+968,Pico MScale,Erica Synths,"['Utility', 'External']",3,25.0,6.0,6.0,,60.0,1996,4.67,6.0,Available,0
+969,DEMORA,Roland,"['Delay', 'Digital', 'Effect', 'Filter', 'Function Generator']",21,59.0,450.0,0.0,0.0,299.0,1995,4.13,38.0,Discontinued,0
+970,Zularic Repetitor (Black),Noise Engineering,"['Clock Modulator', 'Quad', 'Sequencer']",8,26.0,50.0,5.0,0.0,215.0,1994,4.38,8.0,Available,1
+971,ADDAC200PI,ADDAC System,"['Dual/Stereo', 'External']",4,30.0,10.0,10.0,0.0,90.0,1992,5.0,6.0,Available,0
+972,Drum Sequencer,Erica Synths,['Sequencer'],42,45.0,152.0,56.0,0.0,600.0,1989,4.72,18.0,Available,1
+973,Z5000 (WHITE),Tiptop Audio,"['Digital', 'Effect']",8,40.0,100.0,20.0,0.0,199.0,1989,4.56,9.0,Available,0
+974,A-177-2,Doepfer,"['Controller', 'Switch']",4,30.0,10.0,10.0,0.0,55.0,1985,4.56,9.0,Available,0
+975,A-105-4,Doepfer,"['Filter', 'Quad']",8,50.0,70.0,70.0,0.0,200.0,1985,4.75,4.0,Available,0
+976,Tangrams,Intellijel,"['Clock Generator', 'CV Modulation', 'Envelope Generator', 'Function Generator', 'LFO', 'VCA']",14,35.0,66.0,49.0,,204.0,1982,5.0,7.0,Available,1
+977,Variable Slope VCF,Random*Source,"['Filter', 'Mixer']",14,40.0,40.0,40.0,0.0,310.0,1980,4.83,24.0,Available,0
+978,Entity Ultra-Perc,Steady State Fate,"['Drum', 'Dynamics', 'Filter', 'Noise', 'Oscillator', 'Synth Voice', 'Waveshaper']",14,23.0,125.0,125.0,0.0,341.0,1979,5.0,11.0,Available,1
+979,M185 Sequencer,RYK Modular,"['Sequencer', 'MIDI', 'Clock Generator', 'Controller', 'CV Modulation', 'Function Generator', 'Random']",30,25.0,110.0,10.0,0.0,468.0,1979,4.58,31.0,Available,0
+980,A-134-2,Doepfer,"['VCA', 'Dual/Stereo', 'Panning']",4,45.0,20.0,10.0,0.0,70.0,1970,4.19,16.0,Available,0
+981,Nerdseq - 'More Triggers 16' Expander Black,XOR Electronics,['Expander'],8,40.0,30.0,0.0,0.0,129.0,1969,5.0,10.0,Available,1
+982,Echophon (white knobs),Make Noise,"['Delay', 'Effect', 'Pitch Shifter ']",20,30.0,70.0,40.0,0.0,429.0,1968,3.77,13.0,Available,0
+983,Castor & Pollux,Winterbloom,['Oscillator'],14,25.0,100.0,35.0,0.0,251.0,1968,4.55,22.0,Available,1
+984,992,Behringer,"['Attenuator', 'CV Modulation']",8,35.0,10.0,10.0,0.0,44.0,1968,2.22,9.0,Available,0
+985,Loquelic Iteritas Percido (Black),Noise Engineering,"['Digital', 'Drum', 'Oscillator', 'Synth Voice']",20,28.0,80.0,5.0,90.0,590.0,1965,5.0,19.0,Available,1
+986,SCM Breakout V2,4ms Company,"['Clock Generator', 'Clock Modulator', 'Expander']",8,26.0,14.0,,,116.0,1965,4.38,16.0,Available,1
+987,Black Output Module v2,Erica Synths,"['Dual/Stereo', 'Mixer', 'Panning', 'Utility', 'External']",14,35.0,52.0,43.0,0.0,260.0,1964,4.55,11.0,Available,0
+988,Neo Trinity,Bastl Instruments,"['Clock Generator', 'CV Modulation', 'Envelope Generator', 'LFO', 'Sequencer']",8,24.0,100.0,35.0,0.0,290.0,1963,4.8,10.0,Available,0
+989,A-149-2,Doepfer,"['Expander', 'Random']",4,35.0,40.0,0.0,0.0,55.0,1960,4.18,22.0,Available,0
+990,Tyme Sefari MK II,Industrial Music Electronics,"['Digital', 'Sampling', 'Delay', 'Distortion', 'Pitch Shifter ']",15,42.0,79.0,46.0,0.0,420.0,1960,4.26,27.0,Available,0
+991,A-134-1,Doepfer,"['VCA', 'Panning']",8,40.0,40.0,20.0,0.0,90.0,1953,4.05,19.0,Available,0
+992,LxD (Black and Gold),Make Noise,"['Filter', 'Low Pass Gate', 'VCA', 'Dual/Stereo']",4,36.0,20.0,20.0,0.0,98.0,1949,4.14,7.0,Available,0
+993,4x Stereo Mix_black,Happy Nerding,"['Dual/Stereo', 'Mixer', 'Quad']",4,35.0,65.0,50.0,,110.0,1951,4.85,13.0,Available,0
+994,.mix,STG Soundlabs,['Mixer'],4,55.0,10.0,10.0,0.0,135.0,1945,4.36,25.0,Available,0
+995,A-110-4,Doepfer,['Oscillator'],8,60.0,90.0,30.0,0.0,140.0,1944,4.2,25.0,Available,0
+996,ADDAC306,ADDAC System,"['Controller', 'Multiple', 'Attenuator', 'Expression', 'CV Modulation']",8,40.0,50.0,50.0,0.0,130.0,1944,4.18,11.0,Available,0
+997,Multiple,Verbos Electronics,['Multiple'],3,,,,,,1943,,,,0
+998,Fourmulator Quad Digital LFO,Vermona,"['LFO', 'Clock Generator', 'Quad']",34,20.0,120.0,20.0,0.0,369.0,1940,4.49,43.0,,0
+999,Furthrrrr Generator (black),Endorphin.es,"['Dual/Stereo', 'Function Generator', 'LFO', 'Noise', 'Oscillator', 'Random']",30,25.0,180.0,215.0,0.0,729.0,1937,4.59,17.0,Available,1
+1000,ZVERB (BLACK),Tiptop Audio,"['Digital', 'Effect', 'Reverb']",8,40.0,130.0,20.0,0.0,210.0,1937,4.5,14.0,Available,0
+1001,Benjolin V2,After Later Audio,"['Filter', 'LFO', 'Oscillator', 'Random']",20,25.0,65.0,60.0,,378.0,1937,4.22,9.0,Available,0
+1002,A-152,Doepfer,"['Switch', 'Clock Modulator', 'Logic', 'Sample and Hold', 'Comparator']",16,45.0,40.0,20.0,0.0,139.0,1935,4.83,23.0,Available,0
+1003,μMod II,Intellijel,"['CV Modulation', 'Logic', 'Ring Modulator', 'VCA', 'Waveshaper']",6,35.0,41.0,41.0,0.0,150.0,1931,4.2,30.0,Discontinued,0
+1004,Sport Modulator 2 (both panels),Toppobrillo,"['Comparator', 'Envelope Follower', 'Frequency Divider', 'LFO', 'Sample and Hold', 'Slew Limiter', 'Dual/Stereo', 'Oscillator']",12,20.0,30.0,20.0,0.0,298.0,1926,4.54,13.0,Available,1
+1005,Overseer,WMD,"['Filter', 'Dual/Stereo']",8,40.0,100.0,100.0,,249.0,1925,4.67,6.0,Discontinued,0
+1006,A-147-2v,Doepfer,"['LFO', 'VCA', 'Envelope Generator']",8,55.0,60.0,40.0,0.0,140.0,1926,4.58,19.0,Available,0
+1007,A-100B4v,Doepfer,['Blank Panel'],4,,,,,6.0,1923,4.33,3.0,Available,0
+1008,nRings (black panel),Michigan Synth Works,['Oscillator'],8,,120.0,5.0,0.0,246.0,1922,4.38,13.0,Available,0
+1009,Euclidean Circles & Expander (proper panel),vpme.de,"['Random', 'Sequencer', 'Switch', 'Utility', 'Clock Modulator']",12,25.0,0.0,0.0,70.0,300.0,1921,4.85,13.0,Available,0
+1010,Disting mk4 (Rubadub Special Edition),Expert Sleepers,"['Delay', 'Effect', 'LFO', 'Oscillator', 'Quantizer', 'Sampling', 'Utility', 'Waveshaper']",4,42.0,51.0,19.0,0.0,189.0,1917,4.36,11.0,Available,0
+1011,Dual Drive,Erica Synths,"['Distortion', 'Effect', 'Waveshaper']",10,40.0,52.0,52.0,0.0,200.0,1917,4.43,7.0,Available,1
+1012,RF Nomad,Evaton Technologies,"['Oscillator', 'Noise']",8,42.0,10.0,10.0,0.0,161.0,1916,3.9,21.0,Available,1
+1013,A-138p,Doepfer,['Mixer'],16,40.0,,,,135.0,1912,4.45,11.0,Available,0
+1014,Ground Control (black),Endorphin.es,"['MIDI', 'Sequencer', 'Power', 'Clock Generator', 'Controller', 'CV Modulation']",42,25.0,420.0,0.0,0.0,629.0,1911,3.83,12.0,Available,1
+1015,Pico VCF3,Erica Synths,['Filter'],3,35.0,20.0,20.0,0.0,90.0,1907,4.18,11.0,,1
+1016,Constellation,Acid Rain Technology,"['Clock Generator', 'Clock Modulator', 'Logic', 'Sequencer']",28,25.0,75.0,18.0,0.0,469.0,1905,4.71,7.0,Available,1
+1017,Delay (Black Panel),2hp,"['Delay', 'Effect']",2,47.0,72.0,28.0,0.0,116.0,1901,3.25,4.0,Available,1
+1018,Mini Drive,Music Thing Modular,"['Distortion', 'Effect']",4,25.0,39.0,0.0,0.0,65.0,1899,4.22,9.0,Available,0
+1019,Discrete SVVCF,Manhattan Analog,"['Filter', 'Mixer']",14,45.0,30.0,30.0,0.0,269.0,1896,4.66,44.0,Available,0
+1020,Planar,Intellijel,"['CV Modulation', 'Mixer', 'Panning', 'Quad', 'VCA', 'Controller']",14,38.0,103.0,95.0,0.0,359.0,1895,4.56,48.0,Discontinued,0
+1021,Autodyne,Steady State Fate,"['Distortion', 'Dynamics', 'Effect']",4,23.0,85.0,90.0,,169.0,1895,4.62,8.0,Available,1
+1022,Mutant Snare,Hexinverter Électronique,"['Drum', 'Noise']",13,30.0,50.0,50.0,0.0,222.0,1894,4.46,13.0,Available,1
+1023,A-110-4 SE,Doepfer,['Oscillator'],8,60.0,90.0,30.0,0.0,140.0,1891,4.5,18.0,Available,0
+1024,Stolperbeats,Making Sound Machines,"['Drum', 'Sequencer']",26,35.0,280.0,13.0,0.0,428.0,1880,4.62,16.0,Available,0
+1025,Atlantix,Intellijel,"['Envelope Generator', 'Filter', 'LFO', 'Noise', 'Oscillator', 'Sample and Hold', 'Synth Voice']",42,25.0,140.0,138.0,,597.0,1878,5.0,12.0,Available,1
+1026,PE-1,ALM Busy Circuits,"['Equalizer', 'Mixer']",5,32.0,10.0,10.0,0.0,98.0,1875,4.0,7.0,Available,0
+1027,Noise & Filter,Verbos Electronics,"['Filter', 'Noise']",4,27.0,85.0,40.0,0.0,110.0,1875,4.44,9.0,Available,0
+1028,CLAP,Erica Synths,['Drum'],6,40.0,24.0,12.0,,150.0,1872,4.6,5.0,Available,1
+1029,Quad LFO,Modcan,"['LFO', 'Quad']",18,26.0,40.0,10.0,0.0,595.0,1870,4.63,27.0,Discontinued,0
+1030,ADSR,Synthrotek,['Envelope Generator'],4,40.0,30.0,0.0,0.0,112.0,1867,4.09,22.0,,1
+1031,Loquelic Iteritas Percido,Noise Engineering,"['Drum', 'Synth Voice', 'Digital', 'Oscillator']",20,28.0,80.0,5.0,90.0,590.0,1867,4.96,25.0,Available,1
+1032,Foundation Oscillator,Verbos Electronics,"['Oscillator', 'Waveshaper']",12,,70.0,62.0,,470.0,1862,3.94,18.0,Available,0
+1033,Black Quad VCA,Erica Synths,"['Mixer', 'Quad', 'VCA']",10,25.0,38.0,32.0,,229.0,1860,4.29,7.0,Discontinued,0
+1034,PM Channels (Black),WMD,['Expander'],10,45.0,120.0,120.0,0.0,210.0,1860,5.0,6.0,Discontinued,0
+1035,WL Multiple,Dreadbox,['Multiple'],2,22.0,,,,29.0,1858,4.08,13.0,Discontinued,0
+1036,C - Channel,Frap Tools,"['CV Modulation', 'Mixer', 'Utility', 'VCA', 'Panning']",6,43.0,80.0,80.0,0.0,199.0,1857,5.0,11.0,Discontinued,1
+1037,NerdSEQ CV16 Expander Black,XOR Electronics,['Expander'],8,24.0,75.0,35.0,0.0,169.0,1856,5.0,5.0,Available,0
+1038,Triple Wave Folder,Toppobrillo,"['Waveshaper', 'CV Modulation', 'Distortion', 'Effect']",15,38.0,10.0,10.0,0.0,289.0,1856,4.51,45.0,Discontinued,0
+1039,Enhance 2,Joranalogue Audio Design,"['Dual/Stereo', 'Panning']",8,30.0,70.0,70.0,0.0,215.0,1854,4.58,12.0,Available,1
+1040,CP,Prok Modular,"['Digital', 'Drum']",4,40.0,75.0,8.0,0.0,105.0,1853,4.67,9.0,Available,0
+1041,uLFO,Bubblesound Instruments,"['LFO', 'Oscillator']",14,60.0,60.0,50.0,,225.0,1851,4.09,33.0,,0
+1042,VICTOR,Behringer,['Oscillator'],14,17.0,110.0,7.0,0.0,99.0,1848,3.04,23.0,Available,0
+1043,Drezno,Xaoc Devices,"['Comparator', 'CV Modulation', 'Distortion', 'Frequency Divider', 'Logic', 'Quantizer', 'Sample and Hold', 'Waveshaper']",12,20.0,50.0,35.0,,260.0,1840,4.65,17.0,Discontinued,1
+1044,A-183-3,Doepfer,"['Attenuator', 'Utility']",4,20.0,20.0,10.0,0.0,40.0,1840,4.28,18.0,Available,0
+1045,EG,2hp,['Envelope Generator'],2,42.0,26.0,7.0,0.0,98.0,1840,3.62,13.0,Available,1
+1046,Modbox,Steady State Fate,"['LFO', 'Sample and Hold', 'Noise', 'Oscillator', 'Random', 'Dual/Stereo']",6,40.0,75.0,27.0,,185.0,1837,4.57,21.0,Discontinued,1
+1047,M3,Pittsburgh Modular,"['Mixer', 'Multiple', 'TrueGrid']",4,20.0,20.0,20.0,,65.0,1837,3.89,19.0,Discontinued,0
+1048,860 MK2,System80,"['Filter', 'Mixer']",10,32.0,40.0,30.0,0.0,241.0,1836,5.0,6.0,Available,1
+1049,ADDAC213B,ADDAC System,"['Multiple', 'Utility']",3,25.0,,,,90.0,1833,5.0,4.0,Available,0
+1050,Mod Medusa,Shakmat,"['LFO', 'Quad', 'Sequencer']",12,21.0,60.0,20.0,,309.0,1832,4.69,29.0,Available,1
+1051,Cascade,Fonitronik,"['Attenuator', 'Mixer', 'Polarizer', 'Utility', 'Distortion']",4,66.0,28.0,23.0,0.0,75.0,1832,4.55,22.0,Available,0
+1052,ER-301: Sound Computer (People's Choice),Orthogonal Devices,"['Digital', 'Sampling']",30,30.0,250.0,30.0,,850.0,1826,5.0,16.0,Available,0
+1053,FEG,Rides in the Storm,"['Envelope Generator', 'LFO']",4,25.0,30.0,20.0,0.0,60.0,1825,4.09,11.0,Available,1
+1054,Black Stereo Delay,Erica Synths,"['Delay', 'Dual/Stereo']",16,35.0,162.0,62.0,0.0,310.0,1823,4.44,9.0,Available,1
+1055,Dual LFO,MFB,"['Dual/Stereo', 'LFO', 'Random']",8,21.0,30.0,30.0,0.0,129.0,1818,4.1,39.0,Discontinued,0
+1056,Multifilter,Toppobrillo,"['Filter', 'LFO', 'Oscillator']",12,35.0,25.0,25.0,0.0,250.0,1817,4.43,28.0,Discontinued,0
+1057,Space FX,Behringer,"['Effect', 'Delay', 'Distortion', 'Filter', 'Pitch Shifter ', 'Reverb', 'Digital', 'Phase Shifter']",14,30.0,90.0,25.0,,99.0,1815,1.93,27.0,Available,0
+1058,Osc,2hp,['Oscillator'],2,42.0,34.0,35.0,0.0,134.0,1815,3.88,8.0,Discontinued,1
+1059,Plague Bearer PB-1E,Flight of Harmony,"['Distortion', 'Effect', 'Equalizer', 'Filter', 'Multiple', 'Noise', 'Oscillator', 'Waveshaper']",8,30.0,7.0,4.0,0.0,107.0,1811,4.15,34.0,Available,0
+1060,Radio Music,Thonk,"['Drum', 'Sampling']",4,40.0,50.0,9.0,0.0,103.0,1811,4.4,10.0,Available,0
+1061,SCOOPER,Roland,"['Digital', 'Effect', 'Envelope Follower', 'Looper']",21,40.0,450.0,0.0,0.0,299.0,1810,4.17,18.0,Discontinued,0
+1062,Tea Kick,Bastl Instruments,['Drum'],5,35.0,15.0,15.0,,109.0,1809,4.16,19.0,,1
+1063,FH-1 'faderHost',Expert Sleepers,"['Controller', 'MIDI', 'Sequencer', 'Clock Generator', 'Clock Modulator', 'Digital']",8,43.0,64.0,27.0,0.0,249.0,1807,4.3,10.0,Discontinued,0
+1064,Black Blind panel 14HP,Erica Synths,['Blank Panel'],14,,,,,7.0,1807,,,Available,0
+1065,Buchla 296t,Tiptop Audio,"['Dual/Stereo', 'Effect', 'Envelope Follower', 'Filter']",52,52.0,360.0,350.0,,766.0,1805,5.0,2.0,Available,0
+1066,Black Dual EG/LFO,Erica Synths,"['Envelope Generator', 'Function Generator', 'LFO', 'Dual/Stereo']",10,25.0,25.0,15.0,0.0,219.0,1803,4.33,6.0,Discontinued,0
+1067,CYMBL909,Tiptop Audio,['Drum'],8,46.0,60.0,40.0,0.0,190.0,1802,4.12,8.0,Available,1
+1068,A-183-9,Doepfer,"['Power', 'Quad', 'Utility']",2,30.0,0.0,0.0,1000.0,50.0,1798,3.0,9.0,Available,0
+1069,E355 Morphing Dual LFO,Synthesis Technology,"['LFO', 'Dual/Stereo', 'Oscillator', 'Digital', 'CV Modulation']",14,40.0,32.0,12.0,0.0,289.0,1795,4.49,43.0,Discontinued,0
+1070,HH,Prok Modular,"['Digital', 'Drum']",4,40.0,75.0,8.0,0.0,105.0,1792,4.67,9.0,Available,0
+1071,Lifeforms System Interface,Pittsburgh Modular,['Mixer'],24,24.0,157.0,83.0,0.0,222.0,1791,3.53,17.0,Available,1
+1072,Vector Space,WORNG Electronics,"['CV Modulation', 'Mixer', 'Polarizer']",20,25.0,150.0,120.0,0.0,250.0,1790,4.12,8.0,Available,1
+1073,CP35 Attenuators,Behringer,"['Attenuator', 'Dual/Stereo', 'Multiple', 'Quad']",21,35.0,1.0,1.0,0.0,66.0,1789,1.5,6.0,Available,0
+1074,Numeric Repetitor,Noise Engineering,"['Clock Generator', 'Clock Modulator', 'Quad', 'Sequencer']",8,26.0,50.0,5.0,0.0,215.0,1784,4.69,16.0,,1
+1075,Div (Black Panel),2hp,"['Clock Modulator', 'Digital', 'Dual/Stereo', 'Utility']",2,42.0,30.0,3.0,0.0,98.0,1782,4.08,12.0,Available,1
+1076,Four Bricks Rook,Shakmat,"['Quad', 'Sequencer', 'Drum']",16,26.0,20.0,20.0,30.0,320.0,1781,4.72,32.0,Available,1
+1077,Brst,2hp,['Clock Modulator'],2,42.0,26.0,7.0,0.0,80.0,1780,3.67,12.0,Available,1
+1078,Ghost (silver),Endorphin.es,"['Delay', 'Digital', 'Distortion', 'Dual/Stereo', 'Dynamics', 'Effect', 'Filter', 'Reverb']",16,26.0,135.0,35.0,0.0,475.0,1779,5.0,2.0,Available,1
+1079,A-142-4,Doepfer,"['Envelope Generator', 'Quad']",8,50.0,30.0,10.0,0.0,100.0,1779,4.61,23.0,Available,0
+1080,Axon-2,ALM Busy Circuits,"['Controller', 'CV Modulation', 'Expander']",8,38.0,10.0,,,170.0,1780,5.0,4.0,Available,0
+1081,Freez (Black Panel),2hp,"['Effect', 'Sampling']",2,42.0,95.0,27.0,0.0,115.0,1778,3.0,4.0,Discontinued,1
+1082,Triatt (old panel),Intellijel,"['Attenuator', 'CV Modulation', 'Polarizer', 'Utility']",6,24.0,16.0,14.0,0.0,80.0,1777,4.81,16.0,Discontinued,1
+1083,Play,2hp,"['Digital', 'Drum', 'Sampling']",2,42.0,85.0,3.0,0.0,133.0,1774,3.43,7.0,Available,1
+1084,Vice Virga,Noise Engineering,"['Switch', 'Utility']",8,21.0,40.0,20.0,0.0,278.0,1772,5.0,9.0,Available,1
+1085,Pro-1,Behringer,"['Filter', 'Oscillator', 'Synth Voice', 'MIDI']",80,30.0,670.0,0.0,0.0,329.0,1770,3.63,19.0,Available,0
+1086,100 Grit,Schlappi Engineering,"['Distortion', 'Filter', 'VCA']",14,25.0,55.0,70.0,0.0,234.0,1769,4.71,17.0,Available,1
+1087,Pulsar,Qu-Bit Electronix,"['Clock Generator', 'Clock Modulator', 'Quad', 'Random']",14,34.0,125.0,2.0,,274.0,1769,3.71,14.0,Available,1
+1088,Crush Delay v3,Befaco,"['Delay', 'Digital', 'Noise', 'VCA']",11,30.0,115.0,65.0,0.0,200.0,1767,4.1,10.0,Available,1
+1089,SYSTEM-500 572,Roland,"['Delay', 'LFO', 'Phase Shifter', 'Effect']",16,58.0,110.0,90.0,0.0,299.0,1766,3.3,10.0,Available,0
+1090,Cockpit 2 (black),Endorphin.es,"['Dual/Stereo', 'Mixer', 'Dynamics', 'Attenuator', 'Quad', 'Utility', 'VCA']",6,38.0,75.0,40.0,0.0,199.0,1762,4.12,8.0,Available,1
+1091,LPG,Erica Synths,"['Dynamics', 'Filter', 'Low Pass Gate', 'VCA']",3,34.0,12.0,13.0,0.0,110.0,1760,4.88,8.0,Available,1
+1092,Mixwitch,Klavis,"['Attenuator', 'Mixer', 'Polarizer', 'Switch']",8,25.0,39.0,24.0,0.0,149.0,1758,4.66,32.0,Available,0
+1093,A-132-4,Doepfer,"['VCA', 'Quad']",6,60.0,30.0,20.0,0.0,100.0,1753,4.26,19.0,Available,0
+1094,Quad LFO,Malekko Heavy Industry,"['LFO', 'Quad', 'Sequencer', 'Clock Generator', 'Noise', 'Random', 'Utility']",12,26.0,85.0,17.0,0.0,299.0,1750,4.56,9.0,Available,0
+1095,Sono Abitus,Noise Engineering,['Utility'],4,39.0,50.0,50.0,0.0,221.0,1749,4.6,5.0,Available,1
+1096,Nearness v3,Takaab,"['Mixer', 'Panning', 'External']",2,36.0,25.0,25.0,0.0,50.0,1745,4.62,13.0,Available,1
+1097,S-180 8-Step Sequencer,Ladik,['Sequencer'],4,48.0,20.0,20.0,,70.0,1742,4.73,11.0,Available,0
+1098,Nano Rand v2,Qu-Bit Electronix,"['Digital', 'Noise', 'Random', 'Sample and Hold']",4,,60.0,17.0,0.0,224.0,1742,4.2,5.0,Available,1
+1099,Micro Sequence,Pittsburgh Modular,"['Digital', 'Sequencer']",10,24.0,56.0,8.0,0.0,199.0,1738,4.56,9.0,Discontinued,0
+1100,Nerdseq Grey Aluminium Front,XOR Electronics,"['CV Modulation', 'Sampling', 'Sequencer', 'Envelope Generator', 'LFO', 'Oscillator', 'Synth Voice']",32,20.0,150.0,32.0,0.0,598.0,1738,4.96,26.0,Available,0
+1101,Black Spring Reverb,Erica Synths,['Reverb'],12,30.0,43.0,71.0,0.0,270.0,1734,4.75,4.0,Available,0
+1102,MA35 VCF / A (multiple panels),Manhattan Analog,"['Filter', 'VCA']",12,45.0,6.0,6.0,0.0,200.0,1732,4.43,44.0,Available,0
+1103,Polivoks VCF,Erica Synths,['Filter'],8,55.0,10.0,10.0,0.0,60.0,1732,4.24,29.0,,1
+1104,Clouds,After Later Audio,"['Delay', 'Digital', 'Effect', 'Pitch Shifter ', 'Sampling']",18,,120.0,10.0,,156.0,1732,3.29,7.0,Available,0
+1105,Quadra Expander mk2,Intellijel,"['Envelope Generator', 'Expander', 'CV Modulation', 'Quad']",12,,32.0,28.0,0.0,116.0,1732,4.5,20.0,,1
+1106,uJove,Plum Audio,['Filter'],8,20.0,28.0,28.0,0.0,220.0,1730,4.3,10.0,Available,1
+1107,Black Blank,2hp,['Blank Panel'],2,,,,,4.0,1727,1.0,1.0,Available,1
+1108,Qex,vpme.de,['Expander'],4,,25.0,10.0,,,1723,4.0,3.0,Available,1
+1109,2HP TRS-A Midi Expander,XOR Electronics,['Expander'],2,15.0,,,,,1722,4.83,6.0,Available,0
+1110,Resonate,After Later Audio,"['Effect', 'Oscillator', 'Synth Voice']",14,25.0,110.0,5.0,,218.0,1720,4.33,3.0,Available,0
+1111,S-090  Dual probability skipper,Ladik,"['Clock Modulator', 'Dual/Stereo', 'Random']",4,40.0,25.0,0.0,0.0,64.0,1720,4.5,12.0,Available,0
+1112,2LPG v1,Takaab,"['Low Pass Gate', 'Dual/Stereo', 'VCA']",3,27.0,,,,32.0,1716,4.47,19.0,Available,1
+1113,VCO (Black Panel),2hp,"['LFO', 'Oscillator']",2,42.0,27.0,24.0,0.0,121.0,1715,3.88,8.0,Available,1
+1114,Quad VCF/VCA,Sputnik Modular,"['Low Pass Gate', 'Filter', 'Mixer', 'VCA', 'Quad']",18,28.0,50.0,70.0,0.0,335.0,1711,4.42,24.0,Discontinued,0
+1115,Teleplexer,Make Noise,"['Controller', 'Mixer', 'Polarizer', 'Switch']",8,24.0,20.0,20.0,0.0,108.0,1711,3.53,19.0,Discontinued,1
+1116,Maths v2 (Grayscale black panel),Grayscale,"['Clock Generator', 'CV Modulation', 'Envelope Generator', 'LFO', 'Slew Limiter']",20,24.0,60.0,50.0,0.0,261.0,1707,4.85,13.0,Available,1
+1117,AI008 Eurorack Matrix Mixer,AI Synthesis,"['Mixer', 'Multiple', 'Panning', 'Quad', 'Utility']",10,35.0,17.0,17.0,0.0,112.0,1706,4.25,12.0,Available,1
+1118,ER-101 (nostalgia),Orthogonal Devices,"['Quad', 'Sequencer']",26,20.0,120.0,0.0,0.0,690.0,1705,4.68,22.0,Discontinued,0
+1119,SN,Prok Modular,"['Digital', 'Drum']",4,40.0,75.0,8.0,0.0,105.0,1705,4.4,10.0,Available,0
+1120,Mini Slew,Steady State Fate,"['Slew Limiter', 'Function Generator', 'Envelope Follower', 'Envelope Generator', 'LFO', 'Frequency Divider']",8,25.0,68.0,50.0,0.0,179.0,1700,4.48,29.0,Discontinued,1
+1121,Springray,Intellijel,"['Effect', 'Reverb']",10,42.0,34.0,44.0,0.0,186.0,1700,4.14,21.0,Discontinued,0
+1122,AT-AT-AT,Thonk,['Attenuator'],4,,,,,26.0,1699,4.12,17.0,Available,0
+1123,AXON-1,ALM Busy Circuits,['Expander'],4,38.0,40.0,0.0,0.0,130.0,1699,5.0,2.0,Available,0
+1124,Contour (blue knobs),Make Noise,"['Clock Generator', 'Envelope Generator', 'Function Generator', 'LFO']",8,24.0,38.0,17.0,,119.0,1699,4.33,12.0,Discontinued,0
+1125,A-108,Doepfer,['Filter'],12,75.0,40.0,40.0,0.0,150.0,1698,4.47,15.0,Available,0
+1126,Blender,Steady State Fate,"['Dynamics', 'Mixer', 'Panning']",6,25.0,20.0,20.0,0.0,165.0,1695,4.33,18.0,Discontinued,0
+1127,Unity (Black Panel),2hp,['Mixer'],2,42.0,10.0,6.0,0.0,89.0,1695,2.33,3.0,Available,1
+1128,Athrú,Instruō,"['Distortion', 'Waveshaper']",4,,30.0,30.0,,218.0,1694,4.0,10.0,Available,0
+1129,TEX MIX - 4 Stereo Channels,Tesseract Modular,['Mixer'],12,20.0,15.0,15.0,,80.0,1692,4.89,9.0,Available,0
+1130,Pique (uPeaks),After Later Audio,"['Digital', 'Drum', 'Envelope Generator', 'Function Generator', 'LFO', 'Sequencer']",4,15.0,80.0,1.0,,149.0,1691,4.18,11.0,Available,0
+1131,Chance (Black Panel),Qu-Bit Electronix,"['Clock Generator', 'CV Modulation', 'Noise', 'Random']",14,34.0,45.0,17.0,0.0,267.0,1688,4.75,4.0,Available,1
+1132,DIY Polivoks VCF II,Erica Synths,['Filter'],10,30.0,11.0,11.0,,80.0,1687,4.55,11.0,Available,1
+1133,Euclidean Circles,vpme.de,"['Clock Modulator', 'Frequency Divider', 'Sequencer', 'Random', 'Utility']",10,25.0,0.0,0.0,70.0,,1682,4.94,18.0,,1
+1134,Sofia,Xaoc Devices,"['LFO', 'Oscillator', 'Dual/Stereo']",24,30.0,90.0,80.0,0.0,490.0,1681,4.87,23.0,Available,1
+1135,Buchla 207t,Tiptop Audio,"['Mixer', 'PreAmp', 'Panning']",28,28.0,90.0,85.0,0.0,269.0,1680,5.0,1.0,Available,0
+1136,Pico BBD,Erica Synths,['Delay'],3,35.0,20.0,9.0,,115.0,1678,4.0,6.0,,1
+1137,2HP Bamboo Blank Panel,ProModular,['Blank Panel'],2,,,,,,1674,,,,0
+1138,Buddy,Bastl Instruments,"['Mixer', 'PreAmp', 'Dual/Stereo']",5,30.0,27.0,27.0,,145.0,1671,4.4,5.0,Available,0
+1139,"Anti-Oscillator (Wiard a.k.a.""Gargoyles"" version)",Malekko Heavy Industry,['Oscillator'],14,25.0,40.0,40.0,0.0,194.0,1669,4.26,38.0,Available,0
+1140,A-156v,Doepfer,"['Dual/Stereo', 'Quantizer']",8,55.0,50.0,10.0,,135.0,1669,3.82,11.0,Available,0
+1141,Chord,Qu-Bit Electronix,"['Oscillator', 'Quad', 'Quantizer', 'Synth Voice']",28,23.0,122.0,10.0,0.0,399.0,1668,3.71,21.0,Discontinued,1
+1142,lìon,Instruō,"['Mixer', 'Multiple', 'Utility']",16,27.0,30.0,30.0,0.0,332.0,1664,4.44,9.0,Available,0
+1143,DIRT Filter,Synthrotek,"['Distortion', 'Filter', 'Waveshaper']",4,40.0,10.0,10.0,0.0,65.0,1662,3.02,42.0,,0
+1144,Z8000,Tiptop Audio,"['CV Modulation', 'Sequencer']",28,15.0,70.0,10.0,0.0,395.0,1661,4.32,19.0,Available,1
+1145,FM AID,Happy Nerding,"['Waveshaper', 'Ring Modulator']",6,33.0,45.0,45.0,0.0,149.0,1658,4.52,31.0,,0
+1146,Ring SM (Black),AJH Synth,"['Distortion', 'Mixer', 'Ring Modulator', 'Waveshaper']",14,34.0,55.0,50.0,0.0,365.0,1658,4.71,14.0,Available,0
+1147,BAMBUK 4HP - Bamboo Blind Panel,Tsyklon Labs,['Blank Panel'],4,,,,,4.0,1656,2.0,1.0,Discontinued,1
+1148,Arpitecht (black panel),WMD,"['Quantizer', 'Sequencer']",12,30.0,70.0,35.0,0.0,263.0,1656,5.0,7.0,Available,0
+1149,Logica XT,Klavis,"['Delay', 'Digital', 'Frequency Divider', 'Logic', 'Sample and Hold', 'Utility']",5,25.0,21.0,1.0,0.0,139.0,1653,4.65,31.0,Available,1
+1150,TG ONE,Tiptop Audio,"['Sampling', 'CV Modulation', 'Digital', 'Drum']",4,43.0,80.0,8.0,0.0,220.0,1653,4.27,15.0,Available,1
+1151,A-110-1v,Doepfer,['Oscillator'],10,51.0,90.0,20.0,0.0,165.0,1652,4.38,13.0,Available,0
+1152,PM Mutes,WMD,['Expander'],6,45.0,20.0,5.0,0.0,99.0,1648,4.14,7.0,Discontinued,0
+1153,RES-4 (White),Cwejman,"['Filter', 'Quad', 'Resonator']",24,25.0,110.0,110.0,0.0,760.0,1644,4.69,16.0,,0
+1154,InOut,Pittsburgh Modular,"['External', 'Mixer']",6,43.0,20.0,20.0,0.0,69.0,1643,3.77,26.0,Discontinued,0
+1155,SYNTHESIZER BOX,Pittsburgh Modular,"['Envelope Generator', 'LFO', 'Mixer', 'Oscillator', 'Slew Limiter', 'Synth Voice', 'VCA', 'Low Pass Gate']",28,37.0,125.0,95.0,0.0,419.0,1643,4.24,41.0,Discontinued,0
+1156,Serge NCOM,Random*Source,"['Clock Modulator', 'Comparator', 'Frequency Divider', 'Logic']",10,40.0,20.0,18.0,0.0,240.0,1642,4.75,12.0,Available,0
+1157,SYSTEM-1m,Roland,"['Digital', 'Envelope Generator', 'Filter', 'LFO', 'Oscillator', 'Ring Modulator', 'Synth Voice', 'VCA']",84,45.0,700.0,0.0,0.0,599.0,1640,4.21,38.0,Available,0
+1158,μVCA,Intellijel,"['Attenuator', 'Dual/Stereo', 'VCA']",6,35.0,36.0,35.0,,120.0,1640,4.59,29.0,Discontinued,0
+1159,Jena,Xaoc Devices,"['Digital', 'Expander', 'Oscillator', 'Waveshaper']",8,,70.0,50.0,0.0,250.0,1640,4.22,9.0,Available,1
+1160,VCO-2RM (White),Cwejman,"['LFO', 'Oscillator', 'Ring Modulator', 'Dual/Stereo']",20,40.0,75.0,75.0,0.0,679.0,1640,4.74,19.0,,0
+1161,3U DIY 2HP Eurorack Blank Panel,Synthrotek,['Blank Panel'],2,,,,,4.0,1638,4.43,7.0,Available,1
+1162,Stoicheia,Rebel Technology,"['Sequencer', 'Dual/Stereo']",10,30.0,10.0,0.0,25.0,198.0,1637,4.08,25.0,Available,0
+1163,Skis,Bastl Instruments,"['Dual/Stereo', 'Envelope Generator', 'VCA']",5,35.0,30.0,20.0,,109.0,1637,4.48,21.0,,1
+1164,EME (Black),Winter Modular,"['MIDI', 'Expander']",6,,20.0,10.0,,164.0,1636,4.0,6.0,Available,1
+1165,Horologic Solum (Black),Noise Engineering,"['Clock Generator', 'Clock Modulator', 'Frequency Divider']",4,26.0,50.0,5.0,0.0,179.0,1631,4.57,7.0,Available,1
+1166,Morcom,After Later Audio,['Expander'],4,,15.0,0.0,,58.0,1629,3.33,3.0,Available,0
+1167,CON,Rides in the Storm,"['External', 'Quad', 'Utility']",2,25.0,10.0,10.0,0.0,60.0,1630,4.38,8.0,,1
+1168,Lifeforms Primary Oscillator,Pittsburgh Modular,"['Oscillator', 'Waveshaper']",12,25.0,112.0,104.0,0.0,229.0,1629,4.57,23.0,Available,0
+1169,Expert Sleepers Disting MK4 (alternate panel),Grayscale,['Utility'],4,42.0,51.0,19.0,0.0,165.0,1627,4.8,5.0,Available,1
+1170,ASQ-1,ALM Busy Circuits,"['Quantizer', 'Sequencer']",32,32.0,50.0,10.0,0.0,380.0,1623,4.33,6.0,Available,0
+1171,QPM,Rides in the Storm,"['Mixer', 'Multiple']",4,15.0,,,,35.0,1622,4.82,11.0,Available,1
+1172,ROW POWER 35,4ms Company,['Power'],4,,,,,140.0,1620,5.0,5.0,Available,0
+1173,Edges,Mutable instruments,"['Synth Voice', 'Quad', 'Sequencer', 'MIDI', 'Quantizer']",20,20.0,25.0,20.0,45.0,299.0,1617,4.21,28.0,Discontinued,1
+1174,Quad Envelope,Malekko Heavy Industry,"['Envelope Generator', 'Quad', 'Sequencer']",12,,100.0,15.0,,267.0,1616,4.0,10.0,Available,0
+1175,Entropy2,Złob,"['Noise', 'Random', 'Sample and Hold']",3,47.0,10.0,10.0,,89.0,1616,4.77,13.0,Available,1
+1176,Tiptop & Buchla 2HP Blank Panel,Tiptop Audio,['Blank Panel'],2,,,,,10.0,1608,,,Available,0
+1177,Envelator,Malekko Heavy Industry,['Envelope Generator'],10,38.0,35.0,35.0,,205.0,1608,4.06,18.0,,0
+1178,A-139-2,Doepfer,"['External', 'Utility']",6,40.0,120.0,120.0,0.0,55.0,1606,3.73,11.0,Available,0
+1179,Unify,Circuit Abbey,"['Mixer', 'Panning', 'Dual/Stereo', 'External']",12,37.0,50.0,50.0,0.0,285.0,1605,4.27,26.0,,0
+1180,[2]f,Instruō,"['Expression', 'Utility', 'Controller', 'Dual/Stereo']",2,27.0,7.0,7.0,0.0,79.0,1604,4.0,10.0,Available,0
+1181,MA808,Tiptop Audio,"['Drum', 'Noise']",4,14.0,16.0,14.0,0.0,89.0,1604,4.11,9.0,Available,1
+1182,Snare (Black Panel),2hp,['Drum'],2,42.0,75.0,3.0,0.0,125.0,1604,2.75,4.0,Available,1
+1183,UBurst,CalSynth,"['Delay', 'Digital', 'Dual/Stereo', 'Effect', 'Pitch Shifter ', 'Reverb', 'Sampling']",8,,120.0,10.0,0.0,162.0,1605,5.0,5.0,Available,0
+1184,Spring Reverb Mkii,Music Thing Modular,"['Reverb', 'Effect']",6,44.0,75.0,25.0,0.0,84.0,1598,4.7,10.0,Available,0
+1185,Loop,2hp,"['Digital', 'Sampling', 'Looper']",2,46.0,83.0,8.0,0.0,133.0,1594,3.33,9.0,Available,1
+1186,CP3,Manhattan Analog,"['Mixer', 'Distortion']",4,39.0,12.0,12.0,0.0,105.0,1591,4.76,25.0,Discontinued,0
+1187,MIDI 3,Pittsburgh Modular,"['Clock Generator', 'CV Modulation', 'MIDI', 'Dual/Stereo']",6,35.0,60.0,15.0,0.0,255.0,1591,4.26,23.0,Available,0
+1188,Drum Mixer Lite,Erica Synths,"['Dynamics', 'Mixer']",10,,30.0,20.0,0.0,146.0,1590,4.17,6.0,Available,1
+1189,ATOM,Antumbra,"['Digital', 'Drum', 'Dual/Stereo', 'Effect', 'Oscillator', 'Synth Voice']",18,33.0,130.0,10.0,0.0,220.0,1589,4.22,18.0,Available,0
+1190,Pico ATTEN,Erica Synths,"['Attenuator', 'Utility']",3,15.0,,,,30.0,1586,4.0,1.0,,1
+1191,Neóni,Instruō,"['LFO', 'Oscillator', 'Waveshaper']",12,27.0,90.0,90.0,,399.0,1585,4.83,6.0,Available,1
+1192,A-138c,Doepfer,"['Polarizer', 'Mixer']",8,35.0,20.0,20.0,0.0,65.0,1585,3.77,13.0,Discontinued,0
+1193,Volts (Black),Music Thing Modular,"['Expander', 'Random', 'Sequencer']",4,25.0,,,,45.0,1582,4.3,10.0,Available,0
+1194,Dr. Octature II,Intellijel,"['Filter', 'LFO', 'Oscillator']",14,38.0,72.0,72.0,0.0,299.0,1581,4.41,34.0,Discontinued,0
+1195,Dual Noise/Random Generator 1016,Behringer,"['Dual/Stereo', 'Noise', 'Random']",14,42.0,45.0,15.0,0.0,66.0,1581,1.44,9.0,Available,0
+1196,Mińsk,Xaoc Devices,"['Digital', 'Dual/Stereo', 'Effect', 'Panning']",6,,140.0,40.0,0.0,190.0,1573,4.88,8.0,Available,1
+1197,Rack Plumber,Plum Audio,['Utility'],4,25.0,,,,50.0,1575,3.67,3.0,Available,1
+1198,uGrids (Matte Black Aluminum),CalSynth,"['Clock Generator', 'Drum', 'Random', 'Sequencer']",8,,25.0,1.0,0.0,147.0,1574,4.5,6.0,Available,0
+1199,A-111-1,Doepfer,['Oscillator'],14,65.0,40.0,40.0,0.0,260.0,1573,4.3,30.0,Discontinued,0
+1200,Multimode VCA,WMD,"['Dual/Stereo', 'Panning', 'VCA', 'Ring Modulator', 'Mixer']",10,25.0,40.0,40.0,,235.0,1572,4.71,24.0,Discontinued,0
+1201,Telharmonic (Black and Gold),Make Noise,"['Digital', 'Noise', 'Oscillator']",14,30.0,139.0,10.0,0.0,399.0,1570,4.3,10.0,Discontinued,0
+1202,A-190-1,Doepfer,['MIDI'],10,95.0,10.0,10.0,50.0,160.0,1569,3.31,32.0,Discontinued,0
+1203,6hp blank,Make Noise,['Blank Panel'],6,,,,,,1568,4.5,4.0,,0
+1204,MIX7,Tiptop Audio,"['Mixer', 'Utility']",3,43.0,25.0,20.0,,85.0,1568,5.0,2.0,Available,1
+1205,Black Mixer/Splitter V2,Erica Synths,"['Multiple', 'Mixer']",4,25.0,25.0,25.0,,65.0,1566,3.67,6.0,Available,1
+1206,A-138aV,Doepfer,"['Mixer', 'Quad']",8,35.0,10.0,10.0,0.0,70.0,1566,4.44,9.0,Available,0
+1207,TOMS909,Tiptop Audio,['Drum'],16,51.0,120.0,100.0,0.0,390.0,1565,3.75,8.0,Available,1
+1208,Jupiter Storm,Hexinverter Électronique,"['Drum', 'Noise', 'Oscillator']",14,25.0,30.0,30.0,0.0,193.0,1565,4.0,23.0,Available,1
+1209,dVCA,After Later Audio,"['VCA', 'Mixer']",4,22.0,17.0,17.0,0.0,148.0,1565,4.0,4.0,Available,0
+1210,DSM02 Character Module,Dave Smith Modular,"['Digital', 'Distortion', 'Waveshaper', 'Equalizer']",14,30.0,150.0,20.0,150.0,199.0,1564,4.26,19.0,Discontinued,0
+1211,Linnaeus,Rossum Electro-Music,"['Dual/Stereo', 'Filter', 'Oscillator']",16,25.0,155.0,36.0,0.0,598.0,1564,4.92,13.0,Available,0
+1212,Minimod Vintage Transistor Core VCO,AJH Synth,['Oscillator'],14,34.0,55.0,40.0,0.0,320.0,1563,4.86,14.0,Available,0
+1213,Chopping Kinky,Befaco,"['Switch', 'Waveshaper']",8,30.0,65.0,55.0,0.0,190.0,1562,4.64,14.0,Available,1
+1214,Ostankino II,Xaoc Devices,['Expander'],8,25.0,10.0,0.0,0.0,160.0,1561,5.0,6.0,Available,1
+1215,Black MIDI-CV v2,Erica Synths,['MIDI'],6,30.0,40.0,9.0,0.0,155.0,1559,4.44,9.0,Discontinued,0
+1216,Fusion Mixer v3 (14HP),Erica Synths,"['Mixer', 'Tube']",14,25.0,160.0,10.0,,299.0,1556,4.71,7.0,Available,1
+1217,Pico CV MIX,Erica Synths,"['Mixer', 'Utility']",3,35.0,5.0,5.0,0.0,50.0,1552,4.38,8.0,,1
+1218,LP1lightplane,Soundmachines,['Controller'],16,18.0,210.0,8.0,0.0,109.0,1551,4.3,20.0,Available,0
+1219,QMMF-4,Cwejman,"['Filter', 'Quad', 'Mixer', 'Oscillator', 'VCA', 'Resonator']",46,23.0,160.0,150.0,0.0,1.5,1550,4.8,20.0,,0
+1220,"Microcell - uCell, µCell, Micro Supercell (black panel)",Grayscale,"['Delay', 'Digital', 'Dual/Stereo', 'Effect', 'Pitch Shifter ', 'Reverb', 'Sampling']",14,38.0,160.0,35.0,0.0,269.0,1549,4.1,10.0,Available,1
+1221,A-183-5,Doepfer,"['Attenuator', 'Quad']",4,20.0,,,,70.0,1547,5.0,4.0,Available,0
+1222,AI003 Looping Envelope Generator,AI Synthesis,"['Envelope Generator', 'LFO']",8,35.0,15.0,14.0,0.0,13.0,1548,4.08,13.0,Available,1
+1223,A-137-2,Doepfer,"['Waveshaper', 'Clock Modulator', 'Phase Shifter']",14,50.0,30.0,20.0,0.0,75.0,1546,4.06,17.0,Available,0
+1224,A-100B42v,Doepfer,['Blank Panel'],42,,,,,17.0,1545,3.0,1.0,Available,0
+1225,Sequencer,Pittsburgh Modular,['Sequencer'],14,25.0,30.0,30.0,0.0,139.0,1542,4.0,25.0,Discontinued,0
+1226,VCOb,Bubblesound Instruments,"['LFO', 'Oscillator']",8,60.0,50.0,50.0,0.0,219.0,1541,4.3,23.0,,0
+1227,Shifting Inverting Signal Mingler,4ms Company,"['Attenuator', 'CV Modulation', 'Logic', 'Mixer', 'Utility']",12,22.0,51.0,51.0,,158.0,1540,4.1,21.0,Available,1
+1228,Octone,Qu-Bit Electronix,"['Clock Modulator', 'Controller', 'Quantizer', 'Sequencer']",10,40.0,141.0,55.0,0.0,329.0,1539,4.24,17.0,Discontinued,1
+1229,Borg 2 Filter,Malekko Heavy Industry,"['Filter', 'Low Pass Gate']",12,25.0,35.0,35.0,0.0,245.0,1537,4.43,30.0,Discontinued,0
+1230,S+H (Black Panel),2hp,"['Dual/Stereo', 'Sample and Hold']",2,42.0,5.0,5.0,,80.0,1536,3.0,4.0,Available,1
+1231,Zero Point Oscillator,Steady State Fate,"['Oscillator', 'Ring Modulator']",16,24.0,147.0,141.0,0.0,377.0,1533,4.67,18.0,Available,1
+1232,Transient Plus,Futureretro,"['Drum', 'Sampling']",12,25.0,105.0,17.0,0.0,222.0,1532,4.46,13.0,Available,0
+1233,Moon Phase,Patching Panda,"['Filter', 'Dual/Stereo', 'Dynamics', 'Panning', 'Waveshaper', 'Phase Shifter']",14,,82.0,63.0,0.0,272.0,1530,4.38,13.0,Available,1
+1234,ALT,NANO Modules,"['Attenuator', 'Mixer', 'Quad', 'VCA']",8,15.0,58.0,31.0,0.0,150.0,1530,4.6,20.0,Available,1
+1235,Kickain,Knobula,"['Drum', 'Dynamics', 'Reverb']",12,32.0,80.0,80.0,0.0,340.0,1527,4.29,7.0,Available,1
+1236,A-160-5v,Doepfer,['Clock Modulator'],4,35.0,50.0,0.0,,120.0,1525,4.29,7.0,Available,0
+1237,Kompas,Bastl Instruments,"['Clock Modulator', 'Digital', 'Sequencer']",5,35.0,30.0,0.0,0.0,130.0,1525,4.0,9.0,Available,0
+1238,Gozinta,Circuit Abbey,"['Attenuator', 'External', 'PreAmp', 'Dual/Stereo']",4,37.0,20.0,20.0,0.0,105.0,1524,4.68,19.0,,0
+1239,A-190-8,Doepfer,"['Clock Generator', 'MIDI']",6,50.0,50.0,50.0,,125.0,1523,3.55,11.0,Available,0
+1240,A-154,Doepfer,"['Sequencer', 'Clock Generator']",22,80.0,60.0,20.0,0.0,195.0,1521,4.5,18.0,Available,0
+1241,2HP Power (black),Endorphin.es,"['Power', 'Multiple', 'Utility']",2,42.0,,,,119.0,1520,4.0,11.0,Available,1
+1242,dual xfade_black,Happy Nerding,"['CV Modulation', 'Dual/Stereo', 'Panning', 'Utility', 'VCA']",4,35.0,55.0,55.0,,149.0,1519,4.14,7.0,Available,0
+1243,CB808,Tiptop Audio,['Drum'],4,14.0,8.0,8.0,0.0,89.0,1517,4.0,7.0,Available,1
+1244,Comp (Black Panel),2hp,['Dynamics'],2,45.0,64.0,8.0,0.0,115.0,1516,3.25,4.0,Available,1
+1245,arbhar USB Expander,Instruō,['Expander'],2,25.0,,,,98.0,1516,4.25,4.0,Available,0
+1246,PrssPnt,Make Noise,['Controller'],4,30.0,14.0,0.0,0.0,99.0,1512,4.5,4.0,Available,0
+1247,Gemini's Path,Shakmat,"['Dual/Stereo', 'Dynamics', 'Effect', 'Panning', 'VCA']",6,25.0,50.0,30.0,0.0,219.0,1513,4.96,23.0,Available,1
+1248,LEGION,WMD,"['Oscillator', 'LFO']",8,38.0,70.0,60.0,,549.0,1509,4.43,7.0,Discontinued,0
+1249,Snare Drum,Erica Synths,['Drum'],10,,40.0,20.0,,190.0,1507,3.0,7.0,Available,1
+1250,Mix Mult,Pittsburgh Modular,"['Attenuator', 'Mixer', 'Multiple']",8,25.0,10.0,10.0,0.0,85.0,1504,3.95,21.0,Discontinued,0
+1251,Booster Stage,Bubblesound Instruments,"['External', 'PreAmp']",2,30.0,20.0,15.0,,67.0,1500,4.38,8.0,Available,0
+1252,Azimuth II,Intellijel,"['VCA', 'Panning', 'Dual/Stereo']",10,,93.0,80.0,0.0,234.0,1499,4.11,19.0,Discontinued,0
+1253,Mix Mult (Mk. II),Pittsburgh Modular,"['Attenuator', 'Mixer', 'Multiple']",8,25.0,10.0,10.0,0.0,79.0,1498,4.05,20.0,Discontinued,0
+1254,Lifeforms Outs,Pittsburgh Modular,['External'],6,39.0,20.0,20.0,,88.0,1496,4.6,10.0,Available,0
+1255,Deluxe Power Module,Synthrotek,['Power'],4,29.0,,,,126.0,1494,4.61,18.0,Discontinued,1
+1256,Blank Panel,Control,['Blank Panel'],2,,,,,4.0,1493,,,Available,0
+1257,Cursus Iteritas,Noise Engineering,"['Oscillator', 'Digital']",10,28.0,80.0,5.0,90.0,359.0,1493,4.7,20.0,Discontinued,1
+1258,Joystick,Befaco,"['Attenuator', 'Controller', 'CV Modulation', 'Utility']",12,35.0,25.0,10.0,0.0,130.0,1491,4.17,12.0,,1
+1259,Strega,Make Noise,"['Delay', 'Effect', 'Oscillator', 'Synth Voice', 'Controller']",45,,400.0,,,599.0,1489,4.53,19.0,Available,0
+1260,A-118-2v,Doepfer,"['Noise', 'Random', 'Sample and Hold']",4,40.0,20.0,20.0,0.0,80.0,1489,4.25,4.0,Available,0
+1261,MIDI Thing,Befaco,['MIDI'],6,30.0,32.0,8.0,0.0,200.0,1489,3.58,12.0,Available,1
+1262,Ataraxic Iteritas (Black),Noise Engineering,"['Digital', 'Oscillator']",10,28.0,80.0,5.0,90.0,359.0,1488,4.8,5.0,Discontinued,1
+1263,Motion MTR,Befaco,"['Attenuator', 'Mixer', 'Polarizer', 'Utility']",6,30.0,110.0,43.0,0.0,157.0,1487,4.58,12.0,Available,0
+1264,6hp Blank,Make Noise,['Blank Panel'],6,,,,,,1486,5.0,2.0,,0
+1265,Sweet Sixteen Mk.II,Tesseract Modular,"['Attenuator', 'Controller', 'MIDI']",24,25.0,92.0,86.0,0.0,200.0,1486,4.88,16.0,Available,1
+1266,NoiseRing,Malekko Heavy Industry,"['Random', 'Noise']",14,35.0,80.0,80.0,,275.0,1483,4.32,34.0,,0
+1267,Nano Rand,Qu-Bit Electronix,"['Noise', 'Random', 'Sample and Hold', 'Clock Generator']",4,38.0,60.0,17.0,0.0,171.0,1482,4.05,21.0,Discontinued,1
+1268,làrachd,Instruō,"['External', 'PreAmp', 'Comparator', 'Envelope Follower', 'Waveshaper']",8,30.0,75.0,70.0,,358.0,1480,4.12,8.0,Available,0
+1269,Oscillator,Sputnik Modular,"['Oscillator', 'Waveshaper']",14,28.0,60.0,60.0,0.0,249.0,1479,4.65,20.0,,0
+1270,DROID G8 Expander,Der Mann mit der Maschine,['Expander'],4,23.0,41.0,0.0,0.0,148.0,1479,4.73,51.0,Available,1
+1271,Z4000 NS,Tiptop Audio,"['CV Modulation', 'Envelope Generator', 'Function Generator']",8,28.0,34.0,18.0,,140.0,1478,4.67,6.0,Available,1
+1272,Tyso Daiko,ALM Busy Circuits,"['Drum', 'Dual/Stereo', 'Digital']",14,32.0,70.0,35.0,,328.0,1474,4.57,7.0,Available,0
+1273,4R,Transient Modules,"['Quad', 'Random']",2,50.0,60.0,40.0,0.0,99.0,1472,4.8,25.0,Available,1
+1274,Atom (uElements),After Later Audio,"['Digital', 'Synth Voice']",18,34.0,130.0,10.0,,201.0,1468,4.11,9.0,Available,0
+1275,Boundary,Schlappi Engineering,"['Clock Modulator', 'Envelope Follower', 'Envelope Generator', 'LFO', 'Oscillator', 'Ring Modulator', 'Slew Limiter', 'VCA']",12,25.0,112.0,59.0,,219.0,1467,4.78,9.0,Available,0
+1276,BitBox 2.0 Black Panel,1010 Music,['Sampling'],26,25.0,400.0,0.0,0.0,658.0,1467,4.0,1.0,Available,0
+1277,A-138u,Doepfer,"['Dual/Stereo', 'Mixer']",4,25.0,10.0,0.0,0.0,50.0,1464,3.77,13.0,Discontinued,0
+1278,Enigma,After Later Audio,['Expander'],4,,5.0,0.0,,66.0,1460,3.0,4.0,Available,0
+1279,Micro Hadron Collider (uHC),WMD,"['Dual/Stereo', 'Filter', 'Mixer']",16,25.0,100.0,85.0,0.0,289.0,1459,4.5,30.0,Discontinued,0
+1280,A-174-1,Doepfer,['Controller'],10,45.0,40.0,20.0,0.0,120.0,1459,3.67,15.0,Discontinued,0
+1281,Shuttle Control (golden),Endorphin.es,"['MIDI', 'Power', 'Clock Generator', 'Controller', 'CV Modulation', 'Envelope Generator', 'Expression', 'Function Generator']",12,35.0,200.0,100.0,0.0,499.0,1459,4.65,26.0,Available,1
+1282,Librae Legio,Noise Engineering,"['Dynamics', 'Digital', 'Distortion', 'Dual/Stereo', 'Effect']",6,23.0,140.0,22.0,0.0,279.0,1457,5.0,4.0,Available,1
+1283,ABC (Aluminum),Bastl Instruments,"['Distortion', 'Mixer', 'Panning', 'Utility', 'Dual/Stereo']",5,35.0,10.0,10.0,0.0,88.0,1456,4.13,15.0,Available,0
+1284,TELEXo Teletype Expander,Monome,"['CV Modulation', 'Digital', 'Envelope Generator', 'Expander', 'Oscillator', 'Quantizer', 'Random']",4,36.0,51.0,7.0,0.0,158.0,1456,4.88,8.0,Available,0
+1285,Synchrodyne,WMD,"['Filter', 'Oscillator', 'Waveshaper', 'VCA']",14,40.0,113.0,100.0,,469.0,1456,4.52,31.0,Discontinued,0
+1286,Malgorithm MK II,Industrial Music Electronics,"['Digital', 'Distortion', 'Effect', 'Noise', 'Waveshaper', 'Dual/Stereo', 'VCA']",10,29.0,140.0,20.0,0.0,320.0,1456,3.92,13.0,Available,0
+1287,Phonogene (original knobs),Make Noise,"['Sampling', 'Delay']",20,30.0,70.0,40.0,,477.0,1455,4.04,25.0,Discontinued,0
+1288,Rnd v2,2hp,"['Clock Generator', 'CV Modulation', 'Random']",2,42.0,48.0,6.0,0.0,88.0,1454,3.83,6.0,Available,1
+1289,A-192-2,Doepfer,"['MIDI', 'Dual/Stereo']",10,55.0,70.0,20.0,0.0,130.0,1454,4.67,6.0,Available,0
+1290,SMOG,Antumbra,"['Delay', 'Digital', 'Dual/Stereo', 'Effect', 'Noise', 'Pitch Shifter ', 'Reverb', 'Sampling']",8,30.0,120.0,10.0,0.0,200.0,1453,4.67,6.0,Available,0
+1291,DIY Bassline,Erica Synths,['Synth Voice'],16,45.0,80.0,40.0,0.0,160.0,1453,4.2,5.0,Available,1
+1292,Pico Drive,Erica Synths,"['Distortion', 'Effect', 'Waveshaper']",3,35.0,29.0,29.0,,90.0,1450,2.75,4.0,Available,0
+1293,G - Group,Frap Tools,"['CV Modulation', 'External', 'Mixer', 'Utility', 'VCA']",6,38.0,60.0,60.0,0.0,165.0,1450,5.0,5.0,Available,1
+1294,ADSR (mk2),Pittsburgh Modular,['Envelope Generator'],6,37.0,20.0,10.0,0.0,105.0,1451,3.5,8.0,Discontinued,0
+1295,Three Body,Schlappi Engineering,"['Digital', 'Oscillator']",30,30.0,95.0,50.0,0.0,599.0,1450,4.92,12.0,Available,0
+1296,Mixer (Mk. II),Pittsburgh Modular,"['Attenuator', 'Mixer']",8,20.0,10.0,10.0,0.0,79.0,1449,4.2,10.0,Discontinued,0
+1297,BLD,Cwejman,"['Drum', 'Envelope Generator', 'Synth Voice']",24,25.0,60.0,60.0,0.0,594.0,1449,4.47,15.0,,0
+1298,MEGA-TANG,ALM Busy Circuits,"['Dual/Stereo', 'Mixer', 'VCA', 'Quad']",16,32.0,125.0,125.0,,298.0,1447,5.0,3.0,Available,0
+1299,A-110-2V,Doepfer,['Oscillator'],8,50.0,150.0,30.0,0.0,140.0,1445,4.0,12.0,Available,0
+1300,Prismatic Ray,LZX Industries,"['Video', 'CV Modulation', 'Oscillator']",16,32.0,120.0,90.0,0.0,359.0,1445,5.0,3.0,Discontinued,0
+1301,A-138o,Doepfer,"['Mixer', 'Utility', 'Expander']",4,40.0,20.0,20.0,0.0,50.0,1443,4.5,6.0,Available,0
+1302,Running Order (black),Endorphin.es,"['Clock Generator', 'Clock Modulator', 'Sequencer', 'Random']",6,30.0,30.0,10.0,0.0,169.0,1443,3.57,7.0,Available,1
+1303,Multimode Envelope,WMD,"['Envelope Generator', 'LFO']",8,28.0,49.0,27.0,0.0,235.0,1441,4.37,27.0,Discontinued,0
+1304,Dubmix,Intellijel,"['Mixer', 'Panning', 'Quad']",28,47.0,280.0,275.0,0.0,625.0,1441,4.61,23.0,Discontinued,0
+1305,A-121-2,Doepfer,['Filter'],8,50.0,40.0,40.0,0.0,125.0,1435,3.75,4.0,Available,0
+1306,Wave Runner,Frequency Central,"['LFO', 'Digital']",4,48.0,14.0,9.0,0.0,169.0,1435,4.55,29.0,Available,0
+1307,Planar 180°,Intellijel,"['Controller', 'CV Modulation', 'Mixer', 'Panning', 'Quad', 'VCA']",14,38.0,103.0,95.0,0.0,359.0,1433,4.69,16.0,Discontinued,0
+1308,BD909 (WHITE),Tiptop Audio,['Drum'],8,36.0,34.0,21.0,,170.0,1431,4.6,5.0,Available,1
+1309,A-111-2,Doepfer,"['Oscillator', 'LFO']",14,55.0,70.0,50.0,0.0,250.0,1430,4.7,10.0,Available,0
+1310,Shelves,Mutable instruments,"['Filter', 'Equalizer']",16,,75.0,75.0,0.0,199.0,1430,3.69,16.0,Discontinued,1
+1311,Sewastopol II,Xaoc Devices,"['Comparator', 'Envelope Follower', 'Envelope Generator', 'PreAmp']",10,34.0,100.0,70.0,0.0,260.0,1429,4.67,12.0,Available,1
+1312,Play (Black panel),2hp,"['Digital', 'Drum', 'Sampling']",2,42.0,85.0,3.0,0.0,133.0,1429,3.6,5.0,Available,0
+1313,Pico Envelope Follower,Erica Synths,"['Distortion', 'Envelope Follower', 'PreAmp']",3,35.0,25.0,15.0,0.0,95.0,1428,4.33,3.0,Available,1
+1314,VCA-4MX,Cwejman,"['VCA', 'Quad', 'Mixer', 'Attenuator']",10,25.0,20.0,20.0,0.0,529.0,1427,4.5,10.0,,0
+1315,Poly,Polyend,"['CV Modulation', 'MIDI']",22,25.0,50.0,0.0,100.0,469.0,1426,4.15,13.0,Discontinued,0
+1316,A-102,Doepfer,['Filter'],8,60.0,30.0,10.0,0.0,80.0,1425,4.33,12.0,Available,0
+1317,16 Voice DEMON CORE OSCILLATOR,Supercritical Synthesizers,['Oscillator'],12,25.0,120.0,20.0,0.0,490.0,1425,5.0,10.0,Available,1
+1318,Tool-Box,Steady State Fate,"['Utility', 'Logic', 'Mixer', 'Polarizer', 'Switch', 'Comparator', 'CV Modulation', 'Waveshaper']",6,25.0,20.0,20.0,0.0,189.0,1424,4.9,21.0,Discontinued,1
+1319,ADDAC215,ADDAC System,"['Dual/Stereo', 'Sample and Hold', 'Slew Limiter', 'Random', 'Noise']",6,40.0,50.0,50.0,,125.0,1421,4.89,9.0,Available,0
+1320,Oneiroi,Befaco,"['Delay', 'Effect', 'Filter', 'Resonator', 'Reverb', 'Synth Voice']",30,25.0,200.0,60.0,0.0,484.0,1417,4.75,8.0,Available,0
+1321,Visual Cortex,LZX Industries,['Video'],26,45.0,180.0,220.0,0.0,765.0,1417,4.82,11.0,Discontinued,0
+1322,ADDAC112 Controls,ADDAC System,"['Digital', 'Sampling']",32,45.0,240.0,70.0,0.0,540.0,1416,4.25,4.0,Available,0
+1323,Unity,2hp,"['Mixer', 'Utility']",2,42.0,10.0,6.0,0.0,89.0,1414,2.8,5.0,Available,1
+1324,USB Extender 3U,Intellijel,"['MIDI', 'Multiple', 'Utility']",2,40.0,,,,33.0,1413,4.33,3.0,Available,1
+1325,Control Voltage Processor,Verbos Electronics,"['Attenuator', 'CV Modulation', 'Mixer', 'Slew Limiter', 'Envelope Generator', 'Function Generator', 'Utility', 'VCA']",18,30.0,85.0,83.0,0.0,535.0,1411,4.43,7.0,Available,0
+1326,Shuttle Control (black),Endorphin.es,"['MIDI', 'Power', 'Clock Generator', 'Controller', 'CV Modulation', 'Envelope Generator', 'Expression', 'Function Generator']",12,35.0,200.0,100.0,0.0,499.0,1411,3.75,8.0,Available,1
+1327,Rangoon,Big T Music,"['Effect', 'Filter', 'Oscillator']",12,,120.0,5.0,0.0,180.0,1411,4.6,5.0,Available,0
+1328,Stepper Acid,Transistor Sounds Labs,['Sequencer'],32,32.0,100.0,,,349.0,1409,4.76,21.0,,0
+1329,uO_c (aluminum panel),Grayscale,"['CV Modulation', 'Digital', 'Quad']",8,25.0,85.0,10.0,0.0,,1409,4.83,6.0,,1
+1330,AVert,2hp,"['Attenuator', 'Dual/Stereo', 'Utility']",2,42.0,9.0,5.0,0.0,79.0,1408,3.14,7.0,Available,1
+1331,Rnd v2 (Black Panel),2hp,"['Clock Generator', 'CV Modulation', 'Random']",2,42.0,40.0,16.0,0.0,88.0,1407,4.0,6.0,Available,1
+1332,Entity Bass Drum Synthesizer,Steady State Fate,"['Drum', 'Filter', 'Function Generator', 'Synth Voice']",14,16.0,61.0,91.0,0.0,305.0,1407,4.74,23.0,Discontinued,1
+1333,Black VC EG,Erica Synths,['Envelope Generator'],10,25.0,30.0,15.0,0.0,190.0,1406,4.8,5.0,Available,1
+1334,Midi to Clock V2,Erica Synths,"['Clock Generator', 'MIDI']",6,20.0,25.0,0.0,0.0,140.0,1405,4.29,17.0,Available,1
+1335,3340 VCO,Electrosmith,['Oscillator'],6,37.0,38.0,27.0,0.0,88.0,1404,4.57,7.0,Discontinued,0
+1336,Nerdseq – IO Expander,XOR Electronics,['Expander'],6,,,,,55.0,1400,4.5,6.0,Available,0
+1337,4x4x4,Manhattan Analog,"['Multiple', 'Quad']",4,10.0,,,,46.0,1399,4.5,6.0,Available,0
+1338,Domino,Eowave,"['Oscillator', 'Synth Voice', 'VCA']",10,37.0,50.0,26.0,,299.0,1398,4.8,15.0,Available,0
+1339,A-118,Doepfer,"['Noise', 'Random']",8,32.0,20.0,12.0,0.0,85.0,1397,3.8,10.0,Available,0
+1340,Amps,Intellijel,"['Distortion', 'Dual/Stereo', 'Dynamics', 'Polarizer', 'Ring Modulator', 'VCA', 'Mixer', 'Utility']",6,36.0,40.0,46.0,,127.0,1395,5.0,9.0,Available,1
+1341,dual xfade,Happy Nerding,"['CV Modulation', 'Dual/Stereo', 'Panning', 'Utility', 'VCA']",4,35.0,55.0,55.0,,149.0,1393,4.67,9.0,Available,0
+1342,μScale [v1],Intellijel,['Quantizer'],4,62.0,60.0,7.0,0.0,158.0,1392,4.4,10.0,Discontinued,0
+1343,MiniMod DH-ADSR Envelope (Dark Edition),AJH Synth,"['Envelope Generator', 'LFO']",10,26.0,30.0,12.0,0.0,266.0,1391,4.5,6.0,Available,0
+1344,CARA,Antumbra,"['Clock Generator', 'Clock Modulator', 'Quantizer', 'Random', 'Sequencer']",10,30.0,80.0,20.0,0.0,249.0,1390,4.33,6.0,Available,0
+1345,4xMUTE - black,Happy Nerding,"['Controller', 'Utility']",4,30.0,50.0,30.0,0.0,99.0,1388,4.0,9.0,Available,0
+1346,Mutable Instruments Clouds (Grayscale panel),Grayscale,"['Delay', 'Digital', 'Effect', 'Pitch Shifter ', 'Sampling']",18,25.0,120.0,10.0,0.0,299.0,1387,4.62,16.0,,1
+1347,Airstreamer,Endorphin.es,"['Envelope Generator', 'LFO', 'Oscillator', 'CV Modulation', 'Envelope Follower', 'Function Generator', 'Sample and Hold', 'Slew Limiter']",6,30.0,60.0,15.0,0.0,169.0,1387,3.5,8.0,Available,1
+1348,ADDAC506,ADDAC System,"['Envelope Follower', 'Envelope Generator', 'Function Generator', 'Quad', 'Random', 'Slew Limiter']",20,,200.0,150.0,0.0,340.0,1387,4.14,7.0,Available,0
+1349,6x MIX,Happy Nerding,['Mixer'],6,35.0,50.0,50.0,0.0,99.0,1386,4.8,5.0,Available,0
+1350,Gemini 2412 Dual SVF black,AJH Synth,"['Filter', 'Dual/Stereo']",28,24.0,50.0,45.0,0.0,400.0,1386,4.55,20.0,Available,0
+1351,Super Power,Synthrotek,['Power'],4,46.0,,,,199.0,1386,4.44,16.0,Discontinued,1
+1352,Quaid Megaslope,ALM Busy Circuits,"['CV Modulation', 'Envelope Generator', 'LFO', 'Sequencer', 'Slew Limiter', 'Function Generator']",19,32.0,70.0,35.0,,308.0,1385,5.0,8.0,Available,0
+1353,Clk,2hp,['Clock Generator'],2,45.0,38.0,7.0,0.0,80.0,1384,3.38,8.0,Available,1
+1354,Pico Noise,Erica Synths,"['Drum', 'Noise']",3,35.0,27.0,25.0,,110.0,1382,,,,1
+1355,BD808 (WHITE),Tiptop Audio,['Drum'],4,14.0,13.0,6.0,0.0,110.0,1383,4.8,5.0,Available,1
+1356,BITRAZER,Roland,"['Digital', 'Distortion', 'Effect', 'Filter', 'Function Generator', 'MIDI', 'Waveshaper']",21,59.0,450.0,0.0,0.0,299.0,1382,4.26,19.0,Discontinued,0
+1357,TOMS,Erica Synths,['Drum'],16,40.0,80.0,30.0,0.0,300.0,1382,4.0,5.0,Available,1
+1358,uO_C,CalSynth,"['Digital', 'Envelope Generator', 'LFO', 'Quantizer', 'Sequencer', 'Tuner', 'Utility']",8,25.0,85.0,10.0,,204.0,1380,4.62,8.0,Available,0
+1359,Black VCO,Erica Synths,['Oscillator'],12,25.0,40.0,36.0,,220.0,1380,5.0,7.0,Available,1
+1360,PPM,Mannequins,['Expander'],2,,25.0,22.0,0.0,,1377,,,,0
+1361,TIMBER,Bastl Instruments,"['VCA', 'Waveshaper', 'Distortion']",7,24.0,50.0,50.0,,170.0,1376,4.56,9.0,Available,0
+1362,Bell,2hp,"['Digital', 'Oscillator', 'Synth Voice']",2,45.0,86.0,3.0,0.0,133.0,1375,2.0,2.0,Available,1
+1363,Quantus Ampla,Noise Engineering,"['Mixer', 'Quad', 'Utility', 'VCA']",6,21.0,65.0,60.0,0.0,214.0,1375,4.57,7.0,Available,1
+1364,ADDAC112 Jacks,ADDAC System,"['Expander', 'Digital', 'Sampling']",13,45.0,,,,,1375,5.0,1.0,Available,0
+1365,Tymp Legio,Noise Engineering,"['Digital', 'Drum', 'Dual/Stereo', 'Dynamics', 'Effect', 'Oscillator', 'Synth Voice']",6,28.0,140.0,22.0,0.0,279.0,1372,4.0,6.0,Available,1
+1366,IDUM,Mystic Circuits,"['Clock Modulator', 'Effect', 'Frequency Divider', 'Looper', 'Quad', 'Random']",10,29.0,50.0,50.0,0.0,266.0,1370,4.74,19.0,Available,1
+1367,Atten/Mixer,Hikari Instruments,"['Attenuator', 'Mixer']",8,27.0,10.0,10.0,0.0,135.0,1370,4.4,10.0,Available,0
+1368,Poti II,Xaoc Devices,['Expander'],4,32.0,10.0,0.0,0.0,90.0,1367,4.75,4.0,Available,1
+1369,Pico LFO/S&H,Erica Synths,"['Clock Generator', 'LFO', 'Ring Modulator']",3,35.0,13.0,10.0,,80.0,1366,3.0,1.0,,1
+1370,Scanned,Qu-Bit Electronix,"['Digital', 'Oscillator', 'Distortion', 'Waveshaper']",16,23.0,98.0,13.0,0.0,359.0,1365,3.92,13.0,Available,1
+1371,NOISE,Malekko Heavy Industry,"['Noise', 'Random']",3,34.0,20.0,,0.0,125.0,1364,4.58,12.0,Available,0
+1372,Neutron Flux,Supercritical Synthesizers,"['Distortion', 'Dual/Stereo', 'Filter', 'PreAmp', 'Waveshaper']",12,25.0,150.0,120.0,0.0,495.0,1364,4.75,12.0,Available,1
+1373,LFO2 (Mk. II),Pittsburgh Modular,"['Dual/Stereo', 'LFO']",6,35.0,25.0,25.0,0.0,89.0,1364,3.65,17.0,Discontinued,0
+1374,DROID X7 Expander,Der Mann mit der Maschine,"['MIDI', 'Expander']",4,23.0,94.0,0.0,0.0,228.0,1364,4.74,35.0,Available,1
+1375,Preset,Polyend,"['Controller', 'CV Modulation', 'Digital', 'Quantizer', 'Sequencer']",22,24.0,170.0,11.0,0.0,356.0,1363,4.57,7.0,Discontinued,0
+1376,Kith Ruina,Noise Engineering,"['Distortion', 'Equalizer']",4,26.0,20.0,20.0,0.0,162.0,1363,4.0,7.0,Available,1
+1377,TriTone,Happy Nerding,"['Equalizer', 'Distortion', 'Filter']",6,45.0,55.0,65.0,,169.0,1361,4.6,10.0,Available,0
+1378,Mob of Emus,Rossum Electro-Music,"['Envelope Generator', 'LFO', 'Oscillator', 'Quantizer', 'Sample and Hold', 'CV Modulation', 'Digital', 'Random']",16,25.0,140.0,30.0,0.0,429.0,1360,4.67,12.0,Available,0
+1379,AI006 Stomp Box Adapter,AI Synthesis,"['Attenuator', 'External', 'PreAmp', 'Utility']",2,40.0,15.0,15.0,0.0,63.0,1359,2.75,4.0,Available,0
+1380,NUTONE,Plankton Electronics,"['Distortion', 'VCA', 'Dual/Stereo']",8,34.0,55.0,17.0,0.0,220.0,1358,4.58,12.0,Available,1
+1381,ROW POWER 25,4ms Company,['Power'],4,26.0,,,,92.0,1357,5.0,1.0,Available,0
+1382,Arcadian Rhythms,Synthrotek,"['Utility', 'Controller', 'Switch']",6,35.0,123.0,0.0,0.0,50.0,1355,4.06,17.0,Available,1
+1383,Mutant BD9,Hexinverter Électronique,"['Drum', 'Synth Voice']",13,30.0,50.0,50.0,0.0,222.0,1354,4.1,10.0,Available,1
+1384,A-138bV,Doepfer,"['Attenuator', 'Mixer', 'Quad']",8,35.0,10.0,10.0,0.0,69.0,1353,3.92,12.0,Available,0
+1385,Pivot 2,Joranalogue Audio Design,"['VCA', 'Mixer', 'Switch', 'Utility']",4,35.0,60.0,60.0,0.0,175.0,1352,4.5,8.0,Available,1
+1386,ES-6 mk3,Expert Sleepers,"['Expander', 'External', 'Utility']",4,50.0,182.0,53.0,0.0,179.0,1349,5.0,1.0,Available,0
+1387,Ripples (PCB Panel),Oscillosaurus,"['Filter', 'VCA']",8,15.0,35.0,35.0,0.0,169.0,1349,4.6,5.0,,0
+1388,μClouds,Instruō,"['Delay', 'Digital', 'Effect', 'Reverb', 'Dual/Stereo', 'Sampling']",8,25.0,110.0,10.0,0.0,295.0,1348,4.33,15.0,Discontinued,0
+1389,VC8,Erogenous Tones,"['VCA', 'Mixer']",18,23.0,80.0,70.0,0.0,389.0,1344,4.71,7.0,Available,0
+1390,FIELD KIT FX,KOMA Elektronik,"['Delay', 'Effect', 'Filter', 'Mixer', 'Reverb', 'Sequencer']",36,,240.0,170.0,0.0,229.0,1344,4.31,13.0,Available,0
+1391,1630 Bode Frequency Shifter,Behringer,"['Pitch Shifter ', 'Effect', 'Phase Shifter', 'Ring Modulator']",14,30.0,110.0,110.0,0.0,150.0,1343,3.19,16.0,Available,0
+1392,SWT16+,Robaux,"['Clock Generator', 'Digital', 'Drum', 'Sequencer']",20,30.0,60.0,0.0,0.0,250.0,1343,4.44,9.0,Available,1
+1393,cuïr,Instruō,['External'],4,30.0,30.0,30.0,,249.0,1342,3.5,6.0,Available,0
+1394,Trim (Black Panel),2hp,"['Attenuator', 'Dual/Stereo']",2,15.0,,,,41.0,1341,3.33,6.0,Available,1
+1395,Timbre,Dannysound,"['Mixer', 'Waveshaper']",6,48.0,47.0,43.0,0.0,120.0,1340,4.38,8.0,Available,0
+1396,Noise Square,Bastl Instruments,"['Noise', 'Oscillator']",5,35.0,35.0,15.0,0.0,90.0,1340,4.35,17.0,,1
+1397,Quadrantid Swarm,Eowave,"['Reverb', 'Synth Voice', 'Digital', 'Oscillator', 'Filter', 'MIDI', 'Sequencer', 'LFO']",41,28.0,170.0,70.0,0.0,549.0,1340,4.71,24.0,Available,0
+1398,Pole-Zero,Steady State Fate,"['Filter', 'VCA', 'Distortion']",6,25.0,20.0,20.0,0.0,219.0,1340,4.47,15.0,Discontinued,1
+1399,A-142-2,Doepfer,"['Dual/Stereo', 'Envelope Generator', 'VCA']",8,45.0,60.0,60.0,,150.0,1341,4.71,7.0,Available,0
+1400,Euphoria,Dreadbox,"['Effect', 'Phase Shifter']",10,35.0,58.0,52.0,,99.0,1337,4.0,6.0,Available,0
+1401,Sinc Iter,Noise Engineering,"['Noise', 'Oscillator', 'Quantizer', 'Digital', 'LFO', 'Random']",4,28.0,80.0,10.0,90.0,249.0,1336,4.74,19.0,Discontinued,1
+1402,SIG+ 4 Track Stochastic Inspiration Generator,Stochastic Instruments,"['Clock Generator', 'Controller', 'CV Modulation', 'Envelope Generator', 'Oscillator', 'Random', 'Sequencer']",22,32.0,65.0,0.0,0.0,465.0,1335,4.85,13.0,Available,1
+1403,Trigger Man,Delptronics,['Sequencer'],8,30.0,56.0,0.0,0.0,199.0,1333,4.62,24.0,Available,1
+1404,AXXENT,WMD,"['Expander', 'Sequencer']",4,43.0,40.0,0.0,,268.0,1332,3.0,1.0,Available,0
+1405,DIY Polivoks VCO II,Erica Synths,['Oscillator'],12,35.0,34.0,36.0,,125.0,1332,4.67,6.0,Available,1
+1406,ABC - Black,Bastl Instruments,['Mixer'],5,35.0,10.0,10.0,,109.0,1328,4.0,1.0,Available,0
+1407,QARV,After Later Audio,"['CV Modulation', 'Envelope Follower', 'Envelope Generator', 'Function Generator', 'Mixer', 'Slew Limiter', 'Synth Voice', 'VCA']",20,25.0,215.0,150.0,,273.0,1327,4.25,8.0,Available,0
+1408,Black Multimode VCF,Erica Synths,['Filter'],10,35.0,27.0,29.0,,160.0,1327,4.67,6.0,Available,0
+1409,FrequenSteiner,Livewire Electronics,['Filter'],16,38.0,40.0,40.0,0.0,249.0,1324,4.15,26.0,,0
+1410,Eloquencer (Silver),Winter Modular,"['Random', 'Sequencer']",38,35.0,170.0,50.0,,550.0,1323,4.67,12.0,Available,0
+1411,Hertz Donut,Industrial Music Electronics,"['Dual/Stereo', 'Oscillator', 'LFO', 'Waveshaper', 'Ring Modulator']",17,35.0,140.0,11.0,0.0,399.0,1322,4.5,44.0,Discontinued,0
+1412,Bin Seq (Black),Noise Engineering,['Sequencer'],4,26.0,30.0,8.0,0.0,162.0,1321,4.22,9.0,Available,1
+1413,RING,Random*Source,['Ring Modulator'],10,,15.0,15.0,0.0,290.0,1317,5.0,17.0,Available,0
+1414,Quantum Rainbow 2 (Black and Gold Edition),Steady State Fate,"['Noise', 'Random']",4,23.0,23.0,23.0,0.0,165.0,1317,4.62,8.0,Available,1
+1415,A-172,Doepfer,['Logic'],4,30.0,10.0,10.0,0.0,50.0,1316,4.48,21.0,Discontinued,0
+1416,Dual Delay,Modcan,"['Delay', 'Dual/Stereo', 'Effect']",20,26.0,40.0,10.0,0.0,539.0,1316,4.63,38.0,,0
+1417,VCA-4MX,Cwejman,"['VCA', 'Attenuator', 'Mixer', 'Quad']",10,,30.0,30.0,0.0,660.0,1316,4.82,11.0,,0
+1418,VCF-02,Schippmann,['Filter'],24,33.0,150.0,150.0,0.0,625.0,1314,4.68,38.0,Discontinued,0
+1419,uO_c / micro Ornament and Crime,Sylph Modular,"['Digital', 'Envelope Generator', 'LFO', 'Quantizer', 'Sequencer', 'Tuner', 'Utility']",8,30.0,85.0,10.0,0.0,195.0,1313,3.67,3.0,Available,1
+1420,Avert (Black Panel),2hp,"['Attenuator', 'Dual/Stereo', 'Utility']",2,42.0,9.0,5.0,0.0,79.0,1309,3.0,2.0,Available,1
+1421,Big T Music Gap Banisher 2hp,Big T Music,['Blank Panel'],2,,,,,4.0,1308,5.0,1.0,Available,0
+1422,A-190-3v,Doepfer,['MIDI'],6,55.0,60.0,10.0,0.0,140.0,1308,3.75,8.0,Available,0
+1423,6x MIX - black,Happy Nerding,['Mixer'],6,35.0,50.0,50.0,0.0,99.0,1307,5.0,7.0,Available,0
+1424,FADE,Antumbra,"['Attenuator', 'Controller', 'Mixer', 'Polarizer', 'Utility']",4,20.0,19.0,12.0,0.0,13.0,1304,4.5,2.0,Available,0
+1425,Erfurt,Xaoc Devices,"['Clock Generator', 'Digital', 'Expander', 'Frequency Divider', 'Oscillator']",6,,25.0,30.0,0.0,150.0,1302,4.6,5.0,Available,1
+1426,Ataraxic Iteritas,Noise Engineering,"['Digital', 'Oscillator']",10,28.0,80.0,5.0,90.0,359.0,1302,4.89,9.0,Discontinued,1
+1427,Fusion VCF2,Erica Synths,"['Filter', 'Tube']",14,35.0,30.0,160.0,,290.0,1296,4.57,7.0,Available,1
+1428,Z2040,Tiptop Audio,"['Filter', 'VCA']",8,42.0,20.0,20.0,0.0,215.0,1296,4.06,17.0,Available,1
+1429,Capt’n Big-O,Cre8audio,"['Oscillator', 'Waveshaper', 'VCA']",14,26.0,120.0,108.0,,150.0,1295,4.82,11.0,Available,0
+1430,Richter Anti-Oscillator,Malekko Heavy Industry,"['Oscillator', 'LFO']",14,25.0,40.0,40.0,0.0,275.0,1295,4.48,23.0,,0
+1431,Bell (Black Panel),2hp,"['Digital', 'Oscillator', 'Synth Voice']",2,45.0,86.0,3.0,0.0,133.0,1294,3.71,7.0,Available,1
+1432,A-120V,Doepfer,['Filter'],8,53.0,30.0,30.0,0.0,125.0,1294,4.27,11.0,Available,0
+1433,A-184-1v,Doepfer,"['Ring Modulator', 'Sample and Hold', 'Slew Limiter']",4,40.0,40.0,30.0,0.0,109.0,1293,4.62,8.0,Available,0
+1434,Vhikk X,Forge TME,"['Digital', 'Effect', 'Oscillator', 'Synth Voice']",24,15.0,100.0,10.0,0.0,530.0,1293,4.94,16.0,Available,1
+1435,Bin Seq,Noise Engineering,['Sequencer'],4,26.0,30.0,8.0,0.0,162.0,1292,3.69,13.0,Available,1
+1436,Spring Reverb,Music Thing Modular,"['Effect', 'Reverb']",6,25.0,75.0,25.0,0.0,80.0,1290,4.12,16.0,Discontinued,0
+1437,Rotating Clock Divider v2 (5VSEL Jumper set to EXT),4ms Company,"['Clock Modulator', 'Frequency Divider']",4,35.0,19.0,4.0,14.0,166.0,1289,4.5,2.0,Available,0
+1438,Comb,2hp,"['Delay', 'Filter']",2,42.0,87.0,28.0,0.0,107.0,1288,4.12,16.0,Available,1
+1439,ECHOZ (BLACK),Tiptop Audio,"['Delay', 'Digital', 'Effect']",8,40.0,130.0,20.0,0.0,210.0,1287,4.62,8.0,Available,0
+1440,A-133,Doepfer,"['Dual/Stereo', 'Polarizer', 'VCA', 'Ring Modulator']",8,50.0,30.0,20.0,0.0,70.0,1287,4.0,16.0,Discontinued,0
+1441,1HP Black Acrylic Blind panel,ProModular,['Blank Panel'],1,,,,,4.0,1287,5.0,1.0,,0
+1442,AI002 Mixer,AI Synthesis,['Mixer'],6,20.0,4.0,4.0,0.0,30.0,1285,4.2,10.0,,1
+1443,Ornament and Crime (Silver),Big T Music,"['CV Modulation', 'Digital', 'Envelope Generator', 'Quad', 'Quantizer', 'Sequencer', 'Utility']",8,30.0,85.0,10.0,0.0,207.0,1285,4.67,3.0,Available,0
+1444,LDB-2e Analog Drums,Delptronics,['Drum'],6,40.0,28.0,20.0,0.0,174.0,1283,3.8,10.0,Available,1
+1445,Aperture,RYO,"['Distortion', 'Filter', 'Low Pass Gate', 'VCA', 'Dynamics']",8,27.0,50.0,70.0,,197.0,1278,4.53,17.0,Available,0
+1446,Power Entry PE-1,Intellijel,['Power'],4,40.0,,,,26.0,1277,4.88,8.0,Available,0
+1447,Wiard Oscillator,Malekko Heavy Industry,"['Oscillator', 'LFO']",14,35.0,90.0,90.0,,194.0,1277,4.2,30.0,,0
+1448,SD909,Tiptop Audio,"['Drum', 'Noise']",8,46.0,35.0,30.0,,190.0,1276,4.0,6.0,Available,1
+1449,Hector (Black Panel),Poly Effects,"['Delay', 'Effect', 'Reverb', 'Sequencer', 'Synth Voice', 'MIDI']",30,18.0,340.0,10.0,,512.0,1275,4.88,8.0,Available,0
+1450,DROID B32 Controller,Der Mann mit der Maschine,['Controller'],10,33.0,24.0,0.0,0.0,268.0,1275,5.0,24.0,Available,1
+1451,Audio I/O (2023),Intellijel,"['Attenuator', 'Dual/Stereo', 'External', 'Utility']",10,39.0,75.0,70.0,,221.0,1272,5.0,5.0,Available,1
+1452,Pixie,After Later Audio,"['Oscillator', 'Synth Voice', 'Digital', 'Drum', 'LFO', 'Noise']",12,25.0,50.0,5.0,0.0,258.0,1271,3.67,3.0,Available,0
+1453,Bytom,Xaoc Devices,"['Utility', 'Logic']",6,25.0,10.0,10.0,0.0,80.0,1270,4.6,10.0,Available,0
+1454,Typhoon - Black aluminum,CalSynth,"['Delay', 'Digital', 'Dual/Stereo', 'Effect', 'Panning', 'Pitch Shifter ', 'Reverb']",16,25.0,160.0,35.0,0.0,221.0,1269,4.73,11.0,Available,1
+1455,Boogie Filter,Malekko Heavy Industry,"['Filter', 'Low Pass Gate']",12,25.0,50.0,50.0,,220.0,1267,4.38,29.0,,0
+1456,Sport Modulator,Toppobrillo,"['LFO', 'Sample and Hold', 'Slew Limiter', 'Dual/Stereo', 'Comparator', 'Clock Generator', 'CV Modulation', 'Function Generator']",12,36.0,30.0,30.0,0.0,221.0,1267,4.45,29.0,Discontinued,0
+1457,Piston Honda,Industrial Music Electronics,"['Oscillator', 'Digital', 'Waveshaper']",15,50.0,120.0,40.0,0.0,356.0,1268,4.41,37.0,Discontinued,0
+1458,ADDAC200B 2HP Buffered Multiples,ADDAC System,"['Multiple', 'Dual/Stereo']",2,15.0,10.0,,,60.0,1266,4.57,7.0,Available,0
+1459,Pico VCO2,Erica Synths,['Oscillator'],3,35.0,21.0,19.0,0.0,100.0,1264,5.0,2.0,Available,1
+1460,Basil,Bastl Instruments,"['Delay', 'Digital', 'Dual/Stereo', 'Effect', 'Looper']",8,24.0,90.0,20.0,,243.0,1262,4.0,5.0,Available,0
+1461,6 Channel Stereo Mixer,Sputnik Modular,"['External', 'Mixer', 'Panning']",20,40.0,70.0,50.0,50.0,249.0,1262,3.88,16.0,Available,0
+1462,mmT,ALM Busy Circuits,['Expander'],3,38.0,30.0,0.0,,86.0,1262,5.0,2.0,Available,0
+1463,Dual VCA,Złob,"['Dual/Stereo', 'Panning', 'Utility', 'VCA']",2,,15.0,15.0,,76.0,1261,4.5,4.0,Available,1
+1464,Black Polivoks VCF,Erica Synths,['Filter'],12,25.0,11.0,11.0,,160.0,1261,4.6,5.0,,1
+1465,PM Channels,WMD,['Expander'],10,45.0,120.0,120.0,0.0,318.0,1260,4.88,8.0,Discontinued,0
+1466,Envelope (Mk. II),Pittsburgh Modular,"['Envelope Generator', 'Function Generator', 'LFO', 'Envelope Follower', 'Oscillator', 'Slew Limiter', 'Waveshaper']",8,37.0,30.0,15.0,0.0,145.0,1259,4.56,16.0,Discontinued,0
+1467,ADSRjr,Circuit Abbey,"['Envelope Generator', 'LFO']",4,53.0,20.0,8.0,,155.0,1257,4.31,13.0,,0
+1468,ATN8,Antumbra,"['Attenuator', 'Mixer', 'Polarizer', 'Utility']",8,20.0,133.0,126.0,0.0,160.0,1255,4.12,17.0,Available,0
+1469,Euro DDL,Eventide,"['Delay', 'Effect']",16,40.0,200.0,100.0,0.0,399.0,1255,4.55,11.0,Available,0
+1470,Rachael,Black Corporation,"['Envelope Generator', 'LFO', 'Oscillator', 'Ring Modulator']",14,,150.0,100.0,,314.0,1254,4.8,5.0,Available,0
+1471,A-174-4 Joy Stick II Black Edition,Doepfer,"['Controller', 'CV Modulation']",12,50.0,50.0,20.0,0.0,199.0,1254,4.5,2.0,Available,0
+1472,Xer Dualis,Noise Engineering,"['Mixer', 'Quad', 'Utility', 'Dual/Stereo']",6,23.0,40.0,40.0,0.0,203.0,1252,5.0,2.0,Available,1
+1473,A-130-8v,Doepfer,"['VCA', 'Mixer', 'Quad']",6,40.0,50.0,50.0,0.0,100.0,1251,5.0,2.0,Available,0
+1474,Daisy Patch,Electrosmith,"['Digital', 'Effect', 'MIDI', 'Quad', 'Sampling']",20,28.0,95.0,95.0,0.0,294.0,1249,4.0,5.0,Available,0
+1475,LFO,2hp,"['CV Modulation', 'LFO']",2,34.0,43.0,16.0,0.0,134.0,1250,3.75,4.0,Discontinued,1
+1476,ZVERB (WHITE),Tiptop Audio,"['Digital', 'Reverb', 'Effect']",8,40.0,100.0,20.0,0.0,199.0,1249,5.0,3.0,Available,0
+1477,LPG,Synthrotek,"['Low Pass Gate', 'VCA', 'Filter', 'Dual/Stereo']",4,57.0,45.0,45.0,0.0,125.0,1249,3.69,16.0,Available,1
+1478,Pulses Mk II (Black),Music Thing Modular,['Expander'],4,25.0,10.0,0.0,0.0,41.0,1248,4.4,5.0,Available,0
+1479,Blank 2Hp,NANO Modules,['Blank Panel'],2,,,,,4.0,1246,4.0,7.0,Available,0
+1480,Fusion VCO,Erica Synths,"['Oscillator', 'Digital', 'Tube']",24,35.0,215.0,185.0,0.0,425.0,1243,4.62,8.0,,1
+1481,Double Andore,Industrial Music Electronics,"['Digital', 'Dual/Stereo', 'Envelope Generator', 'VCA', 'LFO', 'Mixer']",21,40.0,175.0,70.0,0.0,356.0,1244,4.71,17.0,Discontinued,0
+1482,Turing Machine (Spirograph),Music Thing Modular,"['Noise', 'Random', 'Sequencer']",10,18.0,40.0,,,90.0,1242,4.23,22.0,Discontinued,0
+1483,Monsoon,Big T Music,"['Delay', 'Reverb', 'Sampling']",12,25.0,120.0,10.0,0.0,320.0,1240,4.8,5.0,Available,0
+1484,MinEq,Złob,"['Equalizer', 'Utility']",2,,10.0,10.0,,63.0,1239,5.0,2.0,Available,1
+1485,Pachinko (Black),Michigan Synth Works,"['Clock Generator', 'Clock Modulator', 'Quantizer', 'Random', 'Sequencer']",12,,80.0,20.0,0.0,223.0,1239,4.75,4.0,Available,0
+1486,Mix6,Bubblesound Instruments,"['Mixer', 'Dual/Stereo']",5,25.0,24.0,7.0,0.0,124.0,1237,4.75,4.0,Available,0
+1487,MiniMod Gain Switch Multi (Dark Edition),AJH Synth,"['Expander', 'Multiple']",2,26.0,,,,86.0,1237,5.0,4.0,Available,0
+1488,VCO-6 Multi Output Oscillator (White),Cwejman,"['LFO', 'Oscillator']",14,20.0,60.0,60.0,,498.0,1236,5.0,3.0,,0
+1489,DS-M,Synthrotek,"['Drum', 'Noise', 'Oscillator', 'VCA', 'Synth Voice']",8,44.0,20.0,10.0,,131.0,1236,3.85,26.0,Available,1
+1490,MST Stereo Output Mixer,Synthrotek,"['Mixer', 'Panning', 'Utility', 'Attenuator', 'Dual/Stereo']",6,32.0,13.0,10.0,0.0,58.0,1235,4.08,24.0,Available,1
+1491,Radio Music,Music Thing Modular,"['Random', 'Sampling']",4,40.0,75.0,8.0,0.0,103.0,1234,4.45,20.0,Available,0
+1492,Bartender,After Later Audio,"['Mixer', 'Dual/Stereo', 'Panning', 'VCA']",24,35.0,260.0,225.0,0.0,400.0,1234,5.0,5.0,Available,0
+1493,English Tear,Industrial Music Electronics,"['Attenuator', 'Controller', 'External', 'Polarizer']",8,29.0,23.0,23.0,0.0,145.0,1233,4.14,14.0,Available,0
+1494,MCFx2,ALM Busy Circuits,"['Filter', 'Dual/Stereo']",14,32.0,85.0,85.0,0.0,247.0,1233,3.0,3.0,Available,0
+1495,DROID M4 - Motor Fader Unit,Der Mann mit der Maschine,['Controller'],14,42.0,350.0,0.0,0.0,488.0,1235,5.0,26.0,Available,1
+1496,ADE-50 3x Lin VCA,Abstract Data,['VCA'],4,40.0,60.0,55.0,0.0,175.0,1232,4.5,4.0,Available,1
+1497,Galilean Moons,Hexinverter Électronique,"['Digital', 'Envelope Generator', 'Function Generator', 'Synth Voice', 'VCA', 'Dual/Stereo']",18,30.0,88.0,65.0,0.0,269.0,1231,4.27,11.0,Available,1
+1498,VCO-2RM,Cwejman,"['Oscillator', 'Ring Modulator', 'Dual/Stereo']",20,40.0,75.0,75.0,,679.0,1231,4.75,24.0,,0
+1499,Pico SCALE,Erica Synths,"['Attenuator', 'CV Modulation', 'Utility']",3,35.0,24.0,8.0,0.0,60.0,1230,4.33,6.0,,1
