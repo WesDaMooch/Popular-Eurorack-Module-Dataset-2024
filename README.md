@@ -28,4 +28,6 @@ A collection of eurorack module datasets (ranging from 1000 - 8000 modules) prov
 - <code>Available</code> Information regarding whether the module is currently being produced. <br>
 - <code>Approved</code> Has the module’s specifications been approved by the manufacturer. 
 
+<br>
 
+Take the code with a pinch of salt, especially the Extracting and Cleaning scripts. It was put together pretty quickly for a university project, so it's just meant to get the job done, not be super efficient. Though I am confident in the quality of the datasets. Feel free to make the code better and use the data! 
