@@ -13,9 +13,9 @@ A collection of eurorack module datasets (ranging from 1000 - 8000 modules) prov
 <br>
 
 ### Attributes
-
 - <code>Name</code> The name of the module. <br>
 - <code>Manufacturer</code> Name of the Company that designed the module. <br>
+- <code>Functions</code> List of features that the module has been tagged with. <br>
 - <code>HP</code> Size of the front panel in Horizontal Pitch, where one HP is 5.08mm. <br>
 - <code>Depth</code> Distance from the font panel to the back of the module in mm. <br>
 - <code>+12V (mA)</code> Current draw of the positive 12-volt rail. <br>
@@ -26,7 +26,6 @@ A collection of eurorack module datasets (ranging from 1000 - 8000 modules) prov
 - <code>Rating</code> A mean average of user ratings from 0-5. <br>
 - <code>Votes</code> Number of users who left a rating. <br>
 - <code>Available</code> Information regarding whether the module is currently being produced. <br>
-- <code>Approved</code> Has the module’s specifications been approved by the manufaacturer.
-
+- <code>Approved</code> Has the module’s specifications been approved by the manufacturer. 
 
 
